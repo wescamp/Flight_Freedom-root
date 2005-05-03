@@ -1,0 +1,2040 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-05-03 09:49+0200\n"
+"PO-Revision-Date: 2005-05-03 09:49+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: Flight_Freedom.cfg:23
+msgid "Flight to Freedom"
+msgstr ""
+
+#: Flight_Freedom.cfg:27
+msgid "(hardest)"
+msgstr ""
+
+#: Flight_Freedom.cfg:27
+msgid "Dissident"
+msgstr ""
+
+#: Flight_Freedom.cfg:27
+msgid "(easiest)"
+msgstr ""
+
+#: Flight_Freedom.cfg:27
+msgid "Slave"
+msgstr ""
+
+#: Flight_Freedom.cfg:27
+msgid "Rebel"
+msgstr ""
+
+#: Flight_Freedom.cfg:29
+msgid "Lead Malakar and his Drake tribe to freedom from the humans!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:3
+msgid "Betrayal"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:43
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:80
+msgid ""
+"After leaving the cave, Malakar ended up in a mountainous area of the Isle, "
+"only to have the traitor Theracar steal half of his gold."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:85
+msgid "Pay us 500 gold or we will kill you!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:90
+msgid "Shall I pay 500 gold?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:93
+msgid "Very well. Here is 500 gold pieces."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:109
+msgid "Fool! Die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:128
+msgid "You can't pay! Die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:140
+msgid "No!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:145
+msgid "Die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:169
+msgid "Here is the 500 gold!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Betrayal.cfg:180
+msgid "Die traitor! Die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:3
+msgid "Blockade"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:69
+msgid "Move the Unforgiver to the East"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:70
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:51
+#: Flight_Freedom/scenarios/Landfall.cfg:89
+#: Flight_Freedom/scenarios/Landfall.cfg:255
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:51
+msgid "Destruction of the Unforgiver"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:138
+msgid "After defeating the human, Malakar and Kogw entered the Unforgiver."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:143
+msgid ""
+"However, when Malakar was a month out, he found himself in a place where "
+"Merman and Nagas were fighting an age-old war."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:149
+msgid "(Malakar) We must get through!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blockade.cfg:166
+msgid "(Kogw) On to Morogor!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:3
+msgid "Blue River"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:73
+msgid "I must secure the Blue River, so I can sail out of Wesnoth!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:83
+msgid "Kogw"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:108
+msgid "Psst! Those humans giving you trouble? I can help!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:113
+msgid "How?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:118
+msgid ""
+"I'm the leader of a band of pirates. Those damn elves have been chasing us."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:123
+msgid "Kill the Elves, and we'll join you."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:128
+msgid "Why should I trust you, human?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:133
+msgid ""
+"Because you have to, idiot. If you want to leave this place, you'll have to "
+"do it by sea."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:138
+msgid "Stupid human, what do you think those things on our backs are?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:143
+msgid ""
+"The ocean winds blow with great speed. You cannot fly against them. And what "
+"will become of your spearmen?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:148
+msgid "How DARE you insult my clashers, puny softskin!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:153
+msgid ""
+"You'll have to leave them behind. What a loss for the 'great lord of the "
+"drakes'."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:158
+msgid "Fine. But you had better prove your worth!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:170
+#: Flight_Freedom/scenarios/Rockfall.cfg:241
+msgid "AAAAH!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:175
+msgid "Very well, we will aid you."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:180
+msgid ""
+"And how do I guarantee that you will not kill us? Swear on the fire of Gar-"
+"Alagar, king of the gods of Morogor, an oath to me!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:185
+msgid "Upon the eyes of my gods I swear my loyalty."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:190
+msgid ""
+"Do not mention your 'gods' again, infidel human. I see I will have to teach "
+"you manners."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:195
+msgid ""
+"Swear by Gar-Alagar, king of the gods of Morogor, in the future, or you will "
+"be sacrificed to him, heathen."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:212
+msgid "To the ocean!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:218
+msgid "I still suffer from my enslavement! I cannot fly that far!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Blue_River.cfg:223
+msgid "Very well. We shall sail."
+msgstr ""
+
+#: Flight_Freedom/units/Caravan.cfg:6 Flight_Freedom/scenarios/Caravan.cfg:3
+#: Flight_Freedom/scenarios/Caravan.cfg:140
+msgid "Caravan"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:63
+msgid "Destroy the caravan"
+msgstr ""
+
+#: Flight_Freedom/utils/objectives.cfg:16
+#: Flight_Freedom/scenarios/Manor.cfg:90
+#: Flight_Freedom/scenarios/Rockfall.cfg:66
+#: Flight_Freedom/scenarios/Rockfall.cfg:134
+#: Flight_Freedom/scenarios/Rockfall.cfg:205
+#: Flight_Freedom/scenarios/Rebellion.cfg:86
+#: Flight_Freedom/scenarios/Caravan.cfg:64
+msgid "Death of Malakar"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:65
+msgid "Caravan is destroyed by wolves"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:66
+msgid "Caravan escapes"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:153
+msgid ""
+"After killing the man and torching his house, Malakar headed out to "
+"intercept the caravan."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:158
+msgid "Now that I have freed the tribe, I have true warriors at hand!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:211
+msgid "The caravan must not enter the hills! Charge!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:245
+msgid "No! The caravan has escaped into the hills!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:292
+msgid "500 gold! This will go a long way to our cause!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Caravan.cfg:318
+msgid "No! The wolves have destroyed the gold!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:3
+msgid "The Drake Escape"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:87
+msgid "Move Malakar to the cave entrance"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:129
+msgid "I have eluded them for now."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:134
+msgid "You wish!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:139
+msgid "Humans! Servants of Good! Die you innocent people!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:144
+msgid "We must go for the cave entrance!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:153
+msgid "Why can't we work together against the drakes?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:158
+msgid "Very well, we are allies for now."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:189
+msgid "Underground!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:242
+#: Flight_Freedom/scenarios/Landfall.cfg:489
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:274
+msgid "A spirit has attacked!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:292
+msgid "They pursue us! We must hurry!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:325
+msgid "*gasp* They slaughtered that village's inhabitants in cold blood!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:334
+msgid "They have summoned reinforcements, it is hopeless."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:3
+msgid "Endgame"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:148
+msgid ""
+"After liberating his home, Malakar and Kamalar mounted a joint offensive "
+"against the capital city of Weswyt."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:159
+msgid ""
+"Malakar would command the saurians, and the drake army would be split "
+"between them."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:166
+msgid ""
+"Malakar and Kamalar would lead the main force, and the saurian commander, "
+"Kzzklk, would lead his force of saurians, in hopes of outflanking the humans."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:173
+msgid "So this is what the bastards did with our city!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:178
+msgid "Yes. The humans have defiled the Temple of Gar-Alagar!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:183
+msgid "I will kill meeeeself ssssome humanssss!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:188
+msgid "Now I will get revenge for my enslavement!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:193
+msgid "Well said, brother. THE FIGHT FOR FREEDOM BEGINS HERE!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:213
+msgid "Theeere are nooooo mmmore sssssaurians lleft."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:239
+msgid "I dddddie! Fffight ffor meee...avvvennnnge...kkkill huuumansssss..."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:248
+msgid "NOOOOOOOO! I commit suicide!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:286
+msgid "GUARDS!!! Slay them all!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:312
+msgid "Morogor is ours!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:324
+msgid "But this is bittersweet. My brother is dead."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:329
+msgid "He died fighting for you. Like any of your other soldiers would."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:334
+msgid "He was a true warrior."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:132
+#: Flight_Freedom/scenarios/Endgame.cfg:348
+msgid "Brother!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:353
+msgid "I am gone! Fight on against the humans without me!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:170
+#: Flight_Freedom/scenarios/Endgame.cfg:369
+msgid "Kzzklk"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:421
+msgid "At yooourrr ccccommaaaand!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:448
+msgid "They have fortified the entrance!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:521
+msgid "Help us! The humans are trying to kill us!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:548
+msgid ""
+"Greetings. My name is James T. Picard. I am a soldier from 500 years in the "
+"future.  My time machine has just broken down. I am at your service."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Endgame.cfg:575
+msgid "Malfunction! YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:3
+msgid "Epilogue"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:17
+msgid ""
+"With the seizure of Weswyt, Morogor was once again the homeland of the "
+"Drakes."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:21
+msgid ""
+"Malakar was crowned King of the Drakes, for saving his people from the hands "
+"of the humans."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:24
+msgid ""
+"With the might of all the other drake tribes behind him, Malakar was able to "
+"strike repeatedly at the humans, and liberate their brothers still in "
+"captivity."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:28
+msgid ""
+"Malakar lived to the ripe old age of 133. It was rumored that a massive "
+"firestorm erupted when he died, engulfing half of Morogor."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:32
+msgid "Kogw lived to be 47, and was a noble in Malakar's court."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:36
+msgid ""
+"For hundreds of years afterward, Malakar was remembered as one of the heroes "
+"of the drakes."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:40
+msgid ""
+"Eventually, he and Kogw were deified. Their spirits remained to watch over "
+"the drakes from above."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:62
+msgid "Take your place at the throne"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Epilogue.cfg:117
+msgid "VICTORY IS OURS!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Exodus.cfg:3
+msgid "The Exodus"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Exodus.cfg:74
+msgid "We have reached our landing site!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Exodus.cfg:79
+msgid "It is overrun by humans. Let us kill them!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Exodus.cfg:97
+msgid "To Morogor!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:3
+msgid "Gate of Storms"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:49
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:111
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:139
+msgid "Destroy the Gate of Storms"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:50
+msgid "Move a unit onto the Gate of Storms"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:70
+msgid "This is the Gate of Storms!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:75
+msgid ""
+"So what? I ought to leave it alone, make the humans pay for what they have "
+"done!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:80
+msgid "If you were to leave it alone, you will doom Morogor as well."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:85
+msgid "To arms! Destroy it!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:108
+msgid "It is invulnerable to physical force! It must be destroyed with fire!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:112
+msgid ""
+"Move a Drake Burner, Fire Drake, or Inferno Drake onto the Gate of Storms"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:120
+msgid "A Fire or Inferno Drake is necessary to destroy the Gate of Storms."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:136
+msgid "My fire is too weak. Use a Fire or Inferno Drake!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:140
+msgid "Move a Fire Drake or Inferno Drake onto the Gate of Storms"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Gate_of_Storms.cfg:155
+msgid ""
+"I call upon Gar-Hagar, god of all that is burning to destroy this portal of "
+"evil!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:3
+msgid "Hordes of the Foul Undead"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:54
+msgid "Move Malakar to the ruined keep"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:55
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:114
+#: Flight_Freedom/scenarios/Landfall.cfg:88
+#: Flight_Freedom/scenarios/Landfall.cfg:254
+msgid "Defeat both enemy leaders"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:88
+msgid ""
+"After defeating the rebels, Malakar left the valley, his intent to go to the "
+"landing site and sail to his homeland."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:93
+msgid ""
+"Unfortunately, Malakar soon encountered undead, no doubt originating from "
+"the Gate of Storms."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:98
+msgid "The evil hordes march upon us!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:103
+msgid "We will vanquish them!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Hordes_Undead.cfg:127
+msgid "They use gargoyles!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:3
+msgid "Landfall"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:87
+msgid "Move the Unforgiver to the pier"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:118
+msgid "(Malakar) We have made landfall!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:124
+msgid "(Kogw) Be wary, this is not Morogor, but the Isle of Storms."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:130
+msgid ""
+"(Kogw) Thousands of years ago, according to legend, a great wizard was "
+"exiled here. While he was here, he opened a gate to the netherworld and "
+"contacted the Lich-Lords, the kings of the netherworld, to attempt to "
+"conquer the world thousands of years ago."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:136
+msgid ""
+"(Kogw) However, the Lich-Lord was hostile, and killed the necromancer. Then, "
+"the Lich-Lord created the race of orcs, which killed the Lich-Lord. Although "
+"both the necromancer and the Lich-Lord are long gone, the orcs remain. Upon "
+"his death, the portal shut, but opened every 400 years, releasing another "
+"Lich-Lord onto the world. The last time it opened, the Lich-Lord Jeyvan was "
+"unleashed, who created a portal to our ancestral home, known only as the "
+"Green Isle. He, along with the orcs, drove my ancestors from the Green Isle."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:142
+msgid ""
+"(Kogw) If the legend is true, in only a few years, the portal will open "
+"again, summoning another Lich-Lord, to finish what Jeyvan started: the "
+"destruction of all that lives. But even now, evil emanates from it."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:148
+msgid "(Malakar) What evil?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:154
+msgid ""
+"(Kogw) I don't really know. Some people say it is a plague, others say it is "
+"an earthquake, but the most common reports describe powerful spirits."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:160
+msgid "(Malakar) What do these spirits look like?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:166
+msgid ""
+"(Kogw) I have heard that they are ogre-like creatures made of solid thunder, "
+"appearing in a flash of lightning, but the sailor I heard this from was half-"
+"drunk anyway. Even these are supposedly only the vanguard of far worse "
+"creatures to come."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:172
+msgid ""
+"(Malakar) I hope this sailor was indeed drunk, but I do have misgivings "
+"about this island."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:178
+msgid "(Kogw) We must be very careful then."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:327
+msgid "The bridge collapsed!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:357
+msgid "(Malakar) The bridge collapsed!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:399
+msgid "(Malakar) The humans pursue us!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:497
+msgid "(Kogw) A spirit has attacked!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:550
+msgid "Intruders! Die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:555
+msgid "Malakar, die! Skula-Teroa, die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:684
+msgid "I really failed this time..."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:712
+msgid "RUARRAGH!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:717
+msgid "Help! Must get to ship!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:729
+msgid "Whew! Close call!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:792
+msgid "They have summoned reinforcements! We must flee! Onward!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:797
+msgid "But we must leave the ships behind!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Landfall.cfg:802
+msgid "Fine! Let's get out of here!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:3
+msgid "Liberation"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:76
+msgid "Protect Kamalar"
+msgstr ""
+
+#: Flight_Freedom/utils/objectives.cfg:35
+#: Flight_Freedom/scenarios/Liberation.cfg:77
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:79
+msgid "Death of Kamalar"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:95
+msgid ""
+"Malakar then traveled to the home of his older brother Kamalar, high priest "
+"of Gar-Dalgar, the Murderer."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:99
+msgid "Kamalar"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:108
+msgid "Hello brother!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:113
+msgid "I request your assistance fighting the evil humans."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:118
+msgid "Very well."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:137
+msgid "I am gone!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:142
+msgid "Without him, we will be unable to continue. All is lost!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:121
+#: Flight_Freedom/scenarios/Liberation.cfg:154
+msgid "We continue!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:159
+msgid "Don't be so hasty, brother. I bring friends."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:164
+msgid "Kzzklk, show yourself!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:192
+msgid "What are these... creatures?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:197
+msgid "They are called saurians. A little curiosity I came across one night."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:202
+msgid ""
+"I found a small group of them. Refugees from the humans. They have allied "
+"with me against the humans."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:207
+msgid ""
+"However, once the humans came to Morogor, we had to go into hiding. With the "
+"help of the saurians, I was able to avoid their patrols."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:212
+msgid ""
+"Now with your arrival, there is hope. Kzzklk, will you assist us once again?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:217
+msgid "Yesss! My axxxxe iss reaaaddy!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:222
+msgid "How should the saurians be used?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:227
+msgid ""
+"The saurians are elusive and deft of foot, but weak at arms. I propose that "
+"while we attack the humans head-on, the saurians sneak behind the enemy "
+"lines and kill their leaders."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:232
+msgid "Or, I can place the saurians under your command, to add to your army."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:237
+msgid "Just how many of these saurians do you have?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:242
+msgid "Around ten. Fifteen at most."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:250
+msgid ""
+"Then there will be a tough fight ahead of us. I must decide what I will do "
+"with the saurians."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:252
+msgid "I will take command of the saurians."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:257
+msgid "Use them well."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:266
+msgid "The saurians will try to outflank the humans."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Liberation.cfg:271
+msgid "Very well. They will arrive at the third dawn."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:3
+msgid "The Manor"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:89
+msgid "Defeat Prax III"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:181
+msgid "Soldiers! Attack! I expect you all to bring back the scalp of a human!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:305
+msgid "Drake Spear"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:306
+msgid "This weapon is excellent for a drake rising against its masters."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:307
+msgid "This weapon is only fit for adult drakes."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:482
+msgid "Could this key fit that trapdoor?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:489
+msgid "I seem to have found a key. What it unlocks, I cannot say."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:548
+msgid "The key fits!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:561
+msgid "The trapdoor is locked! Could that key fit?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:568
+msgid "The trapdoor is locked!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:613
+msgid "This mansion is haunted!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:625
+msgid "I surrender! Don't hurt me!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:630
+msgid "WHERE DO YOU KEEP YOUR MONEY?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:635
+msgid "I don't know!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:640
+msgid "TALK!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:652
+msgid ""
+"Ok... I'll tell you! There is a caravan headed here. You can catch them in a "
+"few hours."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Manor.cfg:657
+msgid "String him up boys, were going to burn the place to the ground."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:3
+msgid "The Open Ocean"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:50
+msgid "Move the Unforgiver to the bottom"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:148
+msgid "Malakar had found open ocean, and was sailing south, when one day..."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:154
+msgid "(Malakar) This ocean is inhabited by monsters! Let's kill them!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:160
+msgid "(Kogw) No, I say we sneak by."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:166
+msgid "(Malakar) Fine. Let's get on with it."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:183
+msgid "(Malakar) Let's press on!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:3
+msgid "Rebellion"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:17
+msgid ""
+"Malakar and his small tribe put up a fight, but were no match for the armies "
+"of Humanity. Many drakes were slaughtered that day, and the rest, including "
+"Malakar, were taken prisoner. The shores of the sea remain forever red from "
+"the drake blood spilled on that woeful day."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:22
+msgid "Malakar and his tribe were bound hand and foot, and thrown onto ships."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:27
+msgid ""
+"Many weeks passed. Half of the drakes died on the voyage, and the rest were "
+"badly injured."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:32
+msgid ""
+"Eventually, the ship made landfall, on a country known as Wesnoth. They were "
+"sold as slaves to the baron Prax III."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:37
+msgid ""
+"Mind control spells were cast on the prisoners, and they were forced to work "
+"in Prax III's shipyards for the rest of their lives."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:42
+msgid ""
+"However, five years later, the mind control spells wore off. Malakar decided "
+"to lead a revolt against the humans before the spells could take effect "
+"again."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:53
+#: Flight_Freedom/scenarios/Rebellion.cfg:58
+msgid "Malakar"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:72
+msgid "Overseer"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:85
+msgid "Kill the overseer"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:404
+msgid "WORK!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:433
+msgid "I'm done being at the hands of humans! Everyone! ATTACK!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rebellion.cfg:442
+msgid ""
+"We must go directly to the heart of the humans. Onward to his filthy manor!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:3
+msgid "Return to Morogor"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:100
+msgid "Morogor! At last!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:105
+msgid "It is overrun by humans!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:110
+msgid "We will run them through!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:3
+msgid "River of Skulls"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:117
+#: Flight_Freedom/scenarios/River_Skulls.cfg:251
+#: Flight_Freedom/scenarios/River_Skulls.cfg:310
+#: Flight_Freedom/scenarios/River_Skulls.cfg:336
+msgid "Find a way out of the caverns"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:118
+msgid "Explore the surrounding area"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:211
+msgid "Caves as far as the eye can see. We are completely lost."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:216
+msgid "But there are dwarves everywhere. We must flee somewhere."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:228
+msgid "The humans pursue us!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:248
+msgid "Well, we can't go that way."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:252
+msgid "Explore to the south"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:272
+msgid "A spider web!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:283
+msgid "GUGGAGUGGAGU!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:302
+msgid "A river of lava! How am I supposed to cross?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:307
+msgid "I'll take care of that later. Drakes! We need to explore this river!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:311
+msgid "Explore the river"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:333
+msgid "Creatures of the lava! We cannot leave this way!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:337
+msgid "Move Malakar to the western edge of the river of lava"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:395
+msgid "Lava hot!!! Ouch!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:400
+msgid "#If a unit is in lava, it will lose 4 hitpoints per turn."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:441
+msgid "The sign says: Storeroom"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:455
+msgid "The ground is unstable!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:319
+#: Flight_Freedom/scenarios/River_Skulls.cfg:482
+msgid "HELP!!!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:534
+msgid "Ugh! Dwarven whiskey!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:551
+#: Flight_Freedom/scenarios/Rockfall.cfg:282
+msgid "We must continue!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:556
+msgid "How am I to cross the lava?"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:561
+msgid "I'll carry you, hop on my back."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:583
+msgid "We have used up half of our supplies."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:592
+msgid ""
+"We have used up three-quarters of our supplies. I suggest you make haste."
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:601
+msgid "Our supplies are dangerously low! Hurry!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/River_Skulls.cfg:610
+msgid "We have run out of supplies, these caverns shall be our tomb!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:3
+msgid "Rockfall"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:65
+#: Flight_Freedom/scenarios/Rockfall.cfg:132
+#: Flight_Freedom/scenarios/Rockfall.cfg:204
+msgid "Exit the cave"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:110
+msgid "The exit is nearby. I must find the way out!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:129
+msgid "I must destroy those boulders, so that the cave exit will collapse."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:133
+msgid "Collapse the cave exit by destroying the six boulders that support it"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:197
+msgid "All 6 pillars have been destroyed! Malakar, you have 4 turns to escape!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Rockfall.cfg:268
+msgid "You must destroy the pillars first."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:3
+msgid "Southern Shore"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:34
+msgid "Luna"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:50
+msgid "Sink the Luna"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:117
+msgid ""
+"After securing the Blue River, Malakar and Kogw boarded the pirate flagship "
+"Unforgiver, and set sail for Morogor."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:122
+msgid ""
+"However, they did not count on the Wesnoth navy. Just as they cleared the "
+"coast, they were intercepted by a Wesnothian patrol, the flagship being the "
+"Luna."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:127
+msgid ""
+"This is Commodore Jack of the Wesnothian Ship Luna. Lower your sails and "
+"prepare to be boarded."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:133
+msgid "(Malakar) Never!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:138
+msgid "So be it. Prepare to die!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:150
+msgid "(Kogw) Let's leave Wesnoth for good!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:3
+msgid "Survival"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:17
+msgid ""
+"On the island of Morogor, a drake tribe was sleeping one day when they saw a "
+"strange sight."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:22
+msgid ""
+"Several boats were sailing toward them, crewed by humans and bristling with "
+"guns."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:27
+msgid "The ships landed, and hordes of humans spilled out."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:32
+msgid ""
+"Normally, the humans were peaceful, but now they were out for drake blood."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:37
+msgid ""
+"The leader of the tribe, Malakar, decided to put up a fight for as long as "
+"possible."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:120
+msgid "Resist for as long as possible"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Survival.cfg:131
+msgid "HELP!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:3
+msgid "Underground"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:86
+msgid "We must seize these caverns!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:140
+msgid "Well, well, well. $gold_given pieces of gold were in this chest!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:173
+msgid "Hey! $gold_given pieces of gold were in this chest!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:206
+msgid "Hmmm... $gold_given pieces of gold were in this chest!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:239
+msgid "Looky here. $gold_given pieces of gold were in this chest!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:264
+msgid "That is a hidden door. Let's see what's behind it!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:279
+msgid "Let us kill those allies of man!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:294
+msgid "Hmmm... the bones of a dragon."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:309
+msgid "Hmmm... A statue of a dragon."
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:406
+msgid "Die you drake scum!"
+msgstr ""
+
+#: Flight_Freedom/scenarios/Underground.cfg:411
+msgid "The humans follow us! We must continue!"
+msgstr ""
+
+#: Flight_Freedom/units/Battleship.cfg:6
+msgid "Battleship"
+msgstr ""
+
+#: Flight_Freedom/units/Battleship.cfg:21
+msgid ""
+"The Battleship, very fast and armed with 3 ballistae, is a very versatile "
+"ship."
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Galleon.cfg:24
+#: Flight_Freedom/units/Transport_Galleon.cfg:20
+#: Flight_Freedom/units/Dreadnought.cfg:24
+#: Flight_Freedom/units/Battleship.cfg:24 Flight_Freedom/units/Frigate.cfg:24
+#: Flight_Freedom/units/Pirate_Schooner.cfg:24
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:24
+#: Flight_Freedom/units/Gunboat.cfg:24 Flight_Freedom/units/Galleon.cfg:24
+#: Flight_Freedom/units/Clipper.cfg:24
+msgid "ballista"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Galleon.cfg:25
+#: Flight_Freedom/units/Drake_Slave.cfg:91
+#: Flight_Freedom/units/Transport_Galleon.cfg:21
+#: Flight_Freedom/units/Dreadnought.cfg:25
+#: Flight_Freedom/units/Battleship.cfg:25
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:38
+#: Flight_Freedom/units/Frigate.cfg:25
+#: Flight_Freedom/units/Drake_Worker.cfg:93
+#: Flight_Freedom/units/Drake_Guard.cfg:32
+#: Flight_Freedom/units/Pirate_Schooner.cfg:25
+#: Flight_Freedom/units/Driver.cfg:25
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:25
+#: Flight_Freedom/units/Pirate_Captain.cfg:39
+#: Flight_Freedom/units/Gunboat.cfg:25 Flight_Freedom/units/Galleon.cfg:25
+#: Flight_Freedom/units/Cave_Naga.cfg:23 Flight_Freedom/units/Cave_Naga.cfg:30
+#: Flight_Freedom/units/Saurian_Skald.cfg:32
+#: Flight_Freedom/units/Clipper.cfg:25
+#: Flight_Freedom/units/Saurian_Juggler.cfg:38
+#: Flight_Freedom/units/Wolf.cfg:24
+msgid "pierce"
+msgstr ""
+
+#: Flight_Freedom/units/Caravan.cfg:17
+msgid "Caravans are used to carry gold or supplies long distances."
+msgstr ""
+
+#: Flight_Freedom/units/Fake_Units.cfg:36
+#: Flight_Freedom/units/Fake_Units.cfg:61 Flight_Freedom/units/Rock.cfg:25
+#: Flight_Freedom/units/Caravan.cfg:20
+msgid "none"
+msgstr ""
+
+#: Flight_Freedom/units/Fake_Units.cfg:37
+#: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Rock.cfg:28
+#: Flight_Freedom/units/Dreadnought.cfg:43
+#: Flight_Freedom/units/Invisible.cfg:17 Flight_Freedom/units/Cow.cfg:22
+#: Flight_Freedom/units/Frigate.cfg:42
+#: Flight_Freedom/units/Drake_Worker.cfg:27
+#: Flight_Freedom/units/Drake_Worker.cfg:71 Flight_Freedom/units/Horse.cfg:22
+#: Flight_Freedom/units/Gunboat.cfg:42 Flight_Freedom/units/Highwayman.cfg:23
+#: Flight_Freedom/units/Door.cfg:38 Flight_Freedom/units/Chicken.cfg:22
+#: Flight_Freedom/units/Caravan.cfg:21 Flight_Freedom/units/Rock_Golem.cfg:32
+msgid "impact"
+msgstr ""
+
+#: Flight_Freedom/units/Cave_Naga.cfg:6
+msgid "Cave Naga"
+msgstr ""
+
+#: Flight_Freedom/units/Cave_Naga.cfg:19
+msgid ""
+"The Cave Naga has adapted to survive deep underground, capable of traveling "
+"through even lava. With eyes adapted to low-light conditions, they excel "
+"underground and at night, but are hindered by bright light. Their muscles "
+"have evolved to be stronger, but slower. Their tail also has a deadly poison."
+msgstr ""
+
+#: Flight_Freedom/units/Cave_Naga.cfg:22
+msgid "trident"
+msgstr ""
+
+#: Flight_Freedom/units/Cave_Naga.cfg:29
+msgid "tail"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:29
+#: Flight_Freedom/units/Pirate_Captain.cfg:41
+#: Flight_Freedom/units/Cave_Naga.cfg:32
+#: Flight_Freedom/units/Saurian_Skald.cfg:28
+#: Flight_Freedom/units/Saurian_Juggler.cfg:29
+msgid "poison"
+msgstr ""
+
+#: Flight_Freedom/units/Chicken.cfg:6
+msgid "Chicken"
+msgstr ""
+
+#: Flight_Freedom/units/Chicken.cfg:21
+msgid "bawk"
+msgstr ""
+
+#: Flight_Freedom/units/Clipper.cfg:6
+msgid "Clipper"
+msgstr ""
+
+#: Flight_Freedom/units/Clipper.cfg:21
+msgid ""
+"Clippers, although fast, are very weak. Armed with a ballista, they are used "
+"primarily as scouts."
+msgstr ""
+
+#: Flight_Freedom/units/Cow.cfg:6
+msgid "Cow"
+msgstr ""
+
+#: Flight_Freedom/units/Cow.cfg:21 Flight_Freedom/units/Horse.cfg:21
+msgid "kick"
+msgstr ""
+
+#: Flight_Freedom/units/Crow.cfg:6
+msgid "Crow"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:26
+#: Flight_Freedom/units/Drake_Slave.cfg:69
+#: Flight_Freedom/units/Gargoyle.cfg:26 Flight_Freedom/units/Giant_Boar.cfg:21
+#: Flight_Freedom/units/Crow.cfg:21 Flight_Freedom/units/Falcon.cfg:21
+#: Flight_Freedom/units/Drake_Hatchling.cfg:26
+#: Flight_Freedom/units/Wolf.cfg:39
+msgid "claws"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:27
+#: Flight_Freedom/units/Drake_Slave.cfg:70
+#: Flight_Freedom/units/Gargoyle.cfg:27
+#: Flight_Freedom/units/Saurian_Jarl.cfg:25
+#: Flight_Freedom/units/Giant_Boar.cfg:22 Flight_Freedom/units/Crow.cfg:22
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:24
+#: Flight_Freedom/units/Rabbit.cfg:23 Flight_Freedom/units/Taskmaster.cfg:27
+#: Flight_Freedom/units/Shadow_Mage.cfg:25
+#: Flight_Freedom/units/Saurian_Margrave.cfg:25
+#: Flight_Freedom/units/Pirate.cfg:23
+#: Flight_Freedom/units/Pirate_Captain.cfg:23
+#: Flight_Freedom/units/Undead_Dwarf.cfg:27
+#: Flight_Freedom/units/Saurian_Headhunter.cfg:24
+#: Flight_Freedom/units/Saurian_Skald.cfg:23
+#: Flight_Freedom/units/Falcon.cfg:22
+#: Flight_Freedom/units/Drake_Hatchling.cfg:27
+#: Flight_Freedom/units/Saurian_Juggler.cfg:24
+#: Flight_Freedom/units/Wolf.cfg:40
+msgid "blade"
+msgstr ""
+
+#: Flight_Freedom/units/Door.cfg:6
+msgid "Door"
+msgstr ""
+
+#: Flight_Freedom/units/Door.cfg:33
+msgid "The door will not open for any who are not allied with it."
+msgstr ""
+
+#: Flight_Freedom/units/Door.cfg:35
+msgid "bump"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Guard.cfg:6
+msgid "Drake Guard"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Guard.cfg:23
+msgid ""
+"Protected by their massive golden shields, Drake Guards are at the front "
+"lines, protecting the Drakes behind them."
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:90
+#: Flight_Freedom/units/Drake_Worker.cfg:92
+#: Flight_Freedom/units/Drake_Guard.cfg:31
+msgid "spear"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Guard.cfg:53
+msgid "fire breath"
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Minor.cfg:23
+#: Flight_Freedom/units/Lava_Beast.cfg:25
+#: Flight_Freedom/units/Lava_Beast.cfg:36
+#: Flight_Freedom/units/Lava_Monster.cfg:25
+#: Flight_Freedom/units/Lava_Monster.cfg:36
+#: Flight_Freedom/units/Drake_Guard.cfg:55
+#: Flight_Freedom/units/Spirit_Major.cfg:23
+#: Flight_Freedom/units/Spirit_Major.cfg:30
+#: Flight_Freedom/units/Laser_Trooper.cfg:33
+#: Flight_Freedom/units/Spirit_Thunder.cfg:22
+#: Flight_Freedom/units/Spirit_Thunder.cfg:29
+msgid "fire"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Hatchling.cfg:6
+msgid "Drake Hatchling"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Hatchling.cfg:23
+msgid ""
+"A newborn Drake, Hatchlings are used as cannon fodder and as cheap walls."
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:6
+msgid "Drake Slave"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:23
+msgid "Drake Slaves are servile members of this reptilian race."
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:50
+msgid "Drake Rebel"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Slave.cfg:66
+msgid ""
+"This was a drake slave, but it has grabbed a spear in rebellion against its "
+"masters."
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Worker.cfg:6
+msgid "Drake Worker"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Worker.cfg:23
+msgid "More advanced Drakes, the Workers fight with their maces."
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Worker.cfg:26
+#: Flight_Freedom/units/Drake_Worker.cfg:70
+#: Flight_Freedom/units/Highwayman.cfg:22
+msgid "mace"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Worker.cfg:51
+msgid "Drake Guerilla"
+msgstr ""
+
+#: Flight_Freedom/units/Drake_Worker.cfg:67
+msgid ""
+"More advanced Drakes, these guerilla fighters have so far led a successful "
+"campaign against their masters."
+msgstr ""
+
+#: Flight_Freedom/units/Dreadnought.cfg:6
+msgid "Dreadnought"
+msgstr ""
+
+#: Flight_Freedom/units/Dreadnought.cfg:21
+msgid ""
+"Dreadnoughts are the pride of the humans' navy. With 3 ballistae and a "
+"catapult, they can kill almost anything unlucky enough to be in front of "
+"them."
+msgstr ""
+
+#: Flight_Freedom/units/Dreadnought.cfg:42 Flight_Freedom/units/Frigate.cfg:41
+#: Flight_Freedom/units/Gunboat.cfg:41
+msgid "catapult"
+msgstr ""
+
+#: Flight_Freedom/units/Driver.cfg:6
+msgid "Driver"
+msgstr ""
+
+#: Flight_Freedom/units/Driver.cfg:24
+msgid "whip"
+msgstr ""
+
+#: Flight_Freedom/units/Fake_Units.cfg:7
+msgid "Drake Flare"
+msgstr ""
+
+#: Flight_Freedom/units/Fake_Units.cfg:24
+msgid "Worker Wood"
+msgstr ""
+
+#: Flight_Freedom/units/Fake_Units.cfg:49
+msgid "Slave Wood"
+msgstr ""
+
+#: Flight_Freedom/units/Falcon.cfg:6
+msgid "Falcon"
+msgstr ""
+
+#: Flight_Freedom/units/Frigate.cfg:6
+msgid "Frigate"
+msgstr ""
+
+#: Flight_Freedom/units/Frigate.cfg:21
+msgid "The Frigate is rather slow, but it is powerful and well-protected."
+msgstr ""
+
+#: Flight_Freedom/units/Galleon.cfg:6
+msgid "Galleon"
+msgstr ""
+
+#: Flight_Freedom/units/Galleon.cfg:21
+msgid ""
+"Galleons are sailing warships. The humans' attempt at sea travel, they are "
+"expensive, but very strong. Armed with three ballistae, they mete out "
+"justice with deadly efficency."
+msgstr ""
+
+#: Flight_Freedom/units/Gargoyle.cfg:6
+msgid "Gargoyle"
+msgstr ""
+
+#: Flight_Freedom/units/Gargoyle.cfg:18
+msgid ""
+"A statue animated by dark magic, it is not very powerful, but it is "
+"annoying, as it reverts to its stone form during the day, making it "
+"invulnerable to all force."
+msgstr ""
+
+#: Flight_Freedom/units/Giant_Boar.cfg:6
+msgid "Giant Boar"
+msgstr ""
+
+#: Flight_Freedom/units/Gunboat.cfg:6
+msgid "Gunboat"
+msgstr ""
+
+#: Flight_Freedom/units/Gunboat.cfg:21
+msgid ""
+"Gunboats are medium-sized attack ships, armed with a ballista and a catapult."
+msgstr ""
+
+#: Flight_Freedom/units/Highwayman.cfg:6
+msgid "Highwayman"
+msgstr ""
+
+#: Flight_Freedom/units/Highwayman.cfg:19
+msgid ""
+"Armed with a heavy mace, Highwaymen are the last people you want to meet on "
+"a deserted road late at night."
+msgstr ""
+
+#: Flight_Freedom/units/Horse.cfg:6
+msgid "Horse"
+msgstr ""
+
+#: Flight_Freedom/units/Invisible.cfg:6
+msgid "Invisible"
+msgstr ""
+
+#: Flight_Freedom/units/Invisible.cfg:16
+msgid "dummy"
+msgstr ""
+
+#: Flight_Freedom/units/Laser_Trooper.cfg:6
+msgid "Laser Trooper"
+msgstr ""
+
+#: Flight_Freedom/units/Laser_Trooper.cfg:29
+msgid ""
+"A soldier from the far future trapped in the present, the Laser Trooper is "
+"very deadly. He is armed with a computerized laser rifle of incredible power "
+"and accuracy and protected by forcefields, making him immune to any non-"
+"magical force. He also has a jetpack that allows him to fly at incredible "
+"speeds. However, all damage taken is permanent, because future materials are "
+"not available, and this unit, being an outcast, cannot enter a village. :)"
+msgstr ""
+
+#: Flight_Freedom/units/Laser_Trooper.cfg:32
+msgid "laser rifle"
+msgstr ""
+
+#: Flight_Freedom/units/Shadow_Mage.cfg:27
+#: Flight_Freedom/units/Shadow_Mage.cfg:50
+#: Flight_Freedom/units/Spirit_Major.cfg:32
+#: Flight_Freedom/units/Laser_Trooper.cfg:35
+#: Flight_Freedom/units/Spirit_Thunder.cfg:31
+msgid "magical"
+msgstr ""
+
+#: Flight_Freedom/units/Lava_Beast.cfg:6
+msgid "Lava Beast"
+msgstr ""
+
+#: Flight_Freedom/units/Lava_Beast.cfg:21
+msgid "The Lava Beast is a living, breathing hunk of lava with a bad attitude."
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Minor.cfg:22
+#: Flight_Freedom/units/Lava_Beast.cfg:24
+#: Flight_Freedom/units/Lava_Monster.cfg:24
+#: Flight_Freedom/units/Spirit_Major.cfg:22
+#: Flight_Freedom/units/Spirit_Thunder.cfg:21
+#: Flight_Freedom/units/Rock_Golem.cfg:31
+msgid "fist"
+msgstr ""
+
+#: Flight_Freedom/units/Lava_Beast.cfg:35
+#: Flight_Freedom/units/Lava_Monster.cfg:35
+msgid "boulder"
+msgstr ""
+
+#: Flight_Freedom/units/Lava_Monster.cfg:6
+msgid "Lava Monster"
+msgstr ""
+
+#: Flight_Freedom/units/Lava_Monster.cfg:21
+msgid ""
+"The Lava Monster is a nasty creature made of living lava, which can punch "
+"and throw red-hot boulders. It is also immune to fire."
+msgstr ""
+
+#: Flight_Freedom/units/Pirate.cfg:6
+msgid "Pirate"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate.cfg:19
+msgid ""
+"Dogs of the sea, pirates are outlaws who prey in the open water. With a "
+"cutlass, they make nasty foes."
+msgstr ""
+
+#: Flight_Freedom/units/Pirate.cfg:22
+#: Flight_Freedom/units/Pirate_Captain.cfg:22
+msgid "cutlass"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Captain.cfg:6
+msgid "Pirate Captain"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Captain.cfg:19
+msgid ""
+"Like all pirates, these are thieves of the water. This one is a captain, who "
+"is in charge of leading his thugs into battle."
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Captain.cfg:38
+msgid "crossbow"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:6
+msgid "Pirate Cruiser"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:21
+msgid ""
+"The Pirate Cruiser is a larger pirate ship, either built or captured. It has "
+"3 ballistae."
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Galleon.cfg:6
+msgid "Pirate Galleon"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Galleon.cfg:21
+msgid ""
+"The Pirate Galleon is a former battleship of the Wesnothian navy, captured "
+"by renegades and pressed into service. It has 5 ballistae."
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Schooner.cfg:6
+msgid "Pirate Schooner"
+msgstr ""
+
+#: Flight_Freedom/units/Pirate_Schooner.cfg:21
+msgid ""
+"Pirates are the aquatic vector of Thieves. Manned by human renegades, these "
+"ships ply the seaways, looking for plunder. They are widely feared because "
+"of that."
+msgstr ""
+
+#: Flight_Freedom/units/Rabbit.cfg:6
+msgid "Rabbit"
+msgstr ""
+
+#: Flight_Freedom/units/Rabbit.cfg:22
+msgid "incisors"
+msgstr ""
+
+#: Flight_Freedom/units/Rock.cfg:6
+msgid "Rock"
+msgstr ""
+
+#: Flight_Freedom/units/Rock.cfg:23
+msgid ""
+"This is impassable to all things, but is loose. It can be destroyed, but not "
+"easily."
+msgstr ""
+
+#: Flight_Freedom/units/Rock.cfg:30 Flight_Freedom/units/Rock_Golem.cfg:20
+msgid "steadfast"
+msgstr ""
+
+#: Flight_Freedom/units/Rock_Golem.cfg:6
+msgid "Rock Golem"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Headhunter.cfg:6
+msgid "Saurian Headhunter"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Headhunter.cfg:19
+msgid ""
+"Saurian Headhunters are the heavy fighters of the saurians. Armed with an "
+"axe, they can deliver relatively strong blows, but are encumbered by armor."
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Jarl.cfg:23
+#: Flight_Freedom/units/Saurian_Margrave.cfg:23
+#: Flight_Freedom/units/Undead_Dwarf.cfg:26
+#: Flight_Freedom/units/Saurian_Headhunter.cfg:22
+msgid "axe"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Jarl.cfg:6
+msgid "Saurian Jarl"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Jarl.cfg:19
+msgid ""
+"Saurian Jarls are the leaders of saurian attack squads. Armed with an axe "
+"and armored, they are capable of doing decent damage and can take some hits, "
+"but the armor slows them down to the point where they cannot sneak pass "
+"enemies."
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Jarl.cfg:21
+#: Flight_Freedom/units/Shadow_Mage.cfg:12
+#: Flight_Freedom/units/Saurian_Margrave.cfg:21
+msgid "leadership"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Juggler.cfg:6
+msgid "Saurian Juggler"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Juggler.cfg:20
+msgid ""
+"More experienced Skalds, the Jugglers can throw more daggers. They have also "
+"learned to supplement their natural poison with swamp berry extracts."
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:23
+#: Flight_Freedom/units/Saurian_Skald.cfg:22
+#: Flight_Freedom/units/Saurian_Juggler.cfg:23
+msgid "teeth"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:37
+#: Flight_Freedom/units/Saurian_Skald.cfg:31
+#: Flight_Freedom/units/Saurian_Juggler.cfg:37
+msgid "dagger"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:6
+msgid "Saurian Knifethrower"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:20
+msgid ""
+"The Saurian Knifethrowers are the elite of the Skalds. They possess "
+"incredible skill with their arms, enabling them to throw many daggers at "
+"blindingly fast speeds."
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Margrave.cfg:6
+msgid "Saurian Margrave"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Margrave.cfg:19
+msgid ""
+"Saurian Margraves are the leaders of saurian armies. They are also skilled "
+"with the axe, but like the Jarls, are slower than most saurians due to their "
+"armor and cannot sneak past enemies."
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Skald.cfg:6
+msgid "Saurian Skald"
+msgstr ""
+
+#: Flight_Freedom/units/Saurian_Skald.cfg:19
+msgid ""
+"The Saurian Skalds are selected from a slower-moving but considerably "
+"stronger race of saurians, which also bear a dreaded poison bite. However, "
+"they are best known for their manual dexterity, which they translate into "
+"fast dagger throwing."
+msgstr ""
+
+#: Flight_Freedom/units/Shadow_Mage.cfg:6
+msgid "Shadow Mage"
+msgstr ""
+
+#: Flight_Freedom/units/Taskmaster.cfg:26
+#: Flight_Freedom/units/Shadow_Mage.cfg:24
+msgid "short sword"
+msgstr ""
+
+#: Flight_Freedom/units/Shadow_Mage.cfg:47
+msgid "ice blast"
+msgstr ""
+
+#: Flight_Freedom/units/Shadow_Mage.cfg:48
+msgid "cold"
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Major.cfg:6
+msgid "Major Spirit"
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Major.cfg:19
+msgid ""
+"The Major Spirit is one of the most powerful beings known. Literally "
+"radiating with power, it can throw lightning bolts that destroy entire "
+"cities."
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Major.cfg:29
+#: Flight_Freedom/units/Spirit_Thunder.cfg:28
+msgid "lightning"
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Minor.cfg:6
+msgid "Minor Spirit"
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Minor.cfg:19
+msgid ""
+"The Thunder Spirits are very powerful and mysterious. Even though this "
+"spirit is a minor one, it still wields tremendous power."
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Thunder.cfg:6
+msgid "Thunder Spirit"
+msgstr ""
+
+#: Flight_Freedom/units/Spirit_Thunder.cfg:18
+msgid ""
+"The Thunder Spirit is an awesome foe, capable of punching with electric fury "
+"and firing lightning bolts capable of destroying houses."
+msgstr ""
+
+#: Flight_Freedom/units/Taskmaster.cfg:6
+msgid "Taskmaster"
+msgstr ""
+
+#: Flight_Freedom/units/Taskmaster.cfg:23
+msgid ""
+"A role mostly filled by the dregs of society, Taskmasters live a perverted "
+"life of torturing the slaves under their watch. They especially like beating "
+"Drake slaves with their short swords."
+msgstr ""
+
+#: Flight_Freedom/units/Transport_Galleon.cfg:6
+msgid "Transport Galleon"
+msgstr ""
+
+#: Flight_Freedom/units/Transport_Galleon.cfg:17
+msgid ""
+"The Transport Galleon is used to ferry men and equipment across water. "
+"However, it is very weak and must be escorted."
+msgstr ""
+
+#: Flight_Freedom/units/Undead_Dwarf.cfg:6
+msgid "Undead Dwarf"
+msgstr ""
+
+#: Flight_Freedom/units/Undead_Dwarf.cfg:18
+msgid ""
+"A former dwarf brought back to life. They retain the power of dwarves, but "
+"also their lack of speed."
+msgstr ""
+
+#: Flight_Freedom/units/Wolf.cfg:6
+msgid "Wolf"
+msgstr ""
+
+#: Flight_Freedom/units/Wolf.cfg:23
+msgid "bite"
+msgstr ""
+
+#: Flight_Freedom/utils/deaths.cfg:10
+msgid "All is lost!"
+msgstr ""
+
+#: Flight_Freedom/utils/deaths.cfg:25
+msgid "Now the drakes will be enslaved again!"
+msgstr ""
+
+#: Flight_Freedom/utils/deaths.cfg:40
+msgid "I have failed!"
+msgstr ""
+
+#: Flight_Freedom/utils/objectives.cfg:17
+msgid "Death of Kogw"
+msgstr ""
+
+#: Flight_Freedom/utils/objectives.cfg:18
+msgid "Turns run out"
+msgstr ""
