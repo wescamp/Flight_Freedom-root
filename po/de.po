@@ -2,100 +2,113 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-03 09:49+0200\n"
+"POT-Creation-Date: 2005-05-08 21:29+0200\n"
 "PO-Revision-Date: 2005-05-03 09:49+0200\n"
-"Last-Translator: Automatically generated\n"
+"Last-Translator: The Very Uhu\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# To Do: 
+# - Allgemeine Einheitennamen (z. B. "Drake") der üblichen deutschen Übersetzung entsprechend anpassen
+# - Gegenlesen
+# - Kontext der Dialogboxen im Spiel überprüfen
+# - Fragliche Passagen steht ein Tag mit dem Beginn 'Anm.' voran.
+# Kernübersetzung: The Very Uhu, 05/2005
 #: Flight_Freedom.cfg:23
 msgid "Flight to Freedom"
-msgstr ""
+msgstr "Flug zur Freiheit"
 
 #: Flight_Freedom.cfg:27
 msgid "(hardest)"
-msgstr ""
+msgstr "(schwer)"
 
 #: Flight_Freedom.cfg:27
 msgid "Dissident"
-msgstr ""
+msgstr "Abtrünniger"
 
 #: Flight_Freedom.cfg:27
 msgid "(easiest)"
-msgstr ""
+msgstr "(Leicht)"
 
 #: Flight_Freedom.cfg:27
 msgid "Slave"
-msgstr ""
+msgstr "Sklave"
 
 #: Flight_Freedom.cfg:27
 msgid "Rebel"
-msgstr ""
+msgstr "Rebell"
 
 #: Flight_Freedom.cfg:29
 msgid "Lead Malakar and his Drake tribe to freedom from the humans!"
 msgstr ""
+"Führen Sie Malakar und seinen Drachenclan aus der Sklaverei der Menschen!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:3
 msgid "Betrayal"
-msgstr ""
+msgstr "Verrat"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:43
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Besiegen Sie den gegnerischen Anführer"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:80
 msgid ""
 "After leaving the cave, Malakar ended up in a mountainous area of the Isle, "
 "only to have the traitor Theracar steal half of his gold."
 msgstr ""
+"Als er die Höhle verließ, fand er sich in einer bergigen Gegend der Insel "
+"wieder - nur um festzustellen, daß ihm die Hälfte seines Goldschatzes vom "
+"Verräter Theracar gestohlen worden war!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:85
 msgid "Pay us 500 gold or we will kill you!"
-msgstr ""
+msgstr "Gebt uns fünfhundert Goldstücke, oder wir werden Euch töten!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:90
 msgid "Shall I pay 500 gold?"
-msgstr ""
+msgstr "Soll ich wirklich fünfhundert Goldstücke zahlen? Fünfhundert?"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:93
 msgid "Very well. Here is 500 gold pieces."
-msgstr ""
+msgstr "Was soll's. Nehmt das Gold!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:109
 msgid "Fool! Die!"
-msgstr ""
+msgstr "Trottel! Stirb!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:128
 msgid "You can't pay! Die!"
-msgstr ""
+msgstr "Ihr könnt nicht zahlen? Dann sterbt!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:140
 msgid "No!"
-msgstr ""
+msgstr "Niemals!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:145
 msgid "Die!"
-msgstr ""
+msgstr "Stirb!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:169
 msgid "Here is the 500 gold!"
-msgstr ""
+msgstr "Hier, hier ist das Gold!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:180
 msgid "Die traitor! Die!"
 msgstr ""
+"Du Sohn einer vermaledaiten Federschleiche aus den stinkenden Gossen von "
+"Rottvulkor, du elender Verräter, stirb!"
 
 #: Flight_Freedom/scenarios/Blockade.cfg:3
 msgid "Blockade"
-msgstr ""
+msgstr "Blockade"
 
+# "Gandenlos"
 #: Flight_Freedom/scenarios/Blockade.cfg:69
 msgid "Move the Unforgiver to the East"
-msgstr ""
+msgstr "Schafft den Gnadenlosen gen Osten."
 
 #: Flight_Freedom/scenarios/Blockade.cfg:70
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:51
@@ -103,142 +116,170 @@ msgstr ""
 #: Flight_Freedom/scenarios/Landfall.cfg:255
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:51
 msgid "Destruction of the Unforgiver"
-msgstr ""
+msgstr "Vernichtung des Gnadenlosen"
 
 #: Flight_Freedom/scenarios/Blockade.cfg:138
 msgid "After defeating the human, Malakar and Kogw entered the Unforgiver."
 msgstr ""
+"Nachdem die Sklaventreiber besiegt worden sind, betreten Malakar und Kogw "
+"den Gnadenlosen."
 
 #: Flight_Freedom/scenarios/Blockade.cfg:143
 msgid ""
 "However, when Malakar was a month out, he found himself in a place where "
 "Merman and Nagas were fighting an age-old war."
 msgstr ""
+"Nach einem Monat kam Malakar in ein Gebiet, in dem sich Meervolk und Nagas "
+"seit Jahren heftige Kämpfe lieferten. "
 
 #: Flight_Freedom/scenarios/Blockade.cfg:149
 msgid "(Malakar) We must get through!"
-msgstr ""
+msgstr "(Malakar) Wir müssen durchbrechen!"
 
 #: Flight_Freedom/scenarios/Blockade.cfg:166
 msgid "(Kogw) On to Morogor!"
-msgstr ""
+msgstr "(Kogw) Auf nach Morogor!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:3
 msgid "Blue River"
-msgstr ""
+msgstr "Blauer Fluß"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:73
 msgid "I must secure the Blue River, so I can sail out of Wesnoth!"
-msgstr ""
+msgstr "Ich muß den Blauen Fluß sichern, um gen Wesnoth segeln zu können!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:83
 msgid "Kogw"
-msgstr ""
+msgstr "Kogw"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:108
 msgid "Psst! Those humans giving you trouble? I can help!"
-msgstr ""
+msgstr "Psst! Machen Euch diese Menschen Schwierigkeiten? Ich kann helfen!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:113
 msgid "How?"
-msgstr ""
+msgstr "Wie?"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:118
 msgid ""
 "I'm the leader of a band of pirates. Those damn elves have been chasing us."
 msgstr ""
+"Ich bin der Captain einer Piratenbande! Diese verfluchten Elfen haben uns "
+"gejagt! "
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:123
 msgid "Kill the Elves, and we'll join you."
-msgstr ""
+msgstr "Röstet die Elfen, und unsere Kampfkraft steht Euch zur Verfügung!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:128
 msgid "Why should I trust you, human?"
-msgstr ""
+msgstr "Weshalb, Mensch, sollte ich Euch trauen?"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:133
 msgid ""
 "Because you have to, idiot. If you want to leave this place, you'll have to "
 "do it by sea."
 msgstr ""
+"Weil Euch keine andere Wahl bleibt, mein kaltblütiger Freund. Falls Ihr "
+"diesen Ort lebendig verlassen möchtet, bleibt Euch nur der Seeweg!"
 
+# Anm. Kontrollieren ob logischer Fehler:  
+# falls dieser String nach dem Blue River zum absegeln freimachen kommt - The Very Uhu
 #: Flight_Freedom/scenarios/Blue_River.cfg:138
 msgid "Stupid human, what do you think those things on our backs are?"
 msgstr ""
+"Nichtswürdiges Menschlein, bist du von Blindheit geschlagen, daß du jene "
+"zwei Dinger auf meinem Rücken nicht gesehen hast?"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:143
 msgid ""
 "The ocean winds blow with great speed. You cannot fly against them. And what "
 "will become of your spearmen?"
 msgstr ""
+"Der Wind bläst scharf über dem Ozean. Gegen ihn werdet Ihr mit Eueren "
+"Schwingen kaum ankommen! Und was würde aus Eueren Speerträgern werden?"
 
+# Anm. Korrekte Bez. für Clasher in Dt. - The Very Uhu
 #: Flight_Freedom/scenarios/Blue_River.cfg:148
 msgid "How DARE you insult my clashers, puny softskin!"
 msgstr ""
+"Wie kannst du es wagen, meine Clasher zu beleidigen, du arrogante kleine "
+"Samthaut!?"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:153
 msgid ""
 "You'll have to leave them behind. What a loss for the 'great lord of the "
 "drakes'."
 msgstr ""
+"Langsam, langsam! Ihr werdet sie zurücklassen müssen! Ah, welch ein Verlust "
+"für den hochherrlichen Fürst der Drachen! "
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:158
 msgid "Fine. But you had better prove your worth!"
-msgstr ""
+msgstr "Nun gut. Ihr beweist besser, daß Ihr Eueres Wortes würdig seid. Los!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:170
 #: Flight_Freedom/scenarios/Rockfall.cfg:241
 msgid "AAAAH!"
-msgstr ""
+msgstr "AAAAH!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:175
 msgid "Very well, we will aid you."
-msgstr ""
+msgstr "Es sei, wir werden Euch zur Seite stehen!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:180
 msgid ""
 "And how do I guarantee that you will not kill us? Swear on the fire of Gar-"
 "Alagar, king of the gods of Morogor, an oath to me!"
 msgstr ""
+"Und welche Sicherheit gebt Ihr uns, daß Ihr uns nicht heimtückisch ermorden "
+"werdet? Schwört mir Treue beim Feuer von Gar-Alagar, dem Höchsten unter den "
+"Göttern Morogors!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:185
 msgid "Upon the eyes of my gods I swear my loyalty."
-msgstr ""
+msgstr "Bei den Augen meiner Götter schwöre ich Euch Treue."
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:190
 msgid ""
 "Do not mention your 'gods' again, infidel human. I see I will have to teach "
 "you manners."
 msgstr ""
+"Wagt nicht, Euere 'Götter' noch ein Mal zu erwähnen, Ungläubiger. Es "
+"scheint, daß ich Euch Euch Manieren beibringen muß!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:195
 msgid ""
 "Swear by Gar-Alagar, king of the gods of Morogor, in the future, or you will "
 "be sacrificed to him, heathen."
 msgstr ""
+"In Zukunft schwört Ihr bei Gar-Alagar, dem Höchsten der Götter Morogors, "
+"oder wir werden Euch ihm zu Ehren rösten, Menschlein! "
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:212
 msgid "To the ocean!"
-msgstr ""
+msgstr "Auf zum Ozean!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:218
 msgid "I still suffer from my enslavement! I cannot fly that far!"
 msgstr ""
+"Noch immer leide ich unter den Folgen der Sklaverei! Ich vermag noch nicht "
+"so weit zu fliegen!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:223
 msgid "Very well. We shall sail."
-msgstr ""
+msgstr "Nun gut. Wir werden segeln."
 
 #: Flight_Freedom/units/Caravan.cfg:6 Flight_Freedom/scenarios/Caravan.cfg:3
 #: Flight_Freedom/scenarios/Caravan.cfg:140
 msgid "Caravan"
-msgstr ""
+msgstr "Karavane"
 
 #: Flight_Freedom/scenarios/Caravan.cfg:63
 msgid "Destroy the caravan"
-msgstr ""
+msgstr "Vernichtet die Karavane"
 
-#: Flight_Freedom/utils/objectives.cfg:16
+#: Flight_Freedom/utils/objectives.cfg:18
 #: Flight_Freedom/scenarios/Manor.cfg:90
 #: Flight_Freedom/scenarios/Rockfall.cfg:66
 #: Flight_Freedom/scenarios/Rockfall.cfg:134
@@ -246,221 +287,247 @@ msgstr ""
 #: Flight_Freedom/scenarios/Rebellion.cfg:86
 #: Flight_Freedom/scenarios/Caravan.cfg:64
 msgid "Death of Malakar"
-msgstr ""
+msgstr "Tod Malakars"
 
 #: Flight_Freedom/scenarios/Caravan.cfg:65
 msgid "Caravan is destroyed by wolves"
-msgstr ""
+msgstr "Die Karavane wird von Wölfen vernichtet."
 
 #: Flight_Freedom/scenarios/Caravan.cfg:66
 msgid "Caravan escapes"
-msgstr ""
+msgstr "Die Karavane entkommt."
 
 #: Flight_Freedom/scenarios/Caravan.cfg:153
 msgid ""
 "After killing the man and torching his house, Malakar headed out to "
 "intercept the caravan."
 msgstr ""
+"Nachdem Malakar den Mann umgebracht und sein Haus in Feuer gebadet hat, eilt "
+"er los, um sich um die Karavane zu kümmern."
 
 #: Flight_Freedom/scenarios/Caravan.cfg:158
 msgid "Now that I have freed the tribe, I have true warriors at hand!"
 msgstr ""
+"Nun, alsda ich meinen Stamm befreit habe, stehen mir aufrechte Krieger zur "
+"Seite!"
 
 #: Flight_Freedom/scenarios/Caravan.cfg:211
 msgid "The caravan must not enter the hills! Charge!"
-msgstr ""
+msgstr "Die Karavane darf die Hügel nicht erreichen! Zum Angriff!"
 
 #: Flight_Freedom/scenarios/Caravan.cfg:245
 msgid "No! The caravan has escaped into the hills!"
-msgstr ""
+msgstr "Nein! Die Karavane konnte in die Hügel flüchten!"
 
 #: Flight_Freedom/scenarios/Caravan.cfg:292
 msgid "500 gold! This will go a long way to our cause!"
 msgstr ""
+"Fünfhundert Goldstücke! Das bringt uns unserem Ziel ein großes Stück näher."
 
 #: Flight_Freedom/scenarios/Caravan.cfg:318
 msgid "No! The wolves have destroyed the gold!"
-msgstr ""
+msgstr "Die Wölfe! Sie haben die Karavane vernichtet!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:3
 msgid "The Drake Escape"
-msgstr ""
+msgstr "Das Entkommen der der Drachen."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:87
 msgid "Move Malakar to the cave entrance"
-msgstr ""
+msgstr "Führt Malakar zum Höhleneingang."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:129
 msgid "I have eluded them for now."
-msgstr ""
+msgstr "Für diesmal bin ich ihnen entkommen."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:134
 msgid "You wish!"
-msgstr ""
+msgstr "Das könnte Euch so passen!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:139
 msgid "Humans! Servants of Good! Die you innocent people!"
-msgstr ""
+msgstr "Menschlein! Knechte des Guten! Sterbt, ihr unschuldigen Wesen!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:144
 msgid "We must go for the cave entrance!"
-msgstr ""
+msgstr "Wir müssen den Höhleneingang erreichen!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:153
 msgid "Why can't we work together against the drakes?"
 msgstr ""
+"Weshalb können wir unsere Kräfte eigentlich nicht gegen die Drachen "
+"vereinen? "
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:158
 msgid "Very well, we are allies for now."
-msgstr ""
+msgstr "So sei es denn, für dieses Mal sind wir Verbündete."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:189
 msgid "Underground!"
-msgstr ""
+msgstr "Die Höhlen!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:242
 #: Flight_Freedom/scenarios/Landfall.cfg:489
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:274
 msgid "A spirit has attacked!"
-msgstr ""
+msgstr "Ein Geist hat angegriffen."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:292
 msgid "They pursue us! We must hurry!"
-msgstr ""
+msgstr "Sie sind uns auf den Fersen! Wir müssen uns beeilen!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:325
 msgid "*gasp* They slaughtered that village's inhabitants in cold blood!"
-msgstr ""
+msgstr "*Argh!* Sie haben die Bewohner des Dorfes kaltblütig ermordet! "
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:334
 msgid "They have summoned reinforcements, it is hopeless."
-msgstr ""
+msgstr "Dort kommt die Verstärkung des Feindes! Die Lage ist hoffnungslos!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:3
 msgid "Endgame"
-msgstr ""
+msgstr "Ende"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:148
 msgid ""
 "After liberating his home, Malakar and Kamalar mounted a joint offensive "
 "against the capital city of Weswyt."
 msgstr ""
+"Nachdem die Heimat befreit ist, starten Malakar und Kamalar eine "
+"Großoffensive gegen die Hauptstadt Weswyt. "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:159
 msgid ""
 "Malakar would command the saurians, and the drake army would be split "
 "between them."
 msgstr ""
+"Malakar führte das Kommando über die Saurianer. Die Drachenarmee wurde auf "
+"die Anführer aufgeteilt. "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:166
 msgid ""
 "Malakar and Kamalar would lead the main force, and the saurian commander, "
 "Kzzklk, would lead his force of saurians, in hopes of outflanking the humans."
 msgstr ""
+"Malakar und Kamalar führten den Hauptschlag, während der Saurianerkommandant "
+"Kzzklk seine Truppen von der Flanke her gegen die Menschen lenkte, in der "
+"Hoffnung, ihre Linien aufzubrechen. "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:173
 msgid "So this is what the bastards did with our city!"
-msgstr ""
+msgstr "Dies ist es also, was diese Hunde unserer Stadt angetan haben! "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:178
 msgid "Yes. The humans have defiled the Temple of Gar-Alagar!"
-msgstr ""
+msgstr "Allerdings. Die Menschen haben den Tempel von Gar-Alagar geschändet!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:183
 msgid "I will kill meeeeself ssssome humanssss!"
-msgstr ""
+msgstr "Hhhichhh werrrde sssssselbsssst Mensshhen umbringen!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:188
 msgid "Now I will get revenge for my enslavement!"
-msgstr ""
+msgstr "Endlich werde ich meine Rache für die Zeit der Sklaverei bekommen! "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:193
 msgid "Well said, brother. THE FIGHT FOR FREEDOM BEGINS HERE!!!"
-msgstr ""
+msgstr "Wohl gesprochen, Bruder! DER KAMPF UM DIE FREIHEIT HAT BEGONNEN!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:213
 msgid "Theeere are nooooo mmmore sssssaurians lleft."
-msgstr ""
+msgstr "Esssss haben sss keine sssaurianer überlebt ... sssss ... "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:239
 msgid "I dddddie! Fffight ffor meee...avvvennnnge...kkkill huuumansssss..."
 msgstr ""
+"Ichhh ssssterbe ... Kämpffft ... sss ... rächt ... sss ... rächt mich ... "
+"sss ... tööötet ... töööhhh..."
 
 #: Flight_Freedom/scenarios/Endgame.cfg:248
 msgid "NOOOOOOOO! I commit suicide!"
-msgstr ""
+msgstr "NEIN! Ich ersäufe mich selbst!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:286
 msgid "GUARDS!!! Slay them all!"
-msgstr ""
+msgstr "WACHEN! Tötet sie alle!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:312
 msgid "Morogor is ours!"
-msgstr ""
+msgstr "Ha! Morogor ist Unser!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:324
 msgid "But this is bittersweet. My brother is dead."
-msgstr ""
+msgstr "Ein bitterer Triumph! Mein Bruder ist gefallen!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:329
 msgid "He died fighting for you. Like any of your other soldiers would."
 msgstr ""
+"Er starb im Kampf für Euch. Wie ein jeder Euerer wackeren Krieger es tun "
+"würde!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:334
 msgid "He was a true warrior."
-msgstr ""
+msgstr "Ja, in seinen Adern floß das Blut des wahren Kriegers."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:132
 #: Flight_Freedom/scenarios/Endgame.cfg:348
 msgid "Brother!"
-msgstr ""
+msgstr "Bruder!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:353
 msgid "I am gone! Fight on against the humans without me!"
-msgstr ""
+msgstr "Ich bin fort! Bekämpft die Menschen ohne mich! Das Feuer sei mit Euch!"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:170
 #: Flight_Freedom/scenarios/Endgame.cfg:369
 msgid "Kzzklk"
-msgstr ""
+msgstr "Kzzklk"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:421
 msgid "At yooourrr ccccommaaaand!"
-msgstr ""
+msgstr "Zu Eueren ... sssiii ... Dienssssten! Ssss ..."
 
 #: Flight_Freedom/scenarios/Endgame.cfg:448
 msgid "They have fortified the entrance!"
-msgstr ""
+msgstr "Sie haben den Eingang befestigt!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:521
 msgid "Help us! The humans are trying to kill us!"
-msgstr ""
+msgstr "Helft uns! Die Menschen bringen uns um!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:548
 msgid ""
 "Greetings. My name is James T. Picard. I am a soldier from 500 years in the "
 "future.  My time machine has just broken down. I am at your service."
 msgstr ""
+"Grüße. Mein Name ist James T. Picard, ein Soldat aus einer fernen Zukunft. "
+"Leider scheint meine Zeitmaschine eine Fehlfunktion gehabt zu haben. Meine "
+"Herren, ich stehe Ihnen zur Verfügung. Falls ich bitte einen Darjeeling "
+"haben könnte. Danke. "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:575
 msgid "Malfunction! YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!"
-msgstr ""
+msgstr "Fehlfunktion! AAAAAAAAAAAAAAAAHAAAAAAAAAARRRR!!"
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:17
 msgid ""
 "With the seizure of Weswyt, Morogor was once again the homeland of the "
 "Drakes."
 msgstr ""
+"Mit der Einnahme Weswyts war Morogor wieder in die Heimat der Drachen "
+"zurückgekehrt."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:21
 msgid ""
 "Malakar was crowned King of the Drakes, for saving his people from the hands "
 "of the humans."
 msgstr ""
+"Malakar hat den König der Drachen gekrönt, denn er war es, der sein Volk aus "
+"den Händen der Menschen befreit hat."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:24
 msgid ""
@@ -468,166 +535,193 @@ msgid ""
 "strike repeatedly at the humans, and liberate their brothers still in "
 "captivity."
 msgstr ""
+"Mit der Macht aller Drachenstämme im Rücken konnte Malakar unablässig "
+"Schläge gegen die Menschen führen und seine Brüder befreien, die sich "
+"immernoch in Gefangenschaft befanden."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:28
 msgid ""
 "Malakar lived to the ripe old age of 133. It was rumored that a massive "
 "firestorm erupted when he died, engulfing half of Morogor."
 msgstr ""
+"Malakar starb im reifen Alter von hundertdreiunddreißig Jahren. Gerüchte "
+"wissen von einem gewaltigen Feuersturm zu berichten, als er starb. Das Feuer "
+"soll halb Morogor überrollt haben."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:32
 msgid "Kogw lived to be 47, and was a noble in Malakar's court."
 msgstr ""
+"Kogw lebte als Adeliger an Malakars Hof, bis er mit siebenundvierzig Jahren "
+"dahinschied."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:36
 msgid ""
 "For hundreds of years afterward, Malakar was remembered as one of the heroes "
 "of the drakes."
 msgstr ""
+"Noch Jahrhunderte später gedachte man Malakar als einem der großen "
+"Drachenhelden. "
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:40
 msgid ""
 "Eventually, he and Kogw were deified. Their spirits remained to watch over "
 "the drakes from above."
 msgstr ""
+"Schließlich wurden er und Kogw in den Stand der Götter gehoben. Ihre Geister "
+"wachen nun vom Himmel herab über das Schicksal der Drachen. "
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:62
 msgid "Take your place at the throne"
-msgstr ""
+msgstr "Nehmt Eueren Platz am Thron ein."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:117
 msgid "VICTORY IS OURS!!!"
-msgstr ""
+msgstr "Der Sieg ist UNSER!"
 
 #: Flight_Freedom/scenarios/Exodus.cfg:3
 msgid "The Exodus"
-msgstr ""
+msgstr "Exodus"
 
 #: Flight_Freedom/scenarios/Exodus.cfg:74
 msgid "We have reached our landing site!"
-msgstr ""
+msgstr "Wir haben den Landeplatz erreicht!"
 
 #: Flight_Freedom/scenarios/Exodus.cfg:79
 msgid "It is overrun by humans. Let us kill them!"
-msgstr ""
+msgstr "Er wurde von Menschen überrannt. Auf in den Kampf!"
 
 #: Flight_Freedom/scenarios/Exodus.cfg:97
 msgid "To Morogor!"
-msgstr ""
+msgstr "Nach Morogor!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:3
 msgid "Gate of Storms"
-msgstr ""
+msgstr "Sturmtor"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:49
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:111
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:139
 msgid "Destroy the Gate of Storms"
-msgstr ""
+msgstr "Zerstört das Sturmtor!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:50
 msgid "Move a unit onto the Gate of Storms"
-msgstr ""
+msgstr "Leitet eine Einheit auf das Sturmtor."
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:70
 msgid "This is the Gate of Storms!"
-msgstr ""
+msgstr "Dies ist das Sturmtor!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:75
 msgid ""
 "So what? I ought to leave it alone, make the humans pay for what they have "
 "done!"
 msgstr ""
+"Na und? Ich sollte es in Ruhe und stattdessen die Menschen für ihre Untaten "
+"bezahlen lassen!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:80
 msgid "If you were to leave it alone, you will doom Morogor as well."
-msgstr ""
+msgstr "Wenn Ihr es nicht aufsucht, wird das zur Vernichtung Morogors führen."
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:85
 msgid "To arms! Destroy it!"
-msgstr ""
+msgstr "Zu den Waffen! Zerstört es!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:108
 msgid "It is invulnerable to physical force! It must be destroyed with fire!"
 msgstr ""
+"Rohe Gewalt vermag nichts gegen es auszurichten. Es muß durch Feuer zerstört "
+"werden!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:112
 msgid ""
 "Move a Drake Burner, Fire Drake, or Inferno Drake onto the Gate of Storms"
 msgstr ""
+"Führt einen Drake Burner, einen Fire Drake oder einen Inferno Drake auf das "
+"Sturmtor."
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:120
 msgid "A Fire or Inferno Drake is necessary to destroy the Gate of Storms."
 msgstr ""
+"Die Dienste eines Fire- oder Inferno Drakes werden benötigt, um das Sturmtor "
+"zu vernichten."
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:136
 msgid "My fire is too weak. Use a Fire or Inferno Drake!"
-msgstr ""
+msgstr "Mein Feuer ist zu schwach. holt einen Fire- oder Inferno Drake!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:140
 msgid "Move a Fire Drake or Inferno Drake onto the Gate of Storms"
-msgstr ""
+msgstr "Führt einen Fire Drake oder einen Inferno Drake auf das Sturmtor"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:155
 msgid ""
 "I call upon Gar-Hagar, god of all that is burning to destroy this portal of "
 "evil!"
 msgstr ""
+"Gar-Hagar, Gott des Feuers, ich rufe dich an, zerstöre dieses Tor des Bösen!"
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:3
 msgid "Hordes of the Foul Undead"
-msgstr ""
+msgstr "Horden der Üblen Untoten"
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:54
 msgid "Move Malakar to the ruined keep"
-msgstr ""
+msgstr "Führt Malakar zu der Brugruine."
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:55
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:114
 #: Flight_Freedom/scenarios/Landfall.cfg:88
 #: Flight_Freedom/scenarios/Landfall.cfg:254
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Vernichtet die beiden feindlichen Anführer"
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:88
 msgid ""
 "After defeating the rebels, Malakar left the valley, his intent to go to the "
 "landing site and sail to his homeland."
 msgstr ""
+"Nachdem er die Rebellen besiegt hat, verließ Malakar das Tal, um sich zum "
+"Anleger zu begeben und gen Heimat zu segeln."
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:93
 msgid ""
 "Unfortunately, Malakar soon encountered undead, no doubt originating from "
 "the Gate of Storms."
 msgstr ""
+"Unglücklicherweise traf Malakar bald auf Untote, die zweifellos noch vom "
+"Sturmtor stammten. "
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:98
 msgid "The evil hordes march upon us!"
-msgstr ""
+msgstr "Die Horden des Bösen marschieren gegen uns!"
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:103
 msgid "We will vanquish them!"
-msgstr ""
+msgstr "Wir werden sie zerfetzen."
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:127
 msgid "They use gargoyles!"
-msgstr ""
+msgstr "Sie haben Gargoylen!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:3
 msgid "Landfall"
-msgstr ""
+msgstr "Landung"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:87
 msgid "Move the Unforgiver to the pier"
-msgstr ""
+msgstr "Bewegt den Gnadenlosen zum Pier."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:118
 msgid "(Malakar) We have made landfall!"
-msgstr ""
+msgstr "(Malakar) Wir sind gelandet!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:124
 msgid "(Kogw) Be wary, this is not Morogor, but the Isle of Storms."
 msgstr ""
+"(Kogw) Nehmt Euch in Acht, dies ist nicht Morogor. Dies ist die Insel der "
+"Stürme! "
 
 #: Flight_Freedom/scenarios/Landfall.cfg:130
 msgid ""
@@ -636,6 +730,10 @@ msgid ""
 "contacted the Lich-Lords, the kings of the netherworld, to attempt to "
 "conquer the world thousands of years ago."
 msgstr ""
+"/(Kogw) Vor tausenden von Jahren war ein mächtiger zauberer hierher verbannt "
+"worden - so behauptet bes wenigstens die Legende. Er öffnete ein Portal zur "
+"Unterwelt und besprach sich mit den Lich-Lords, den Herren der Unterwelt, um "
+"die Welt zu erobern."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:136
 msgid ""
@@ -647,6 +745,14 @@ msgid ""
 "unleashed, who created a portal to our ancestral home, known only as the "
 "Green Isle. He, along with the orcs, drove my ancestors from the Green Isle."
 msgstr ""
+"(Kogw) Jedoch waren ihm die Lich-Lords feindlich gesinnt und töteten den "
+"Schwarzmagier. Obgleich sowohl der Schwarzmagier, als auch die Lords seit "
+"langem fort sind, sind die Orks geblieben. Beim Tod des Zauberers schloß "
+"sich das Tor, öffnete sich aber alle vierhundert Jahre, um einen weiteren "
+"Lich-Lord in die Welt zu entlassen. Bei der letzten Öffnung kam der Lord "
+"Jeyvan, der ein Tor zur 'Grünen Insel', der Heimat unserer Vorfahren "
+"beschwor. Gemeinsam mit den Orks vertrieb er meine Vorfahren von der Grünen "
+"Insel."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:142
 msgid ""
@@ -654,20 +760,27 @@ msgid ""
 "again, summoning another Lich-Lord, to finish what Jeyvan started: the "
 "destruction of all that lives. But even now, evil emanates from it."
 msgstr ""
+"(Kogw) Falls diese Legende wahr sein sollte, wird sich das Portal in wenigen "
+"Jahren wieder öffnen und damit einen Lich-Lord herbeirufen, der beenden "
+"wird, was Jeyvan begonnen hat: Die Zerstörung allen Lebens. Schon jetzt kann "
+"man seine böse Ausstrahlung spüren."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:148
 msgid "(Malakar) What evil?"
-msgstr ""
+msgstr "(Malakar) Seine 'böse Ausstrahlung'?"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:154
 msgid ""
 "(Kogw) I don't really know. Some people say it is a plague, others say it is "
 "an earthquake, but the most common reports describe powerful spirits."
 msgstr ""
+"(Kogw) Seine Natur ist mir unbekannt. Manche behaupten, es wäre eine Seuche, "
+"andere meinen, es handele sich um ein Erdbeben, aber am verbreitetsten ist "
+"die Ansicht, daß es sich um mächtige Geister handelt."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:160
 msgid "(Malakar) What do these spirits look like?"
-msgstr ""
+msgstr "(Malakar) Und wie sollen diese Geister aussehen?"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:166
 msgid ""
@@ -676,161 +789,177 @@ msgid ""
 "drunk anyway. Even these are supposedly only the vanguard of far worse "
 "creatures to come."
 msgstr ""
+"(Kogw) Soweit ich weiß, sollen es Wesen aus reinem Donner sein, deren "
+"Gestalten denen von Ogern ähneln. Sie materialisieren sich in einem grellen "
+"Blitzstrahl - aber das alles hat mir ein Seemann erzählt, der sturztrunken "
+"gewesen ist. Selbst diese Geisterwesen sollen nur die Vorboten weit "
+"graunehafterer Kreaturen sein. "
 
 #: Flight_Freedom/scenarios/Landfall.cfg:172
 msgid ""
 "(Malakar) I hope this sailor was indeed drunk, but I do have misgivings "
 "about this island."
 msgstr ""
+"(Malakar) Wahrlich, ich hoffe sehr, daß dieser Seeman betrunken gewesen ist. "
+"Beim Gedanken an diese Insel befallen mich üble Vorahnungen."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:178
 msgid "(Kogw) We must be very careful then."
-msgstr ""
+msgstr "(Kogw) Wohl denn! Wir müssen sehr vorsichtig sein."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:327
 msgid "The bridge collapsed!"
-msgstr ""
+msgstr "Die Brücke ist eingestürzt!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:357
 msgid "(Malakar) The bridge collapsed!"
-msgstr ""
+msgstr "(Malakar) Die Brücke ist eingestürzt!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:399
 msgid "(Malakar) The humans pursue us!"
-msgstr ""
+msgstr "(Malakar) Seht! Menschen! Wir werden verfolgt!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:497
 msgid "(Kogw) A spirit has attacked!"
-msgstr ""
+msgstr "(Kogw) Da! Ein Geist hat angegriffen! Die Gerüchte sind wahr!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:550
 msgid "Intruders! Die!"
-msgstr ""
+msgstr "Eindringlige: Sterbt!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:555
 msgid "Malakar, die! Skula-Teroa, die!"
-msgstr ""
+msgstr "Malakar, stirb! Nieder mit Euch, Skula-Teroa!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:684
 msgid "I really failed this time..."
-msgstr ""
+msgstr "Diesmal habe ich wirklich vollkommen versagt."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:712
 msgid "RUARRAGH!"
-msgstr ""
+msgstr "RUARRAGH!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:717
 msgid "Help! Must get to ship!"
-msgstr ""
+msgstr "Zu Hilfe! Wir müssen zum Schiff!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:729
 msgid "Whew! Close call!"
-msgstr ""
+msgstr "Ho! Das war knapp."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:792
 msgid "They have summoned reinforcements! We must flee! Onward!"
-msgstr ""
+msgstr "Sie haben Verstärkung herbeigerufen! Wir müssen fliehen! Beeilung!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:797
 msgid "But we must leave the ships behind!"
-msgstr ""
+msgstr "Das Schiff müssen wir zurücklassen!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:802
 msgid "Fine! Let's get out of here!"
-msgstr ""
+msgstr "Wohl denn! Nicht wie weg von hier!"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:3
 msgid "Liberation"
-msgstr ""
+msgstr "Befreiung"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:76
 msgid "Protect Kamalar"
-msgstr ""
+msgstr "Beschützt Kalamar"
 
-#: Flight_Freedom/utils/objectives.cfg:35
+#: Flight_Freedom/utils/objectives.cfg:37
 #: Flight_Freedom/scenarios/Liberation.cfg:77
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Besiegt alle gegnerischen Anführer"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:79
 msgid "Death of Kamalar"
-msgstr ""
+msgstr "Kalamars Tod"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:95
 msgid ""
 "Malakar then traveled to the home of his older brother Kamalar, high priest "
 "of Gar-Dalgar, the Murderer."
 msgstr ""
+"Malakar reiste in die Heimat seines älteren Bruders Kalamar, dem "
+"Hohepriester von Gar-Dalgar, dem Mörder."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:99
 msgid "Kamalar"
-msgstr ""
+msgstr "Kalamar"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:108
 msgid "Hello brother!"
-msgstr ""
+msgstr "Seid gegrüßt, Bruder!"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:113
 msgid "I request your assistance fighting the evil humans."
-msgstr ""
+msgstr "Ich erbete Euere Unterstützung gegen die bösartigen Menschen."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:118
 msgid "Very well."
-msgstr ""
+msgstr "Es sei."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:137
 msgid "I am gone!"
-msgstr ""
+msgstr "Ich bin fort!"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:142
 msgid "Without him, we will be unable to continue. All is lost!"
-msgstr ""
+msgstr "Ohne ihn werden wir nicht weiterkommen. Alles ist verloren!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:121
 #: Flight_Freedom/scenarios/Liberation.cfg:154
 msgid "We continue!"
-msgstr ""
+msgstr "Wir lassen uns nicht aufhalten!"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:159
 msgid "Don't be so hasty, brother. I bring friends."
-msgstr ""
+msgstr "Übereilt nichts, Bruder. Ich bringe Freunde."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:164
 msgid "Kzzklk, show yourself!"
-msgstr ""
+msgstr "Zeigt Euch, Kzzklk!"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:192
 msgid "What are these... creatures?"
-msgstr ""
+msgstr "Was sind diese ... Wesen?"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:197
 msgid "They are called saurians. A little curiosity I came across one night."
 msgstr ""
+"Man nennt sie Saurianer. Eine kleine Absonderlichkeit, der ich eines Nachts "
+"begegnet bin."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:202
 msgid ""
 "I found a small group of them. Refugees from the humans. They have allied "
 "with me against the humans."
 msgstr ""
+"Ich hatte eine kleine Gruppe von ihnen gefunden. Sie waren auf der Flucht "
+"vor den Menschen. Nun haben sie sich mit mir gegen die Menschen verbündet."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:207
 msgid ""
 "However, once the humans came to Morogor, we had to go into hiding. With the "
 "help of the saurians, I was able to avoid their patrols."
 msgstr ""
+"Als die Menschen Morogor errichten, mußten wir uns verstecken. Mit der Hilfe "
+"der Saurianer gelang es mir, zwischen ihren Wachposten hindurchzuschlüpfen."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:212
 msgid ""
 "Now with your arrival, there is hope. Kzzklk, will you assist us once again?"
 msgstr ""
+"Mit Euch kommt Hoffnung! Kzzklk, werdet Ihr uns erneut zur Seite stehen?"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:217
 msgid "Yesss! My axxxxe iss reaaaddy!"
-msgstr ""
+msgstr "Jahhh. Meine Axxxt issst bereit ... sss ..."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:222
 msgid "How should the saurians be used?"
-msgstr ""
+msgstr "Wie sollten wir die Saurianer am besten einsetzen?"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:227
 msgid ""
@@ -838,146 +967,161 @@ msgid ""
 "while we attack the humans head-on, the saurians sneak behind the enemy "
 "lines and kill their leaders."
 msgstr ""
+"Die Saurianer sind hervorragend im Verbergen, verfügen aber nur über eine "
+"schlechte Bewaffnung. Während wir die Menschen frontal angreifen, sollten "
+"die Saurianer heimlich ihre Linien umgehen und ihre Anführer töten."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:232
 msgid "Or, I can place the saurians under your command, to add to your army."
-msgstr ""
+msgstr "Ich kann sie aber auch Euerem Kommando unterstellen."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:237
 msgid "Just how many of these saurians do you have?"
-msgstr ""
+msgstr "Wie viele Saurianer stehen Euch zur Verfügung?"
 
 #: Flight_Freedom/scenarios/Liberation.cfg:242
 msgid "Around ten. Fifteen at most."
-msgstr ""
+msgstr "Zehn, höchstens fünfzehn."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:250
 msgid ""
 "Then there will be a tough fight ahead of us. I must decide what I will do "
 "with the saurians."
 msgstr ""
+"Dann erwartet uns ein harter Kampf. Ich werde entscheiden, wie wir die "
+"Saurianer einsetzen."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:252
 msgid "I will take command of the saurians."
-msgstr ""
+msgstr "Ich übernehme das Kommando über die Saurianertruppe."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:257
 msgid "Use them well."
-msgstr ""
+msgstr "Führt sie weise."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:266
 msgid "The saurians will try to outflank the humans."
 msgstr ""
+"Die Saurianer werden versuchen, die Menschen in der Flanke anzugreifen."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:271
 msgid "Very well. They will arrive at the third dawn."
 msgstr ""
+"Wohl an denn. Sie werden uns vorausssichtlich am dritten Morgen erreicht "
+"haben."
 
 #: Flight_Freedom/scenarios/Manor.cfg:3
 msgid "The Manor"
-msgstr ""
+msgstr "Das Schloß"
 
 #: Flight_Freedom/scenarios/Manor.cfg:89
 msgid "Defeat Prax III"
-msgstr ""
+msgstr "Besiegt Prax III"
 
 #: Flight_Freedom/scenarios/Manor.cfg:181
 msgid "Soldiers! Attack! I expect you all to bring back the scalp of a human!"
 msgstr ""
+"Soldaten! Zum Angriff! Ich erwarte von jedem von euch, daß er mir wenigstens "
+"einen Menschenskalp bringt!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:305
 msgid "Drake Spear"
-msgstr ""
+msgstr "Drachen-Speer"
 
 #: Flight_Freedom/scenarios/Manor.cfg:306
 msgid "This weapon is excellent for a drake rising against its masters."
 msgstr ""
+"Diese Waffe ist ein vorzügliches Wekzeug für jeden Drachen, der gegen seinen "
+"Herrn aufbegehrt."
 
 #: Flight_Freedom/scenarios/Manor.cfg:307
 msgid "This weapon is only fit for adult drakes."
-msgstr ""
+msgstr "Diese Waffe eignet sich nur für erwachsene Drachen. "
 
 #: Flight_Freedom/scenarios/Manor.cfg:482
 msgid "Could this key fit that trapdoor?"
-msgstr ""
+msgstr "Könnte dieser Schlüssel zur Falltür passen?"
 
 #: Flight_Freedom/scenarios/Manor.cfg:489
 msgid "I seem to have found a key. What it unlocks, I cannot say."
 msgstr ""
+"Oh! Ich habe einen Schlüssel gefunden! Aber welches Schloß mag er öffnen?"
 
 #: Flight_Freedom/scenarios/Manor.cfg:548
 msgid "The key fits!"
-msgstr ""
+msgstr "Der Schlüssel passt!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:561
 msgid "The trapdoor is locked! Could that key fit?"
-msgstr ""
+msgstr "Die Falltür ist verschlossen! Ob dieser Schlüssel wohl passt?"
 
 #: Flight_Freedom/scenarios/Manor.cfg:568
 msgid "The trapdoor is locked!"
-msgstr ""
+msgstr "Die Falltür ist verschlossen!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:613
 msgid "This mansion is haunted!"
-msgstr ""
+msgstr "Auf diesem Gebäude liegt ein Fluch!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:625
 msgid "I surrender! Don't hurt me!"
-msgstr ""
+msgstr "Ich ergebe mich! Tut mir bitte nicht weh!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:630
 msgid "WHERE DO YOU KEEP YOUR MONEY?"
-msgstr ""
+msgstr "WO IST DEIN GELD?"
 
 #: Flight_Freedom/scenarios/Manor.cfg:635
 msgid "I don't know!"
-msgstr ""
+msgstr "Ich weiß es nicht!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:640
 msgid "TALK!!!"
-msgstr ""
+msgstr "REDE!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:652
 msgid ""
 "Ok... I'll tell you! There is a caravan headed here. You can catch them in a "
 "few hours."
 msgstr ""
+"Gut, gut! Ich rede. Es gibt eine Karavane, die Ihr in ein paar Stunden "
+"erreichen könnt!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:657
 msgid "String him up boys, were going to burn the place to the ground."
-msgstr ""
+msgstr "Fesselt ihn, Jungs! Wir brennen diesen Ort nieder."
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:3
 msgid "The Open Ocean"
-msgstr ""
+msgstr "Die offene See"
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:50
 msgid "Move the Unforgiver to the bottom"
-msgstr ""
+msgstr "Bringt den Erbarmungslosen zum unteren Kartenrand."
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:148
 msgid "Malakar had found open ocean, and was sailing south, when one day..."
-msgstr ""
+msgstr "Malakar segelte über die offene See gen Süden, als eines Tages ..."
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:154
 msgid "(Malakar) This ocean is inhabited by monsters! Let's kill them!"
-msgstr ""
+msgstr "(Malakar) Dieser Ozean wird von Monstern bewohnt! Bringen wir sie um!"
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:160
 msgid "(Kogw) No, I say we sneak by."
-msgstr ""
+msgstr "(Kogw) Nein, ich sage, wir umsegeln sie!"
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:166
 msgid "(Malakar) Fine. Let's get on with it."
-msgstr ""
+msgstr "(Malakar) Nun gut. Also los!"
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:183
 msgid "(Malakar) Let's press on!"
-msgstr ""
+msgstr "(Malakar) Vorwärts! Beeilung!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:3
 msgid "Rebellion"
-msgstr ""
+msgstr "Aufstand"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:17
 msgid ""
@@ -986,28 +1130,39 @@ msgid ""
 "Malakar, were taken prisoner. The shores of the sea remain forever red from "
 "the drake blood spilled on that woeful day."
 msgstr ""
+"Malakar und sein kleiner Stamm kämpften mutig, aber gegen die Armeen der "
+"Menschen vermochten sie nichts auszurichten. Viele Drachen wurden an diesem "
+"Tag dahingeschlachtet, die Überlebenden gefangengenommen. Die Küsten färbten "
+"sich rot von dem vergossenen Drachenblut, das an diesem schwarzen Tag "
+"vergossen worden war."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:22
 msgid "Malakar and his tribe were bound hand and foot, and thrown onto ships."
-msgstr ""
+msgstr "Malakar und sein Stamm wurden gebunden und auf Schiffe geschafft."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:27
 msgid ""
 "Many weeks passed. Half of the drakes died on the voyage, and the rest were "
 "badly injured."
 msgstr ""
+"Viele Wochen vergingen. Die Hälfte der Drachen starb auf dieser Reise, die "
+"übrigen waren ernsthaft erschöpft."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:32
 msgid ""
 "Eventually, the ship made landfall, on a country known as Wesnoth. They were "
 "sold as slaves to the baron Prax III."
 msgstr ""
+"Schließlich landete das Schiff in einem Land, das man Wesnoth nennt. Sie "
+"wurden an den Baron Prax III als Sklaven verkauft."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:37
 msgid ""
 "Mind control spells were cast on the prisoners, and they were forced to work "
 "in Prax III's shipyards for the rest of their lives."
 msgstr ""
+"Bezauberungsssprüche vernebelten die Sinne der Gefangenen, die in den Docks "
+"von Prax III für den Rest ihres Lebens arbeiten sollten."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:42
 msgid ""
@@ -1015,214 +1170,234 @@ msgid ""
 "to lead a revolt against the humans before the spells could take effect "
 "again."
 msgstr ""
+"Nach fünf Jahren aber verflüchtigte sich die Mentalmagie. Malakar entschloß "
+"sich kurzerhand, eine Revolte anzuzetteln, bevor die Magie erneut ihre "
+"Wirkung entfalten konnte. "
 
 #: Flight_Freedom/scenarios/Survival.cfg:53
 #: Flight_Freedom/scenarios/Rebellion.cfg:58
 msgid "Malakar"
-msgstr ""
+msgstr "Malakar"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:72
 msgid "Overseer"
-msgstr ""
+msgstr "Aufseher"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:85
 msgid "Kill the overseer"
-msgstr ""
+msgstr "Tötet den Aufseher"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:404
 msgid "WORK!"
-msgstr ""
+msgstr "ARBEITE!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:433
 msgid "I'm done being at the hands of humans! Everyone! ATTACK!!!"
 msgstr ""
+"Wir sind genug durch die Menschen erniedrigt worden! Alle miteinander - ZUM "
+"ANGRIFF!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:442
 msgid ""
 "We must go directly to the heart of the humans. Onward to his filthy manor!"
 msgstr ""
+"Wir müssen ins Zentrum der Menschen vorstoßen! Auf zu dem scheußlichen "
+"Schloß!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:3
 msgid "Return to Morogor"
-msgstr ""
+msgstr "Rückkehr nach Morogor"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:100
 msgid "Morogor! At last!"
-msgstr ""
+msgstr "Morogor! Endlich!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:105
 msgid "It is overrun by humans!"
-msgstr ""
+msgstr "Es wurde von Menschen überrannt!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:110
 msgid "We will run them through!"
-msgstr ""
+msgstr "Wir werden durchbrechen."
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:3
 msgid "River of Skulls"
-msgstr ""
+msgstr "Schädelfluß"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:117
 #: Flight_Freedom/scenarios/River_Skulls.cfg:251
 #: Flight_Freedom/scenarios/River_Skulls.cfg:310
 #: Flight_Freedom/scenarios/River_Skulls.cfg:336
 msgid "Find a way out of the caverns"
-msgstr ""
+msgstr "Findet einen Weg hinaus aus den Höhlen"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:118
 msgid "Explore the surrounding area"
-msgstr ""
+msgstr "Erkundet die Umgebung"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:211
 msgid "Caves as far as the eye can see. We are completely lost."
-msgstr ""
+msgstr "Gänge! Nichts als Höhlengänge! Wir haben uns vollkommen verirrt."
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:216
 msgid "But there are dwarves everywhere. We must flee somewhere."
-msgstr ""
+msgstr "Überall sind Zwerge! Wir müssen uns in Sicherheit bringen!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:228
 msgid "The humans pursue us!"
-msgstr ""
+msgstr "Die Menschen verfolgen uns!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:248
 msgid "Well, we can't go that way."
-msgstr ""
+msgstr "Nein, diesen Weg können wir nicht einschlagen."
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:252
 msgid "Explore to the south"
-msgstr ""
+msgstr "Erkundet in Richtung Süden"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:272
 msgid "A spider web!"
-msgstr ""
+msgstr "Ein Spinnennetz!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:283
 msgid "GUGGAGUGGAGU!"
-msgstr ""
+msgstr "GUGGAGUGGAGU!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:302
 msgid "A river of lava! How am I supposed to cross?"
-msgstr ""
+msgstr "Ein Lavafluß! Wie soll ich den überwinden?"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:307
 msgid "I'll take care of that later. Drakes! We need to explore this river!"
 msgstr ""
+"Darum kümmere ich mich später. Drachen! Wir müssen diesen Fluß erkunden!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:311
 msgid "Explore the river"
-msgstr ""
+msgstr "Erforscht den Fluß"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:333
 msgid "Creatures of the lava! We cannot leave this way!"
-msgstr ""
+msgstr "Dort! Lavawesen! Dort kommen wir nicht weiter."
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:337
 msgid "Move Malakar to the western edge of the river of lava"
-msgstr ""
+msgstr "Führt Malakar zur Westende des Lavaflusses"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:395
 msgid "Lava hot!!! Ouch!!!"
-msgstr ""
+msgstr "Die Lava ist heiß! Au!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:400
 msgid "#If a unit is in lava, it will lose 4 hitpoints per turn."
 msgstr ""
+"#Eine Einheit, die sich in der Lava befindet, verliert pro Runde 4 "
+"Trefferpunkte."
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:441
 msgid "The sign says: Storeroom"
-msgstr ""
+msgstr "Auf dem Schild steht: Lagerraum"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:455
 msgid "The ground is unstable!"
-msgstr ""
+msgstr "Der Boden ist instabil!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:319
 #: Flight_Freedom/scenarios/River_Skulls.cfg:482
 msgid "HELP!!!"
-msgstr ""
+msgstr "HILFE!!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:534
 msgid "Ugh! Dwarven whiskey!"
-msgstr ""
+msgstr "Chuuuuhah! Zwergenbrandwein! Bäh! *Hust*"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:551
 #: Flight_Freedom/scenarios/Rockfall.cfg:282
 msgid "We must continue!"
-msgstr ""
+msgstr "Wir müssen weiter!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:556
 msgid "How am I to cross the lava?"
-msgstr ""
+msgstr "Wie soll ich die Lava überqueren?"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:561
 msgid "I'll carry you, hop on my back."
-msgstr ""
+msgstr "Ich trage Euch, klammert Euch an meinem Rücken fest!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:583
 msgid "We have used up half of our supplies."
-msgstr ""
+msgstr "Wir haben die Hälfte unserer Vorräte aufgebraucht!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:592
 msgid ""
 "We have used up three-quarters of our supplies. I suggest you make haste."
 msgstr ""
+"Wir haben drei Vertel unserer Vorräte aufgebraucht. Wir sollten uns wirklich "
+"beeilen!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:601
 msgid "Our supplies are dangerously low! Hurry!"
-msgstr ""
+msgstr "Unsere Vorräte gehen zur Neige! Beeilung!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:610
 msgid "We have run out of supplies, these caverns shall be our tomb!"
 msgstr ""
+"Wir haben alle unsere Vorräte aufgebraucht. Diese Höhlen werden unser Grab "
+"sein ."
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:3
 msgid "Rockfall"
-msgstr ""
+msgstr "Steilhang"
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:65
 #: Flight_Freedom/scenarios/Rockfall.cfg:132
 #: Flight_Freedom/scenarios/Rockfall.cfg:204
 msgid "Exit the cave"
-msgstr ""
+msgstr "Verlasst die Höhle"
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:110
 msgid "The exit is nearby. I must find the way out!"
-msgstr ""
+msgstr "Der Ausgang ist nah. ich muß den Weg finden!"
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:129
 msgid "I must destroy those boulders, so that the cave exit will collapse."
 msgstr ""
+"Ich muß diese Felsblöcke zerstören, damit der Höhlenausgang in sich "
+"zusammenfällt!"
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:133
 msgid "Collapse the cave exit by destroying the six boulders that support it"
-msgstr ""
+msgstr "Bringt den Ausgang zum Einsturz, indem Ihr sechs Felsblöcke zerstört"
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:197
 msgid "All 6 pillars have been destroyed! Malakar, you have 4 turns to escape!"
 msgstr ""
+"Alle sechs wurden zerstört! Malakar, Ihr habt vier Runden, um zu entkommen!"
 
 #: Flight_Freedom/scenarios/Rockfall.cfg:268
 msgid "You must destroy the pillars first."
-msgstr ""
+msgstr "Ihr müsst zuerst die Blöcke zerstören!"
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:3
 msgid "Southern Shore"
-msgstr ""
+msgstr "Südliche Küste"
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:34
 msgid "Luna"
-msgstr ""
+msgstr "Luna"
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:50
 msgid "Sink the Luna"
-msgstr ""
+msgstr "Versenkt die Luna"
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:117
 msgid ""
 "After securing the Blue River, Malakar and Kogw boarded the pirate flagship "
 "Unforgiver, and set sail for Morogor."
 msgstr ""
+"Nachdem der Blaue Fluß gesichtert worden ist, gingen Malakarf und Kogw an "
+"Bord des Flaggschiffs der Piraten, dem Gandenlosen, und setzten die Segel in "
+"Richtung Morogor."
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:122
 msgid ""
@@ -1230,121 +1405,136 @@ msgid ""
 "coast, they were intercepted by a Wesnothian patrol, the flagship being the "
 "Luna."
 msgstr ""
+"Allerdings rechneten sie nicht mit der Flotte von Wesnoth. Kaum hatten sie "
+"die Küste hinter sich gelassen, als sie von einer Wesnotgh-Patrouillenflotte "
+"gestellt wurden. Ihr Flaggschiff war die Luna."
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:127
 msgid ""
 "This is Commodore Jack of the Wesnothian Ship Luna. Lower your sails and "
 "prepare to be boarded."
 msgstr ""
+"Dies ist Commodore Jack des Flaggschiffs Luna, Wesnoth. Holt Euere Segel ein "
+"und macht Euch bereit, um geentert zu werden."
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:133
 msgid "(Malakar) Never!"
-msgstr ""
+msgstr "(Malakar) Niemals!"
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:138
 msgid "So be it. Prepare to die!"
-msgstr ""
+msgstr "Es sei. Sprecht Euer letztes Gebet."
 
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:150
 msgid "(Kogw) Let's leave Wesnoth for good!"
-msgstr ""
+msgstr "(Kogw) Laßt uns Wesnoth verlassen!"
 
 #: Flight_Freedom/scenarios/Survival.cfg:3
 msgid "Survival"
-msgstr ""
+msgstr "Überleben"
 
 #: Flight_Freedom/scenarios/Survival.cfg:17
 msgid ""
 "On the island of Morogor, a drake tribe was sleeping one day when they saw a "
 "strange sight."
 msgstr ""
+"Auf der Insel von Morogor, nach ihrem Mittagsschlaf, sichtete eine "
+"Drachensippe ein fremdartiges Schiff. "
 
 #: Flight_Freedom/scenarios/Survival.cfg:22
 msgid ""
 "Several boats were sailing toward them, crewed by humans and bristling with "
 "guns."
 msgstr ""
+"Viele Boote steuerten auf sie zu, bemannt mit bis an die Zähne bewaffneten "
+"Menschen."
 
 #: Flight_Freedom/scenarios/Survival.cfg:27
 msgid "The ships landed, and hordes of humans spilled out."
-msgstr ""
+msgstr "Als die Schiffe anlegten, schwärmten unzählige Menschen auf die Insel."
 
 #: Flight_Freedom/scenarios/Survival.cfg:32
 msgid ""
 "Normally, the humans were peaceful, but now they were out for drake blood."
 msgstr ""
+"Normalerweise waren die Menschen friedlich, aber diesmal dürstete es ihnen "
+"nach Drachenblut."
 
 #: Flight_Freedom/scenarios/Survival.cfg:37
 msgid ""
 "The leader of the tribe, Malakar, decided to put up a fight for as long as "
 "possible."
 msgstr ""
+"Der Anführer der Sippe, Malakar, entschied sich für Kampf -  so lange sie "
+"durchhielten."
 
 #: Flight_Freedom/scenarios/Survival.cfg:120
 msgid "Resist for as long as possible"
-msgstr ""
+msgstr "Widersteht, so lange Ihr könnt."
 
 #: Flight_Freedom/scenarios/Survival.cfg:131
 msgid "HELP!"
-msgstr ""
+msgstr "HILFE!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:3
 msgid "Underground"
-msgstr ""
+msgstr "Höhlen"
 
 #: Flight_Freedom/scenarios/Underground.cfg:86
 msgid "We must seize these caverns!"
-msgstr ""
+msgstr "Wir müssen diese Höhlen erobern!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:140
 msgid "Well, well, well. $gold_given pieces of gold were in this chest!"
-msgstr ""
+msgstr "Hm, hm, hm. In der Truhe befanden sich $gold_given Goldstücke!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:173
 msgid "Hey! $gold_given pieces of gold were in this chest!"
-msgstr ""
+msgstr "Hey! Ich habe $gold_given Goldstücke in der Truhe gefunden!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:206
 msgid "Hmmm... $gold_given pieces of gold were in this chest!"
-msgstr ""
+msgstr "Hmmm ... $gold_given Goldstücke befanden sich in dieser Truhe."
 
 #: Flight_Freedom/scenarios/Underground.cfg:239
 msgid "Looky here. $gold_given pieces of gold were in this chest!"
-msgstr ""
+msgstr "Ja-huu! In der Truhe befanden sich $gold_given Goldstücke!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:264
 msgid "That is a hidden door. Let's see what's behind it!"
-msgstr ""
+msgstr "Dort! Eine Geheimtür! mal sehen, was sich dahinter befindet!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:279
 msgid "Let us kill those allies of man!"
-msgstr ""
+msgstr "Töten wir diese Verbündeten der Menschen!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:294
 msgid "Hmmm... the bones of a dragon."
-msgstr ""
+msgstr "Hmm ... ein Drachengerippe."
 
 #: Flight_Freedom/scenarios/Underground.cfg:309
 msgid "Hmmm... A statue of a dragon."
-msgstr ""
+msgstr "Hmm ... eine Drachenstatue!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:406
 msgid "Die you drake scum!"
-msgstr ""
+msgstr "Sterbt, Echsenpack!"
 
 #: Flight_Freedom/scenarios/Underground.cfg:411
 msgid "The humans follow us! We must continue!"
-msgstr ""
+msgstr "Die Menschen verfolgen uns! Wir müssen weiter! "
 
 #: Flight_Freedom/units/Battleship.cfg:6
 msgid "Battleship"
-msgstr ""
+msgstr "Schlachtschiff"
 
 #: Flight_Freedom/units/Battleship.cfg:21
 msgid ""
 "The Battleship, very fast and armed with 3 ballistae, is a very versatile "
 "ship."
 msgstr ""
+"Das Schlachtschiff ist ein mächtiges Schiff: Nicht nur kann es schnell "
+"segeln, es ist auch mit drei Ballistae bestückt."
 
 #: Flight_Freedom/units/Pirate_Galleon.cfg:24
 #: Flight_Freedom/units/Transport_Galleon.cfg:20
@@ -1355,7 +1545,7 @@ msgstr ""
 #: Flight_Freedom/units/Gunboat.cfg:24 Flight_Freedom/units/Galleon.cfg:24
 #: Flight_Freedom/units/Clipper.cfg:24
 msgid "ballista"
-msgstr ""
+msgstr "Ballista"
 
 #: Flight_Freedom/units/Pirate_Galleon.cfg:25
 #: Flight_Freedom/units/Drake_Slave.cfg:91
@@ -1377,17 +1567,17 @@ msgstr ""
 #: Flight_Freedom/units/Saurian_Juggler.cfg:38
 #: Flight_Freedom/units/Wolf.cfg:24
 msgid "pierce"
-msgstr ""
+msgstr "Stechen"
 
 #: Flight_Freedom/units/Caravan.cfg:17
 msgid "Caravans are used to carry gold or supplies long distances."
-msgstr ""
+msgstr "Karavanen dienen zum Goldtransport über weiote Strecken."
 
 #: Flight_Freedom/units/Fake_Units.cfg:36
 #: Flight_Freedom/units/Fake_Units.cfg:61 Flight_Freedom/units/Rock.cfg:25
 #: Flight_Freedom/units/Caravan.cfg:20
 msgid "none"
-msgstr ""
+msgstr "keine"
 
 #: Flight_Freedom/units/Fake_Units.cfg:37
 #: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Rock.cfg:28
@@ -1400,11 +1590,11 @@ msgstr ""
 #: Flight_Freedom/units/Door.cfg:38 Flight_Freedom/units/Chicken.cfg:22
 #: Flight_Freedom/units/Caravan.cfg:21 Flight_Freedom/units/Rock_Golem.cfg:32
 msgid "impact"
-msgstr ""
+msgstr "Aufschlag"
 
 #: Flight_Freedom/units/Cave_Naga.cfg:6
 msgid "Cave Naga"
-msgstr ""
+msgstr "Cave Naga"
 
 #: Flight_Freedom/units/Cave_Naga.cfg:19
 msgid ""
@@ -1413,14 +1603,19 @@ msgid ""
 "underground and at night, but are hindered by bright light. Their muscles "
 "have evolved to be stronger, but slower. Their tail also has a deadly poison."
 msgstr ""
+"Der Cave Naga hat sich tiefen Höhlen als Lebensraum angepasst. Selbst Lava "
+"überquert er mühelos. Mit Augen, die an geringes Licht gewöhnt sind, stellt "
+"die Dunkelheit der Nacht und der Tiefen kein Hindernis für sie dar -  im "
+"Gegensatz zu Tageslicht.Sie sin d kräftiger, aber langsamer geworden. Ihr "
+"Schwanz enthält ein tödliches Gift."
 
 #: Flight_Freedom/units/Cave_Naga.cfg:22
 msgid "trident"
-msgstr ""
+msgstr "Dreizack"
 
 #: Flight_Freedom/units/Cave_Naga.cfg:29
 msgid "tail"
-msgstr ""
+msgstr "Schwanz"
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:29
 #: Flight_Freedom/units/Pirate_Captain.cfg:41
@@ -1428,37 +1623,40 @@ msgstr ""
 #: Flight_Freedom/units/Saurian_Skald.cfg:28
 #: Flight_Freedom/units/Saurian_Juggler.cfg:29
 msgid "poison"
-msgstr ""
+msgstr "Gift"
 
 #: Flight_Freedom/units/Chicken.cfg:6
 msgid "Chicken"
-msgstr ""
+msgstr "Huhn"
 
+# Anm. Wat heißt das? kontext? - The Very Uhu
 #: Flight_Freedom/units/Chicken.cfg:21
 msgid "bawk"
-msgstr ""
+msgstr "bawk"
 
 #: Flight_Freedom/units/Clipper.cfg:6
 msgid "Clipper"
-msgstr ""
+msgstr "Schoner"
 
 #: Flight_Freedom/units/Clipper.cfg:21
 msgid ""
 "Clippers, although fast, are very weak. Armed with a ballista, they are used "
 "primarily as scouts."
 msgstr ""
+"Schoner sind zwar schnell, aber verwundbar. Nur mit einer Ballista "
+"bewaffnet, dienen sie vor allem als Spähschiffe."
 
 #: Flight_Freedom/units/Cow.cfg:6
 msgid "Cow"
-msgstr ""
+msgstr "Kuh"
 
 #: Flight_Freedom/units/Cow.cfg:21 Flight_Freedom/units/Horse.cfg:21
 msgid "kick"
-msgstr ""
+msgstr "Tritt"
 
 #: Flight_Freedom/units/Crow.cfg:6
 msgid "Crow"
-msgstr ""
+msgstr "Krähe"
 
 #: Flight_Freedom/units/Drake_Slave.cfg:26
 #: Flight_Freedom/units/Drake_Slave.cfg:69
@@ -1467,7 +1665,7 @@ msgstr ""
 #: Flight_Freedom/units/Drake_Hatchling.cfg:26
 #: Flight_Freedom/units/Wolf.cfg:39
 msgid "claws"
-msgstr ""
+msgstr "Klauen"
 
 #: Flight_Freedom/units/Drake_Slave.cfg:27
 #: Flight_Freedom/units/Drake_Slave.cfg:70
@@ -1488,39 +1686,42 @@ msgstr ""
 #: Flight_Freedom/units/Saurian_Juggler.cfg:24
 #: Flight_Freedom/units/Wolf.cfg:40
 msgid "blade"
-msgstr ""
+msgstr "Schneide"
 
 #: Flight_Freedom/units/Door.cfg:6
 msgid "Door"
-msgstr ""
+msgstr "Tür"
 
 #: Flight_Freedom/units/Door.cfg:33
 msgid "The door will not open for any who are not allied with it."
 msgstr ""
+"Die Tür wird sich niemandem öffnen, der nicht zu ihren Erschaffern gehört."
 
 #: Flight_Freedom/units/Door.cfg:35
 msgid "bump"
-msgstr ""
+msgstr "Rumms"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:6
 msgid "Drake Guard"
-msgstr ""
+msgstr "Drachenwächter"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:23
 msgid ""
 "Protected by their massive golden shields, Drake Guards are at the front "
 "lines, protecting the Drakes behind them."
 msgstr ""
+"Drachenwächter bilden im Schutz ihrer massiven Goldschilde die Frontlinie im "
+"Gefecht und beschützen so die Drachen hinter sich."
 
 #: Flight_Freedom/units/Drake_Slave.cfg:90
 #: Flight_Freedom/units/Drake_Worker.cfg:92
 #: Flight_Freedom/units/Drake_Guard.cfg:31
 msgid "spear"
-msgstr ""
+msgstr "Speer"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:53
 msgid "fire breath"
-msgstr ""
+msgstr "Feuerodem"
 
 #: Flight_Freedom/units/Spirit_Minor.cfg:23
 #: Flight_Freedom/units/Lava_Beast.cfg:25
@@ -1534,62 +1735,68 @@ msgstr ""
 #: Flight_Freedom/units/Spirit_Thunder.cfg:22
 #: Flight_Freedom/units/Spirit_Thunder.cfg:29
 msgid "fire"
-msgstr ""
+msgstr "Feuer"
 
 #: Flight_Freedom/units/Drake_Hatchling.cfg:6
 msgid "Drake Hatchling"
-msgstr ""
+msgstr "Drachenjunges"
 
 #: Flight_Freedom/units/Drake_Hatchling.cfg:23
 msgid ""
 "A newborn Drake, Hatchlings are used as cannon fodder and as cheap walls."
 msgstr ""
+"Ein neugeborener Drache dient in Notsituationen als Kanonenfutter und leicht "
+"ersetzbare Deckung."
 
 #: Flight_Freedom/units/Drake_Slave.cfg:6
 msgid "Drake Slave"
-msgstr ""
+msgstr "Drachensklave"
 
 #: Flight_Freedom/units/Drake_Slave.cfg:23
 msgid "Drake Slaves are servile members of this reptilian race."
-msgstr ""
+msgstr "Drachensklaven sind duckmäuserische Mitglieder dieser Reptilienart. "
 
 #: Flight_Freedom/units/Drake_Slave.cfg:50
 msgid "Drake Rebel"
-msgstr ""
+msgstr "Drachen-Rebell"
 
 #: Flight_Freedom/units/Drake_Slave.cfg:66
 msgid ""
 "This was a drake slave, but it has grabbed a spear in rebellion against its "
 "masters."
 msgstr ""
+"Dies war ein Drachensklave, aber nun hat er einen Speer ergriffen, um gegen "
+"seine Herren aufzubegehren."
 
 #: Flight_Freedom/units/Drake_Worker.cfg:6
 msgid "Drake Worker"
-msgstr ""
+msgstr "Drachenarbeiter"
 
 #: Flight_Freedom/units/Drake_Worker.cfg:23
 msgid "More advanced Drakes, the Workers fight with their maces."
-msgstr ""
+msgstr "Als erfahrenere Drachen kämpfen die Drachenarbeiter mit ihren Keulen."
 
 #: Flight_Freedom/units/Drake_Worker.cfg:26
 #: Flight_Freedom/units/Drake_Worker.cfg:70
 #: Flight_Freedom/units/Highwayman.cfg:22
 msgid "mace"
-msgstr ""
+msgstr "Keule"
 
 #: Flight_Freedom/units/Drake_Worker.cfg:51
 msgid "Drake Guerilla"
-msgstr ""
+msgstr "Drachenguerillero"
 
 #: Flight_Freedom/units/Drake_Worker.cfg:67
 msgid ""
 "More advanced Drakes, these guerilla fighters have so far led a successful "
 "campaign against their masters."
 msgstr ""
+"Als erfahrene Drachen haben diese Drachenguerilleros ihren ehemaligen Herren "
+"einen recht erfolgreichen Kampf geliefert"
 
 #: Flight_Freedom/units/Dreadnought.cfg:6
 msgid "Dreadnought"
-msgstr ""
+msgstr "Schlachtkreuzer"
 
 #: Flight_Freedom/units/Dreadnought.cfg:21
 msgid ""
@@ -1597,47 +1804,51 @@ msgid ""
 "catapult, they can kill almost anything unlucky enough to be in front of "
 "them."
 msgstr ""
+"Schlachtkreuzer sind der Stolz der Flotte der Menschen. mit drei Ballistae "
+"und einem Katapult ausgestattet können sie jeden versenken, der ihnen zu "
+"nahe kommt."
 
 #: Flight_Freedom/units/Dreadnought.cfg:42 Flight_Freedom/units/Frigate.cfg:41
 #: Flight_Freedom/units/Gunboat.cfg:41
 msgid "catapult"
-msgstr ""
+msgstr "Katapult"
 
 #: Flight_Freedom/units/Driver.cfg:6
 msgid "Driver"
-msgstr ""
+msgstr "Fahrer"
 
 #: Flight_Freedom/units/Driver.cfg:24
 msgid "whip"
-msgstr ""
+msgstr "Peitsche"
 
 #: Flight_Freedom/units/Fake_Units.cfg:7
 msgid "Drake Flare"
-msgstr ""
+msgstr "Drake Flare"
 
 #: Flight_Freedom/units/Fake_Units.cfg:24
 msgid "Worker Wood"
-msgstr ""
+msgstr "Worker Wood"
 
 #: Flight_Freedom/units/Fake_Units.cfg:49
 msgid "Slave Wood"
-msgstr ""
+msgstr "Slave Wood"
 
 #: Flight_Freedom/units/Falcon.cfg:6
 msgid "Falcon"
-msgstr ""
+msgstr "Falke"
 
 #: Flight_Freedom/units/Frigate.cfg:6
 msgid "Frigate"
-msgstr ""
+msgstr "Fregatte"
 
 #: Flight_Freedom/units/Frigate.cfg:21
 msgid "The Frigate is rather slow, but it is powerful and well-protected."
 msgstr ""
+"Die Fregatte ist ein eher langsames Schiff, aber stark und gut gepanzert."
 
 #: Flight_Freedom/units/Galleon.cfg:6
 msgid "Galleon"
-msgstr ""
+msgstr "Galleone"
 
 #: Flight_Freedom/units/Galleon.cfg:21
 msgid ""
@@ -1645,10 +1856,13 @@ msgid ""
 "expensive, but very strong. Armed with three ballistae, they mete out "
 "justice with deadly efficency."
 msgstr ""
+"Galleonen sind segelnde Festungen. Für die Menschen sind sie zwar teuer, "
+"aber mächtig. Mit drei Ballistae bringen sie blutige Gerechtigkeit über ihre "
+"Gegner."
 
 #: Flight_Freedom/units/Gargoyle.cfg:6
 msgid "Gargoyle"
-msgstr ""
+msgstr "Gargoyle"
 
 #: Flight_Freedom/units/Gargoyle.cfg:18
 msgid ""
@@ -1656,45 +1870,52 @@ msgid ""
 "annoying, as it reverts to its stone form during the day, making it "
 "invulnerable to all force."
 msgstr ""
+"Zwar ist die dunkle Magie, die eine Gargoyle erfüllt, nicht allzu mächtig. "
+"Tagsüber aber verwandelt sie sich in Stein und ist unverwundbar - ein "
+"Ärgernis für jeden Strategen."
 
 #: Flight_Freedom/units/Giant_Boar.cfg:6
 msgid "Giant Boar"
-msgstr ""
+msgstr "Riesenwildschwein"
 
 #: Flight_Freedom/units/Gunboat.cfg:6
 msgid "Gunboat"
-msgstr ""
+msgstr "Kanonenboot"
 
 #: Flight_Freedom/units/Gunboat.cfg:21
 msgid ""
 "Gunboats are medium-sized attack ships, armed with a ballista and a catapult."
 msgstr ""
+"Kanonenboote sind Offensivschiffe mittlerer Größe, die mit einer Ballista "
+"und einem Katapult bewaffnet sind."
 
 #: Flight_Freedom/units/Highwayman.cfg:6
 msgid "Highwayman"
-msgstr ""
+msgstr "Straßenräuber"
 
 #: Flight_Freedom/units/Highwayman.cfg:19
 msgid ""
 "Armed with a heavy mace, Highwaymen are the last people you want to meet on "
 "a deserted road late at night."
 msgstr ""
+"Straßenräuber sind die Letzten, denen man bei Mondschein begegnen möchte - "
+"dafür sorgen sie mit ihrer schweren Keule."
 
 #: Flight_Freedom/units/Horse.cfg:6
 msgid "Horse"
-msgstr ""
+msgstr "Pferd"
 
 #: Flight_Freedom/units/Invisible.cfg:6
 msgid "Invisible"
-msgstr ""
+msgstr "Unsichtbar"
 
 #: Flight_Freedom/units/Invisible.cfg:16
 msgid "dummy"
-msgstr ""
+msgstr "Puppe"
 
 #: Flight_Freedom/units/Laser_Trooper.cfg:6
 msgid "Laser Trooper"
-msgstr ""
+msgstr "Laserschütze"
 
 #: Flight_Freedom/units/Laser_Trooper.cfg:29
 msgid ""
@@ -1705,10 +1926,18 @@ msgid ""
 "speeds. However, all damage taken is permanent, because future materials are "
 "not available, and this unit, being an outcast, cannot enter a village. :)"
 msgstr ""
+"Wie nicht anders von einem Soldaten aus der fernen Zukunft zu erwarten ist, "
+"ist die Begegnung mit einem feindlichen Laserschützen tötlich. Neben einem "
+"Phasor X PTT (PreciseTargetTech)-Lasergewehr ist er mit Kraftfeldern "
+"ausgestattet, von denen alle Arten nichtmagischer Gewalt abprallen. Zudem "
+"verfügt er über ein Jetpack, das ihn mit unglaublicher Geschwindigkeit "
+"fliegen lässt. Leider gibt es hier nicht die Materialien der Zukunft - "
+"deshalb ist jeder Schaden, der ihm zugefügt wird, permanenter Natur. Der "
+"Zutritt zu Dörfern wird diesem fremdartigen Krieger verwehrt. "
 
 #: Flight_Freedom/units/Laser_Trooper.cfg:32
 msgid "laser rifle"
-msgstr ""
+msgstr "Lasergewehr"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:27
 #: Flight_Freedom/units/Shadow_Mage.cfg:50
@@ -1716,15 +1945,18 @@ msgstr ""
 #: Flight_Freedom/units/Laser_Trooper.cfg:35
 #: Flight_Freedom/units/Spirit_Thunder.cfg:31
 msgid "magical"
-msgstr ""
+msgstr "magisch"
 
 #: Flight_Freedom/units/Lava_Beast.cfg:6
 msgid "Lava Beast"
-msgstr ""
+msgstr "Lavawesen"
 
 #: Flight_Freedom/units/Lava_Beast.cfg:21
 msgid "The Lava Beast is a living, breathing hunk of lava with a bad attitude."
 msgstr ""
+"Das Lavawesen ist ein Haufen lebender Lava mit _sehr_ schlechten "
+"Angewohnheiten.Es ist immun gegen Feuer und eignet sich daher nicht zum "
+"Zubereiten einer warmen Zwischenmahlzeit."
 
 #: Flight_Freedom/units/Spirit_Minor.cfg:22
 #: Flight_Freedom/units/Lava_Beast.cfg:24
@@ -1733,75 +1965,84 @@ msgstr ""
 #: Flight_Freedom/units/Spirit_Thunder.cfg:21
 #: Flight_Freedom/units/Rock_Golem.cfg:31
 msgid "fist"
-msgstr ""
+msgstr "Faust"
 
 #: Flight_Freedom/units/Lava_Beast.cfg:35
 #: Flight_Freedom/units/Lava_Monster.cfg:35
 msgid "boulder"
-msgstr ""
+msgstr "Felsblock"
 
 #: Flight_Freedom/units/Lava_Monster.cfg:6
 msgid "Lava Monster"
-msgstr ""
+msgstr "Lavamonster"
 
 #: Flight_Freedom/units/Lava_Monster.cfg:21
 msgid ""
 "The Lava Monster is a nasty creature made of living lava, which can punch "
 "and throw red-hot boulders. It is also immune to fire."
 msgstr ""
+"Das Lavawesen ist ein Haufen lebender Lava mit _sehr_ schlechten "
+"Angewohnheiten.Es ist immun gegen Feuer und eignet sich daher nicht zum "
+"Zubereiten einer warmen Zwischenmahlzeit."
 
 #: Flight_Freedom/units/Pirate.cfg:6
 msgid "Pirate"
-msgstr ""
+msgstr "Pirat"
 
 #: Flight_Freedom/units/Pirate.cfg:19
 msgid ""
 "Dogs of the sea, pirates are outlaws who prey in the open water. With a "
 "cutlass, they make nasty foes."
-msgstr ""
+msgstr "Die Wölfe der See sind mit ihren Säbeln grausame Gegner."
 
 #: Flight_Freedom/units/Pirate.cfg:22
 #: Flight_Freedom/units/Pirate_Captain.cfg:22
 msgid "cutlass"
-msgstr ""
+msgstr "Säbel"
 
 #: Flight_Freedom/units/Pirate_Captain.cfg:6
 msgid "Pirate Captain"
-msgstr ""
+msgstr "Piratencaptain"
 
 #: Flight_Freedom/units/Pirate_Captain.cfg:19
 msgid ""
 "Like all pirates, these are thieves of the water. This one is a captain, who "
 "is in charge of leading his thugs into battle."
 msgstr ""
+"Ein Piratencaptain hat sich zum Anführer der Meute hochgearbeitet und "
+"befehligt sie."
 
 #: Flight_Freedom/units/Pirate_Captain.cfg:38
 msgid "crossbow"
-msgstr ""
+msgstr "Armbrust"
 
 #: Flight_Freedom/units/Pirate_Cruiser.cfg:6
 msgid "Pirate Cruiser"
-msgstr ""
+msgstr "Piratenkreuzer"
 
 #: Flight_Freedom/units/Pirate_Cruiser.cfg:21
 msgid ""
 "The Pirate Cruiser is a larger pirate ship, either built or captured. It has "
 "3 ballistae."
 msgstr ""
+"Der Piratenkreuzer ist ein großes Kriegsschiff, das mit drei Ballistae "
+"ausgestattet ist."
 
 #: Flight_Freedom/units/Pirate_Galleon.cfg:6
 msgid "Pirate Galleon"
-msgstr ""
+msgstr "Piraten-Galleone"
 
 #: Flight_Freedom/units/Pirate_Galleon.cfg:21
 msgid ""
 "The Pirate Galleon is a former battleship of the Wesnothian navy, captured "
 "by renegades and pressed into service. It has 5 ballistae."
 msgstr ""
+"Die Piraten-Galleone ist ein ehemaliges Kriegsschiff der Wesnoth-Flotte. Es "
+"wurde von Abtrünnigen übernommen und mit seinen fünf Ballistae eingesetzt."
 
 #: Flight_Freedom/units/Pirate_Schooner.cfg:6
 msgid "Pirate Schooner"
-msgstr ""
+msgstr "Piraten-Schoner"
 
 #: Flight_Freedom/units/Pirate_Schooner.cfg:21
 msgid ""
@@ -1809,53 +2050,60 @@ msgid ""
 "ships ply the seaways, looking for plunder. They are widely feared because "
 "of that."
 msgstr ""
+"Piraten sind die Räuber der Meere. Bemannt mit beutehungrigen menschlichen "
+"Abtrünnigen lechzen diese Schiffe nach Beute enlang der Seewege. Der Ablick "
+"ihrer Segel genügt, um Angst und Schrecken zu verbreiten."
 
 #: Flight_Freedom/units/Rabbit.cfg:6
 msgid "Rabbit"
-msgstr ""
+msgstr "Hase"
 
 #: Flight_Freedom/units/Rabbit.cfg:22
 msgid "incisors"
-msgstr ""
+msgstr "Zähne"
 
 #: Flight_Freedom/units/Rock.cfg:6
 msgid "Rock"
-msgstr ""
+msgstr "Fels"
 
 #: Flight_Freedom/units/Rock.cfg:23
 msgid ""
 "This is impassable to all things, but is loose. It can be destroyed, but not "
 "easily."
 msgstr ""
+"Dies ist unpassierbar, aber es ist instabil. Es kann zerstört werden, aber "
+"nicht leicht."
 
 #: Flight_Freedom/units/Rock.cfg:30 Flight_Freedom/units/Rock_Golem.cfg:20
 msgid "steadfast"
-msgstr ""
+msgstr "Standhaft"
 
 #: Flight_Freedom/units/Rock_Golem.cfg:6
 msgid "Rock Golem"
-msgstr ""
+msgstr "Steingolem"
 
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:6
 msgid "Saurian Headhunter"
-msgstr ""
+msgstr "Saurianischer Kopfjäger"
 
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:19
 msgid ""
 "Saurian Headhunters are the heavy fighters of the saurians. Armed with an "
 "axe, they can deliver relatively strong blows, but are encumbered by armor."
 msgstr ""
+"Saurianische Kopfjäger sind die Krieger der Saurianer. Mit ihrer Axt können "
+"sie recht kraftvolle Hiebe führen, werden aber durch ihre Rüstung behindert."
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:23
 #: Flight_Freedom/units/Saurian_Margrave.cfg:23
 #: Flight_Freedom/units/Undead_Dwarf.cfg:26
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:22
 msgid "axe"
-msgstr ""
+msgstr "Axt"
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:6
 msgid "Saurian Jarl"
-msgstr ""
+msgstr "Saurianischer Jarl"
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:19
 msgid ""
@@ -1864,38 +2112,44 @@ msgid ""
 "but the armor slows them down to the point where they cannot sneak pass "
 "enemies."
 msgstr ""
+"Saurianische Jarle sind die Anführer der Angriffstruppen. Gerüstet und mit "
+"einer Axt bewaffnet, können sie einigen Schaden verursachen und den einen "
+"oder anderen Schlag wegstecken. Allerdings werden sie durch ihre Rüstung so "
+"sehr behindert, daß sie nicht mehr an Feinden vorbeischleichen können."
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:21
 #: Flight_Freedom/units/Shadow_Mage.cfg:12
 #: Flight_Freedom/units/Saurian_Margrave.cfg:21
 msgid "leadership"
-msgstr ""
+msgstr "Fürhungskraft"
 
 #: Flight_Freedom/units/Saurian_Juggler.cfg:6
 msgid "Saurian Juggler"
-msgstr ""
+msgstr "Saurianischer Jongleur"
 
 #: Flight_Freedom/units/Saurian_Juggler.cfg:20
 msgid ""
 "More experienced Skalds, the Jugglers can throw more daggers. They have also "
 "learned to supplement their natural poison with swamp berry extracts."
 msgstr ""
+"Als erfahrenere Skladen können sie mehr Dolche werfen. Zudem haben sie "
+"gelernt, ihr natürliches Gift mit Sumpfebeerenextrakt zu versetzen."
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:23
 #: Flight_Freedom/units/Saurian_Skald.cfg:22
 #: Flight_Freedom/units/Saurian_Juggler.cfg:23
 msgid "teeth"
-msgstr ""
+msgstr "Zähne"
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:37
 #: Flight_Freedom/units/Saurian_Skald.cfg:31
 #: Flight_Freedom/units/Saurian_Juggler.cfg:37
 msgid "dagger"
-msgstr ""
+msgstr "Dolch"
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:6
 msgid "Saurian Knifethrower"
-msgstr ""
+msgstr "Saurianischer Messerwerfer"
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:20
 msgid ""
@@ -1903,10 +2157,13 @@ msgid ""
 "incredible skill with their arms, enabling them to throw many daggers at "
 "blindingly fast speeds."
 msgstr ""
+"Die Sauriansichen Messerwerfer sind die Elite der Skalden. Sie verfügen über "
+"eine unglaubliche Fingerfertigkeit in dern Handhabung ihrer Waffen und "
+"können viele Dolche in einem Wirbel schleudern."
 
 #: Flight_Freedom/units/Saurian_Margrave.cfg:6
 msgid "Saurian Margrave"
-msgstr ""
+msgstr "Saurianischer Margrave"
 
 #: Flight_Freedom/units/Saurian_Margrave.cfg:19
 msgid ""
@@ -1914,10 +2171,13 @@ msgid ""
 "with the axe, but like the Jarls, are slower than most saurians due to their "
 "armor and cannot sneak past enemies."
 msgstr ""
+"Der Saurianische Margrave ist der Anführer der Saurianischen Armee. Er ist "
+"zwar im umgang mit der Axt geübt, aber wie die Jarls wird er durch seine "
+"Rüstung behindert und kann nicht durch die gegnerischen Reihen schlüpfen."
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:6
 msgid "Saurian Skald"
-msgstr ""
+msgstr "Saurianischer Skalde"
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:19
 msgid ""
@@ -1926,27 +2186,31 @@ msgid ""
 "they are best known for their manual dexterity, which they translate into "
 "fast dagger throwing."
 msgstr ""
+"Die Saurianischen Skalden werden unter den langsameren, aber bedeutend "
+"kräftigeren Saurianern erwählt, die über einen gefürchteten Giftbiß "
+"verfügen. Am bekanntesten ist aber ihre Fingerfertigkeit, die sie zum "
+"Messerwerfen nutzen."
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:6
 msgid "Shadow Mage"
-msgstr ""
+msgstr "Schattenmagier"
 
 #: Flight_Freedom/units/Taskmaster.cfg:26
 #: Flight_Freedom/units/Shadow_Mage.cfg:24
 msgid "short sword"
-msgstr ""
+msgstr "Kurzschwert"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:47
 msgid "ice blast"
-msgstr ""
+msgstr "Eisschlag"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:48
 msgid "cold"
-msgstr ""
+msgstr "Kälte"
 
 #: Flight_Freedom/units/Spirit_Major.cfg:6
 msgid "Major Spirit"
-msgstr ""
+msgstr "Höherer Geist"
 
 #: Flight_Freedom/units/Spirit_Major.cfg:19
 msgid ""
@@ -1954,35 +2218,42 @@ msgid ""
 "radiating with power, it can throw lightning bolts that destroy entire "
 "cities."
 msgstr ""
+"Der Höhere Geist ist einer der mächtigsten bekannten Wesen. Er quillt vor "
+"Macht schier über, und seine Blitzschläge können ganze Städte zerstören."
 
 #: Flight_Freedom/units/Spirit_Major.cfg:29
 #: Flight_Freedom/units/Spirit_Thunder.cfg:28
 msgid "lightning"
-msgstr ""
+msgstr "Blitz"
 
 #: Flight_Freedom/units/Spirit_Minor.cfg:6
 msgid "Minor Spirit"
-msgstr ""
+msgstr "Geringerer Geist"
 
+# Anm. (Fehler im Original) - VeryUhu
 #: Flight_Freedom/units/Spirit_Minor.cfg:19
 msgid ""
 "The Thunder Spirits are very powerful and mysterious. Even though this "
 "spirit is a minor one, it still wields tremendous power."
 msgstr ""
+"Die Geringeren Geister sind ebenso mächtig wie mysteriös. Obwohl dies nur "
+"ein minderer Geist ist, besitzt er dennoch große Macht."
 
 #: Flight_Freedom/units/Spirit_Thunder.cfg:6
 msgid "Thunder Spirit"
-msgstr ""
+msgstr "Donnergeist"
 
 #: Flight_Freedom/units/Spirit_Thunder.cfg:18
 msgid ""
 "The Thunder Spirit is an awesome foe, capable of punching with electric fury "
 "and firing lightning bolts capable of destroying houses."
 msgstr ""
+"Der Donnergeit ist ein furchtbarer Gegner, der in rasendem Zorn Kugelblitze "
+"mit einer Wucht zu schleudern vermag, die ein haus vernichten können."
 
 #: Flight_Freedom/units/Taskmaster.cfg:6
 msgid "Taskmaster"
-msgstr ""
+msgstr "Foltermeister"
 
 #: Flight_Freedom/units/Taskmaster.cfg:23
 msgid ""
@@ -1990,51 +2261,57 @@ msgid ""
 "life of torturing the slaves under their watch. They especially like beating "
 "Drake slaves with their short swords."
 msgstr ""
+"Foltermeister gehören zum Bodensatz der Gesellschaft. Sie genießen es ganz "
+"besonders, Drachensklaven mit ihren Kurzschwertern zu verprügeln."
 
 #: Flight_Freedom/units/Transport_Galleon.cfg:6
 msgid "Transport Galleon"
-msgstr ""
+msgstr "Transportgalleone"
 
 #: Flight_Freedom/units/Transport_Galleon.cfg:17
 msgid ""
 "The Transport Galleon is used to ferry men and equipment across water. "
 "However, it is very weak and must be escorted."
 msgstr ""
+"Die Transportgalleone wird zum Bewegen von Männern und Material verwendet. "
+"Sie bietet ein leicht verwundbares Zeil und muß daher eskortiert werden. "
 
 #: Flight_Freedom/units/Undead_Dwarf.cfg:6
 msgid "Undead Dwarf"
-msgstr ""
+msgstr "Untoter Zwerg"
 
 #: Flight_Freedom/units/Undead_Dwarf.cfg:18
 msgid ""
 "A former dwarf brought back to life. They retain the power of dwarves, but "
 "also their lack of speed."
 msgstr ""
+"Ein ehemaliger Zwerg, der zu einem Halbleben erweckt wurde. Er besitzt "
+"sowohl die Macht eines lebendigen Zwerges, als auch sein langsames Tempo. "
 
 #: Flight_Freedom/units/Wolf.cfg:6
 msgid "Wolf"
-msgstr ""
+msgstr "Wolf"
 
 #: Flight_Freedom/units/Wolf.cfg:23
 msgid "bite"
-msgstr ""
+msgstr "Biß"
 
-#: Flight_Freedom/utils/deaths.cfg:10
+#: Flight_Freedom/utils/deaths.cfg:12
 msgid "All is lost!"
-msgstr ""
+msgstr "Alles ist verloren!"
 
-#: Flight_Freedom/utils/deaths.cfg:25
+#: Flight_Freedom/utils/deaths.cfg:27
 msgid "Now the drakes will be enslaved again!"
-msgstr ""
+msgstr "Die Drachen werden wieder versklavt werden!"
 
-#: Flight_Freedom/utils/deaths.cfg:40
+#: Flight_Freedom/utils/deaths.cfg:42
 msgid "I have failed!"
-msgstr ""
+msgstr "Ich habe versagt."
 
-#: Flight_Freedom/utils/objectives.cfg:17
+#: Flight_Freedom/utils/objectives.cfg:19
 msgid "Death of Kogw"
-msgstr ""
+msgstr "Kogws Tod"
 
-#: Flight_Freedom/utils/objectives.cfg:18
+#: Flight_Freedom/utils/objectives.cfg:20
 msgid "Turns run out"
-msgstr ""
+msgstr "Die letzte Runde ist verstrichen"
