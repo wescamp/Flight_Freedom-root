@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-08 21:29+0200\n"
-"PO-Revision-Date: 2005-05-09 16:44+0200\n"
+"PO-Revision-Date: 2005-05-11 01:03+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -995,7 +995,7 @@ msgstr "Det här vapnet passar bara drakfolkets fullvuxna trupper."
 
 #: Flight_Freedom/scenarios/Manor.cfg:482
 msgid "Could this key fit that trapdoor?"
-msgstr "Går den här nyckeln till den där falluckan?"
+msgstr "Går den här nyckeln till den där dörren?"
 
 #: Flight_Freedom/scenarios/Manor.cfg:489
 msgid "I seem to have found a key. What it unlocks, I cannot say."
@@ -1007,11 +1007,11 @@ msgstr "Nyckeln passar!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:561
 msgid "The trapdoor is locked! Could that key fit?"
-msgstr "Falluckan är låst! Passar den här nyckeln?"
+msgstr "Dörren är låst! Passar den här nyckeln?"
 
 #: Flight_Freedom/scenarios/Manor.cfg:568
 msgid "The trapdoor is locked!"
-msgstr "Falluckan är låst!"
+msgstr "Dörren är låst!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:613
 msgid "This mansion is haunted!"
