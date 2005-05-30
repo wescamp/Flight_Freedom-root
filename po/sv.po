@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-08 21:29+0200\n"
-"PO-Revision-Date: 2005-05-11 01:03+0200\n"
+"PO-Revision-Date: 2005-05-30 14:19+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "Betala oss femhundra guld, annars dödar vi dig!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:90
 msgid "Shall I pay 500 gold?"
-msgstr "Ska jag betala femhundra guld?"
+msgstr "Skall jag betala femhundra guld?"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:93
 msgid "Very well. Here is 500 gold pieces."
@@ -74,7 +74,7 @@ msgstr "Dåre! Dö!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:128
 msgid "You can't pay! Die!"
-msgstr "Kan du inte betala? Då ska du dö!"
+msgstr "Kan du inte betala? Då skall du dö!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:140
 msgid "No!"
@@ -158,7 +158,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:123
 msgid "Kill the Elves, and we'll join you."
-msgstr "Om du dödar alverna så ska vi ansluta oss till dig."
+msgstr "Om du dödar alverna så skall vi ansluta oss till dig."
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:128
 msgid "Why should I trust you, human?"
@@ -205,7 +205,7 @@ msgstr "AAAAH!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:175
 msgid "Very well, we will aid you."
-msgstr "Nåväl, vi ska hjälpa dig."
+msgstr "Nåväl, vi skall hjälpa dig."
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:180
 msgid ""
@@ -399,7 +399,7 @@ msgstr "Ääääntligen kommer jaaaag få döda nååågra männisssskor!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:188
 msgid "Now I will get revenge for my enslavement!"
-msgstr "Nu ska jag få hämnd för mitt förslavande!"
+msgstr "Nu skall jag få hämnd för mitt förslavande!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:193
 msgid "Well said, brother. THE FIGHT FOR FREEDOM BEGINS HERE!!!"
@@ -660,7 +660,7 @@ msgstr "De onda horderna marscherar mot oss!"
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:103
 msgid "We will vanquish them!"
-msgstr "Vi ska förgöra dem!"
+msgstr "Vi skall förgöra dem!"
 
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:127
 msgid "They use gargoyles!"
@@ -947,7 +947,7 @@ msgid ""
 "with the saurians."
 msgstr ""
 "I så fall har vi en hård strid framför oss. Jag måste bestämma mig för vad "
-"jag ska göra med dem."
+"jag skall göra med dem."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:252
 msgid "I will take command of the saurians."
@@ -959,7 +959,7 @@ msgstr "Använd dem väl."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:266
 msgid "The saurians will try to outflank the humans."
-msgstr "Ödlefolket ska försöka anfalla människornas flank."
+msgstr "Ödlefolket skall försöka anfalla människornas flank."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:271
 msgid "Very well. They will arrive at the third dawn."
@@ -1168,7 +1168,7 @@ msgstr "Det är översvämmat med människor!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:110
 msgid "We will run them through!"
-msgstr "Vi ska slita dem i stycken!"
+msgstr "Vi skall slita dem i stycken!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:3
 msgid "River of Skulls"
@@ -1215,7 +1215,7 @@ msgstr "GUGGAGUGGAGU!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:302
 msgid "A river of lava! How am I supposed to cross?"
-msgstr "En lavaflod! Hur ska jag kunna ta mig över den?"
+msgstr "En lavaflod! Hur skall jag kunna ta mig över den?"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:307
 msgid "I'll take care of that later. Drakes! We need to explore this river!"
@@ -1265,7 +1265,7 @@ msgstr "Vi måste fortsätta!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:556
 msgid "How am I to cross the lava?"
-msgstr "Hur ska jag komma över lavan?"
+msgstr "Hur skall jag komma över lavan?"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:561
 msgid "I'll carry you, hop on my back."
