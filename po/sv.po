@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-04 10:59+0200\n"
-"PO-Revision-Date: 2005-07-17 23:32+0200\n"
+"PO-Revision-Date: 2005-07-24 16:31+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1961,9 +1961,8 @@ msgstr ""
 "busar i strid."
 
 #: Flight_Freedom/units/Pirate_Captain.cfg:25
-#, fuzzy
 msgid "backstab"
-msgstr "ballista"
+msgstr "rygghugg"
 
 #: Flight_Freedom/units/Pirate_Cruiser.cfg:6
 msgid "Pirate Cruiser"
@@ -2000,8 +1999,8 @@ msgid ""
 "of that."
 msgstr ""
 "Pirater är havens motsvarigheter till tjuvar. Bemannade av överlöpare så "
-"befar de här skeppen vattenvägarna och söker efter något att plundra. De är "
-"vida beryktade på grund av detta."
+"patrullerar de här skeppen vattenvägarna och söker efter något att plundra. "
+"De är vida beryktade på grund av detta."
 
 #: Flight_Freedom/units/Rabbit.cfg:6
 msgid "Rabbit"
@@ -2257,6 +2256,3 @@ msgstr "Kogw dör"
 #: Flight_Freedom/utils/objectives.cfg:20
 msgid "Turns run out"
 msgstr "Dragen tar slut"
-
-#~ msgid "crossbow"
-#~ msgstr "armborst"
