@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-04 10:59+0200\n"
-"PO-Revision-Date: 2005-07-24 16:31+0200\n"
+"PO-Revision-Date: 2005-08-16 22:54+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Flight_Freedom.cfg:23
 msgid "Flight to Freedom"
@@ -599,21 +599,20 @@ msgstr "Den är osårbar för fysiskt våld! Den måste förstöras med eld!"
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:116
 msgid ""
 "Move a Drake Burner, Fire Drake, or Inferno Drake onto the Gate of Storms"
-msgstr ""
-"Led en eldbringare, en eldmanare eller en infernodrake till Stormporten"
+msgstr "Led en sotdrake, elddrake eller infernodrake till Stormporten"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:124
 msgid "A Fire or Inferno Drake is necessary to destroy the Gate of Storms."
 msgstr ""
-"Det krävs en eldmanare eller en infernodrake för att förstöra stormporten."
+"Det krävs en elddrake eller en infernodrake för att förstöra stormporten."
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:140
 msgid "My fire is too weak. Use a Fire or Inferno Drake!"
-msgstr "Min eld är för svag. Använd en eldmanare eller en infernodrake!"
+msgstr "Min eld är för svag. Använd en elddrake eller en infernodrake!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:144
 msgid "Move a Fire Drake or Inferno Drake onto the Gate of Storms"
-msgstr "Led en eldmanare eller en infernodrake till Stormporten"
+msgstr "Led en elddrake eller en infernodrake till Stormporten"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:159
 msgid ""
@@ -748,7 +747,7 @@ msgid ""
 "drunk anyway. Even these are supposedly only the vanguard of far worse "
 "creatures to come."
 msgstr ""
-"(Kogw) Jag har hört att de är jätteliknande djur, skapade av massivt tordön, "
+"(Kogw) Jag har hört att de är reseliknande djur, skapade av massivt tordön, "
 "och uppenbarar sig med blixt och dunder. Sjömannen som jag hörde det här av "
 "halvfull, så jag vet inte hur mycket sanning det ligger i det. Dessa är dock "
 "tydligen bara förtrupper till de farligare varelser som kommer senare."
@@ -2032,7 +2031,7 @@ msgstr "Stengolem"
 
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:6
 msgid "Saurian Headhunter"
-msgstr "Ödlefolkets huvudjägare"
+msgstr "Huvudjägare"
 
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:19
 msgid ""
@@ -2051,7 +2050,7 @@ msgstr "yxa"
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:6
 msgid "Saurian Jarl"
-msgstr "Ödlefolkets jarl"
+msgstr "Ödlejarl"
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:19
 msgid ""
@@ -2067,7 +2066,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Saurian_Juggler.cfg:6
 msgid "Saurian Juggler"
-msgstr "Ödlefolkets jonglör"
+msgstr "Ödlejonglör"
 
 #: Flight_Freedom/units/Saurian_Juggler.cfg:20
 msgid ""
@@ -2104,7 +2103,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Saurian_Margrave.cfg:6
 msgid "Saurian Margrave"
-msgstr "Ödlefolkets fältkommendant"
+msgstr "Ödlefältkommendant"
 
 #: Flight_Freedom/units/Saurian_Margrave.cfg:19
 msgid ""
@@ -2118,7 +2117,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:6
 msgid "Saurian Skald"
-msgstr "Ödlefolkets skald"
+msgstr "Ödleskald"
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:19
 msgid ""
