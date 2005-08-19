@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-17 10:18+0200\n"
+"POT-Creation-Date: 2005-08-19 10:06+0200\n"
 "PO-Revision-Date: 2005-05-03 09:49+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1006,7 +1006,7 @@ msgstr ""
 #: Flight_Freedom/scenarios/Rebellion.cfg:37
 msgid ""
 "Mind control spells were cast on the prisoners, and they were forced to work "
-"in Prax III's shipyards for the rest of their lives."
+"in Prax III's plantation for the rest of their lives."
 msgstr ""
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:42
@@ -1029,15 +1029,15 @@ msgstr ""
 msgid "Kill the overseer"
 msgstr ""
 
-#: Flight_Freedom/scenarios/Rebellion.cfg:403
+#: Flight_Freedom/scenarios/Rebellion.cfg:412
 msgid "WORK!"
 msgstr ""
 
-#: Flight_Freedom/scenarios/Rebellion.cfg:431
+#: Flight_Freedom/scenarios/Rebellion.cfg:440
 msgid "I'm done being at the hands of humans! Everyone! ATTACK!!!"
 msgstr ""
 
-#: Flight_Freedom/scenarios/Rebellion.cfg:439
+#: Flight_Freedom/scenarios/Rebellion.cfg:448
 msgid ""
 "We must go directly to the heart of the humans. Onward to his filthy manor!"
 msgstr ""
@@ -1394,7 +1394,8 @@ msgstr ""
 #: Flight_Freedom/units/Fake_Units.cfg:37
 #: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Rock.cfg:28
 #: Flight_Freedom/units/Dreadnought.cfg:43
-#: Flight_Freedom/units/Invisible.cfg:17 Flight_Freedom/units/Cow.cfg:22
+#: Flight_Freedom/units/Invisible.cfg:17 Flight_Freedom/units/Pig.cfg:23
+#: Flight_Freedom/units/Pig.cfg:34 Flight_Freedom/units/Cow.cfg:22
 #: Flight_Freedom/units/Frigate.cfg:41
 #: Flight_Freedom/units/Drake_Worker.cfg:24
 #: Flight_Freedom/units/Drake_Worker.cfg:68 Flight_Freedom/units/Horse.cfg:22
@@ -1733,7 +1734,7 @@ msgstr ""
 #: Flight_Freedom/units/Horse.cfg:18
 msgid ""
 "The horse is an animal with four feet and which is capable of running at "
-"high speeds. Horses are used in the human armies as mounts."
+"high speeds. Horses are used in human and elvish armies as mounts."
 msgstr ""
 
 #: Flight_Freedom/units/Invisible.cfg:5
@@ -1800,6 +1801,24 @@ msgstr ""
 msgid ""
 "The Lava Monster is a nasty creature made of living lava, which can punch "
 "and throw red-hot boulders. It is also immune to fire."
+msgstr ""
+
+#: Flight_Freedom/units/Pig.cfg:5
+msgid "Pig"
+msgstr ""
+
+#: Flight_Freedom/units/Pig.cfg:19
+msgid ""
+"Pigs are instrumental in the production of ham. Also, their skin is used in "
+"Wesballs, like those used in the game of Wesbowl."
+msgstr ""
+
+#: Flight_Freedom/units/Pig.cfg:22
+msgid "hoof"
+msgstr ""
+
+#: Flight_Freedom/units/Pig.cfg:33
+msgid "oink"
 msgstr ""
 
 #: Flight_Freedom/units/Pirate.cfg:5
