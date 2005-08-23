@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-19 10:06+0200\n"
-"PO-Revision-Date: 2005-08-16 22:54+0200\n"
+"PO-Revision-Date: 2005-08-23 21:57+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1109,13 +1109,12 @@ msgstr ""
 "slavar till baron Prax III."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:37
-#, fuzzy
 msgid ""
 "Mind control spells were cast on the prisoners, and they were forced to work "
 "in Prax III's plantation for the rest of their lives."
 msgstr ""
 "Fångarna fick lagobands besvärjelser kastade över sig och de tvingades att "
-"arbeta i Prax III:s skeppsvarv under resten av deras liv."
+"arbeta i Prax III:s plantager under resten av deras liv."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:42
 msgid ""
@@ -1573,7 +1572,7 @@ msgstr "Kyckling"
 
 #: Flight_Freedom/units/Chicken.cfg:18
 msgid "Chickens are kept for their meat and eggs."
-msgstr ""
+msgstr "Kycklingar används för att ge kött och, längre fram, ägg."
 
 #: Flight_Freedom/units/Chicken.cfg:21
 msgid "bawk"
@@ -1597,7 +1596,7 @@ msgstr "Ko"
 
 #: Flight_Freedom/units/Cow.cfg:18
 msgid "Cows are livestock that are used for their meat, leather, and milk."
-msgstr ""
+msgstr "Kor är boskap som används för sitt kött, läder och mjölk."
 
 #: Flight_Freedom/units/Cow.cfg:21 Flight_Freedom/units/Horse.cfg:21
 msgid "kick"
@@ -1609,7 +1608,7 @@ msgstr "Kråka"
 
 #: Flight_Freedom/units/Crow.cfg:18
 msgid "Crows are carrion birds which will eat anything dead."
-msgstr ""
+msgstr "Kråkor är asfåglar som äter allt dött."
 
 #: Flight_Freedom/units/Drake_Slave.cfg:22
 #: Flight_Freedom/units/Drake_Slave.cfg:65
@@ -1787,6 +1786,8 @@ msgid ""
 "The Slave Driver makes a living by beating slaves in order to make them "
 "productive."
 msgstr ""
+"Slavdrivaren tjänar sitt uppehälle genom att slå slavar så att de arbetar "
+"snabbare."
 
 #: Flight_Freedom/units/Driver.cfg:23
 msgid "whip"
@@ -1813,6 +1814,8 @@ msgid ""
 "Majestic birds of prey, falcons are capable of flying at incredible speeds "
 "when they attack with razor-sharp claws."
 msgstr ""
+"Falkar är majestätiska rovfåglar som kan flyga i mycket höga hastigheter när "
+"de anfaller med rakknivsvassa klor."
 
 #: Flight_Freedom/units/Frigate.cfg:5
 msgid "Frigate"
@@ -1858,6 +1861,8 @@ msgid ""
 "Giant Boars are overgrown pigs with a nasty disposition that will attack "
 "anything that moves. It is fortunate that these animals are rare."
 msgstr ""
+"Jättevildsvin är förvuxna grisar med den olyckliga läggningen att anfalla "
+"allt som rör sig. Turligt nog är de dock sällsynta."
 
 #: Flight_Freedom/units/Gunboat.cfg:5
 msgid "Gunboat"
@@ -1891,6 +1896,8 @@ msgid ""
 "The horse is an animal with four feet and which is capable of running at "
 "high speeds. Horses are used in human and elvish armies as mounts."
 msgstr ""
+"Hästen är ett djur som kan ta sig fram i höga hastigheter. De används som "
+"riddjur i människors och alvers arméer."
 
 #: Flight_Freedom/units/Invisible.cfg:5
 msgid "Invisible"
@@ -1970,22 +1977,23 @@ msgstr ""
 
 #: Flight_Freedom/units/Pig.cfg:5
 msgid "Pig"
-msgstr ""
+msgstr "Gris"
 
 #: Flight_Freedom/units/Pig.cfg:19
 msgid ""
 "Pigs are instrumental in the production of ham. Also, their skin is used in "
 "Wesballs, like those used in the game of Wesbowl."
 msgstr ""
+"Grisar är av nöden när man gör skinka. Deras hud används dessutom i "
+"wesbollar, som de som används i spelet Wesbowl."
 
 #: Flight_Freedom/units/Pig.cfg:22
 msgid "hoof"
-msgstr ""
+msgstr "hov"
 
 #: Flight_Freedom/units/Pig.cfg:33
-#, fuzzy
 msgid "oink"
-msgstr "gift"
+msgstr "oink"
 
 #: Flight_Freedom/units/Pirate.cfg:5
 msgid "Pirate"
@@ -2071,6 +2079,11 @@ msgid ""
 "the most delicious known dishes. Legend has it that they follow a king "
 "rabbit by the name of Cedric :) ."
 msgstr ""
+"Kaninen är en gullig varelse som bor i fält och skogar. Deras gnagattack, "
+"där de angriper med sina kraftiga framtänder, är Wesnoth-morötternas största "
+"fasa. Tyvärr faller kaniner offer för många andra otäcka varelser som vargar "
+"och till och med människor, då deras kött är bland det smakligaste som "
+"finns. Legenden säger att de anförs av en kung vid namn Cedric :)"
 
 #: Flight_Freedom/units/Rabbit.cfg:22
 msgid "incisors"
@@ -2101,6 +2114,8 @@ msgid ""
 "Rock Golems are creatures made out of solid, living rock. They have a weak "
 "attack, but are incredibly hard to destroy."
 msgstr ""
+"Stengolem är varelser gjorda av solid, levande sten. De har en svag attack, "
+"men är otroligt svåra att nedgöra."
 
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:5
 msgid "Saurian Headhunter"
@@ -2217,6 +2232,12 @@ msgid ""
 "attacks. Despite their offensive power, the corruption in their souls has "
 "begun to adversely affect their health."
 msgstr ""
+"År av våld och brutalitet för att stödja studierna av de förbjudna magiska "
+"konsterna har gjort skuggmagikerna till fruktade krigare. Helt förförda av "
+"sin makt har de setts anföra små grupper av anhängare. I strid med andra "
+"magiker står de sig slätt, då de istället har fördjupat sig i studiet av "
+"närstridsattacker. Trots deras offensiva styrka har deras förvridna själar "
+"börjat påverka deras hälsa negativt."
 
 #: Flight_Freedom/units/Taskmaster.cfg:25
 #: Flight_Freedom/units/Shadow_Mage.cfg:24
@@ -2322,6 +2343,9 @@ msgid ""
 "individually, a pack of wolves can kill even the strongest man in minutes. "
 "Wolves are trained and rode by goblins."
 msgstr ""
+"Vargar är aggressiva djur som jagar i flock. Även om en enskild individ är "
+"svag, så kan en vargflock döda även den starkaste på några minuter. Vargar "
+"tränas och rids av vättar."
 
 #: Flight_Freedom/units/Wolf.cfg:23
 msgid "bite"
