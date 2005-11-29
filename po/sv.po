@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-03 11:25+0100\n"
-"PO-Revision-Date: 2005-11-07 19:54+0100\n"
+"PO-Revision-Date: 2005-11-29 16:58+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -336,10 +336,12 @@ msgid ""
 "Do you think we are bats? Wings do not work very well underground. Neither "
 "do cold blooded Drakes!"
 msgstr ""
+"Tror du att vi är fladdermöss? Vingar fungerar inte särskilt bra i "
+"underjorden. Inte heller det kallblodiga drakfolket!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:157
 msgid "Our enemies are at are our very backs! We must flee!"
-msgstr ""
+msgstr "Fienden är i ryggen på oss! Vi måste fly!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:165
 msgid "Why can't we work together against the drakes?"
@@ -357,19 +359,19 @@ msgstr "Under jord!"
 #: Flight_Freedom/scenarios/Landfall.cfg:489
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:275
 msgid "A spirit has attacked!"
-msgstr "En ande har attackerat!"
+msgstr "En ande har anfallit!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:239
 #: Flight_Freedom/scenarios/Landfall.cfg:515
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:286
 msgid "It didn't attack! It just appeared!"
-msgstr ""
+msgstr "Den anföll inte! Den bara dök upp!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:252
 #: Flight_Freedom/scenarios/Landfall.cfg:543
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:299
 msgid "Are you going to say that EVERY time?"
-msgstr ""
+msgstr "Tänker du påpeka det VARENDA gång?"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:320
 msgid "They pursue us! We must hurry!"
@@ -790,6 +792,7 @@ msgid ""
 "(Kogw) No. Our supplies are dwindling by the hour. We must make landfall "
 "soon."
 msgstr ""
+"(Kogw) Nej. Våra förråd minskar för varje timme. Vi måste i land snart."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:171
 msgid "(Malakar) We must be very careful then."
@@ -813,11 +816,11 @@ msgstr "(Kogw) Vi är anfallna av en ande!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:522
 msgid "(Malakar) It didn't attack! It just appeared!"
-msgstr ""
+msgstr "(Malakar) Den anföll inte! Den bara dök upp!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:550
 msgid "(Malakar) Are you going to say that EVERY time?"
-msgstr ""
+msgstr "(Malakar) Tänker du påpeka det VARENDA gång?"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:605
 msgid "Intruders! Die!"
@@ -1200,25 +1203,27 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:638
 msgid "The hatchlings are free! We must kill the taskmaster!"
-msgstr ""
+msgstr "Ungarna är fria! Vi måste döda tuktomästaren!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:642
 msgid "At least one hatchling must survive"
-msgstr ""
+msgstr "Minst en unge måste överleva"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:647
 msgid ""
 "Malakar, the hatchlings have been tortured and wounded. Let's make the "
 "humans pay!"
 msgstr ""
+"Malakar, ungarna har blivit torterade och är skadade. Nu skall människorna "
+"få betala!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:677
 msgid "Kill the hatchlings! Kill them all!"
-msgstr ""
+msgstr "Döda ungarna! Döda dem allihop!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:681
 msgid "The guards have arrived! Everyone! FIGHT!!!!!"
-msgstr ""
+msgstr "Vakterna har kommit! Allihop, SLÅSS!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:694
 msgid "Our hatchlings are under attack! Hurry!"
@@ -1226,11 +1231,11 @@ msgstr "Våra ungar är under attack! Skynda!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:712
 msgid "Our hatchlings... have been killed."
-msgstr ""
+msgstr "Våra ungar... De är döda."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:751
 msgid "The master is dead! We must free the hatchlings!"
-msgstr ""
+msgstr "Övervakaren är död! Vi måste befria ungarna!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:3
 msgid "Return to Morogor"
@@ -1593,10 +1598,13 @@ msgid ""
 "guarded, but they usually also have a soldier with a spear and crossbow in "
 "the back to defend them."
 msgstr ""
+"Karavaner används för att forsla guld eller förråd långa sträckor. De "
+"bevakas, men åtföljs även ofta av en soldat med spjut och armborst som "
+"försvar."
 
 #: Flight_Freedom/units/Caravan.cfg:20
 msgid "firststrike"
-msgstr ""
+msgstr "första slaget"
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:92
 #: Flight_Freedom/units/Drake_Slave.cfg:86
@@ -1607,7 +1615,7 @@ msgstr "spjut"
 
 #: Flight_Freedom/units/Caravan.cfg:28
 msgid "crossbow"
-msgstr ""
+msgstr "armborst"
 
 #: Flight_Freedom/units/Cave_Naga.cfg:5
 msgid "Cave Naga"
@@ -1703,6 +1711,8 @@ msgid ""
 "Crows are carrion birds which will eat anything dead. Larger ones such as "
 "this have been also known to attack when food is scarce."
 msgstr ""
+"Kråkor är asfåglar som äter allt som är dött. Större fåglar, som den här, "
+"har även gått till anfall när det är dåligt med mat."
 
 #: Flight_Freedom/units/Drake_Slave.cfg:22
 #: Flight_Freedom/units/Drake_Slave.cfg:65
@@ -1982,6 +1992,9 @@ msgid ""
 "especially if cornered or frightened.  Though they are easily put down, "
 "their kicks can smash a man's skull."
 msgstr ""
+"Hästar som flyr sin fångenskap blir ofta vilda och fientliga mot människor, "
+"särskilt om de blir trängda eller om de blir rädda. Även om de enkelt "
+"nedgörs, så kan deras sparkar krossa skallen på den som kommer i vägen."
 
 #: Flight_Freedom/units/Invisible.cfg:5
 msgid "Invisible"
