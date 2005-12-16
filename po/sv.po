@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-05 14:12+0100\n"
-"PO-Revision-Date: 2005-11-29 16:58+0100\n"
+"POT-Creation-Date: 2005-12-16 22:55+0100\n"
+"PO-Revision-Date: 2005-12-13 21:16+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -37,12 +37,14 @@ msgid "Rebel"
 msgstr "Rebell"
 
 #: Flight_Freedom.cfg:30
-#, fuzzy
 msgid ""
 "Lead Malakar and his Drake tribe to freedom from the humans!\n"
 "\n"
 "Version 3.0"
-msgstr "Led Malakar och hans drakstam från människorna till frihet!"
+msgstr ""
+"Led Malakar och hans drakstam från människorna till frihet!\n"
+"\n"
+"Version 3.0"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:3
 msgid "Betrayal"
@@ -106,10 +108,10 @@ msgid "Move the Unforgiver to the East"
 msgstr "Segla Den Oförsonlige österut"
 
 #: Flight_Freedom/scenarios/Blockade.cfg:70
+#: Flight_Freedom/scenarios/Open_Ocean.cfg:54
 #: Flight_Freedom/scenarios/Landfall.cfg:88
 #: Flight_Freedom/scenarios/Landfall.cfg:254
 #: Flight_Freedom/scenarios/Landfall.cfg:261
-#: Flight_Freedom/scenarios/Open_Ocean.cfg:54
 #: Flight_Freedom/scenarios/Southern_Shore.cfg:51
 msgid "Destruction of the Unforgiver"
 msgstr "Den Oförsonlige besegras"
@@ -253,8 +255,8 @@ msgstr "Jag plågas fortfarande av min fångenskap! Jag kan inte flyga så lång
 msgid "Very well. We shall sail."
 msgstr "Nåväl. Då seglar vi."
 
-#: Flight_Freedom/scenarios/Caravan.cfg:3
-#: Flight_Freedom/scenarios/Caravan.cfg:159 Flight_Freedom/units/Caravan.cfg:5
+#: Flight_Freedom/units/Caravan.cfg:5 Flight_Freedom/scenarios/Caravan.cfg:3
+#: Flight_Freedom/scenarios/Caravan.cfg:159
 msgid "Caravan"
 msgstr "Karavan"
 
@@ -262,15 +264,15 @@ msgstr "Karavan"
 msgid "Destroy the caravan"
 msgstr "Förstör karavanen"
 
-#: Flight_Freedom/scenarios/Caravan.cfg:83
+#: Flight_Freedom/utils/objectives.cfg:18
 #: Flight_Freedom/scenarios/Manor.cfg:90
-#: Flight_Freedom/scenarios/Rebellion.cfg:144
-#: Flight_Freedom/scenarios/Rebellion.cfg:643
-#: Flight_Freedom/scenarios/Rebellion.cfg:755
 #: Flight_Freedom/scenarios/Rockfall.cfg:66
 #: Flight_Freedom/scenarios/Rockfall.cfg:136
 #: Flight_Freedom/scenarios/Rockfall.cfg:206
-#: Flight_Freedom/utils/objectives.cfg:18
+#: Flight_Freedom/scenarios/Rebellion.cfg:144
+#: Flight_Freedom/scenarios/Rebellion.cfg:643
+#: Flight_Freedom/scenarios/Rebellion.cfg:755
+#: Flight_Freedom/scenarios/Caravan.cfg:83
 msgid "Death of Malakar"
 msgstr "Malakar dör"
 
@@ -359,21 +361,21 @@ msgstr "Låt gå, vi är allierade för stunden."
 msgid "Underground!"
 msgstr "Under jord!"
 
-#: Flight_Freedom/scenarios/Drake_Escape.cfg:275
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:228
 #: Flight_Freedom/scenarios/Landfall.cfg:489
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:275
 msgid "A spirit has attacked!"
 msgstr "En ande har anfallit!"
 
-#: Flight_Freedom/scenarios/Drake_Escape.cfg:286
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:239
 #: Flight_Freedom/scenarios/Landfall.cfg:515
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:286
 msgid "It didn't attack! It just appeared!"
 msgstr "Den anföll inte! Den bara dök upp!"
 
-#: Flight_Freedom/scenarios/Drake_Escape.cfg:299
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:252
 #: Flight_Freedom/scenarios/Landfall.cfg:543
+#: Flight_Freedom/scenarios/Drake_Escape.cfg:299
 msgid "Are you going to say that EVERY time?"
 msgstr "Tänker du påpeka det VARENDA gång?"
 
@@ -471,8 +473,8 @@ msgstr ""
 msgid "He was a true warrior."
 msgstr "Han var en sann krigare."
 
-#: Flight_Freedom/scenarios/Endgame.cfg:337
 #: Flight_Freedom/scenarios/Liberation.cfg:129
+#: Flight_Freedom/scenarios/Endgame.cfg:337
 msgid "Brother!"
 msgstr "Broder!"
 
@@ -480,8 +482,8 @@ msgstr "Broder!"
 msgid "I am gone! Fight on against the humans without me!"
 msgstr "Jag är förlorad! Slåss vidare mot människorna utan mig!"
 
-#: Flight_Freedom/scenarios/Endgame.cfg:358
 #: Flight_Freedom/scenarios/Liberation.cfg:164
+#: Flight_Freedom/scenarios/Endgame.cfg:358
 msgid "Kzzklk"
 msgstr "Kzzklk"
 
@@ -495,7 +497,7 @@ msgstr "De har förstärkt och blockerat ingången!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:433
 msgid "The tower has fallen into disrepair. Onward!"
-msgstr ""
+msgstr "Tornet har inte reparerats på bra länge. Framåt!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:506
 msgid "Help us! The humans are trying to kill us!"
@@ -874,8 +876,8 @@ msgstr "Befrielse"
 msgid "Protect Kamalar"
 msgstr "Skydda Kamalar"
 
-#: Flight_Freedom/scenarios/Liberation.cfg:77
 #: Flight_Freedom/utils/objectives.cfg:46
+#: Flight_Freedom/scenarios/Liberation.cfg:77
 msgid "Defeat all enemy leaders"
 msgstr "Besegra alla fiendeledare"
 
@@ -915,8 +917,8 @@ msgstr "Jag är förgjord!"
 msgid "Without him, we will be unable to continue. All is lost!"
 msgstr "Utan honom så kommer vi inte att kunna fortsätta. Allt är förlorat!"
 
-#: Flight_Freedom/scenarios/Liberation.cfg:150
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:120
+#: Flight_Freedom/scenarios/Liberation.cfg:150
 msgid "We continue!"
 msgstr "Vi fortsätter!"
 
@@ -1174,8 +1176,8 @@ msgstr ""
 "Dock, en dag dök inte ungarnas vakter upp för sitt vaktpass. Malakar "
 "beslutade att starta en revolt mot människorna innan de kom."
 
-#: Flight_Freedom/scenarios/Rebellion.cfg:59
 #: Flight_Freedom/scenarios/Survival.cfg:124
+#: Flight_Freedom/scenarios/Rebellion.cfg:59
 msgid "Malakar"
 msgstr "Malakar"
 
@@ -1340,8 +1342,8 @@ msgstr "På skylten står det 'Förråd'."
 msgid "The ground is unstable!"
 msgstr "Marken är inte stabil!"
 
-#: Flight_Freedom/scenarios/River_Skulls.cfg:473
 #: Flight_Freedom/scenarios/Underground.cfg:323
+#: Flight_Freedom/scenarios/River_Skulls.cfg:473
 msgid "HELP!!!"
 msgstr "HJÄLP!!!"
 
@@ -1566,33 +1568,36 @@ msgid ""
 "ship."
 msgstr "Örlogskeppet är mycket snabbt och beväpnat med tre ballistor."
 
-#: Flight_Freedom/units/Battleship.cfg:24 Flight_Freedom/units/Clipper.cfg:23
-#: Flight_Freedom/units/Dreadnought.cfg:24 Flight_Freedom/units/Frigate.cfg:23
-#: Flight_Freedom/units/Galleon.cfg:23 Flight_Freedom/units/Gunboat.cfg:23
-#: Flight_Freedom/units/Pirate_Cruiser.cfg:23
 #: Flight_Freedom/units/Pirate_Galleon.cfg:24
-#: Flight_Freedom/units/Pirate_Schooner.cfg:23
 #: Flight_Freedom/units/Transport_Galleon.cfg:20
+#: Flight_Freedom/units/Dreadnought.cfg:24
+#: Flight_Freedom/units/Battleship.cfg:24 Flight_Freedom/units/Frigate.cfg:23
+#: Flight_Freedom/units/Pirate_Schooner.cfg:23
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:23
+#: Flight_Freedom/units/Gunboat.cfg:23 Flight_Freedom/units/Galleon.cfg:23
+#: Flight_Freedom/units/Clipper.cfg:23
 msgid "ballista"
 msgstr "ballista"
 
-#: Flight_Freedom/units/Battleship.cfg:25 Flight_Freedom/units/Caravan.cfg:22
-#: Flight_Freedom/units/Caravan.cfg:29 Flight_Freedom/units/Cave_Naga.cfg:23
-#: Flight_Freedom/units/Cave_Naga.cfg:30 Flight_Freedom/units/Clipper.cfg:24
-#: Flight_Freedom/units/Drake_Guard.cfg:29
-#: Flight_Freedom/units/Drake_Slave.cfg:87
-#: Flight_Freedom/units/Drake_Worker.cfg:90
-#: Flight_Freedom/units/Drake_Worker_Malakar.cfg:93
-#: Flight_Freedom/units/Dreadnought.cfg:25 Flight_Freedom/units/Driver.cfg:24
-#: Flight_Freedom/units/Frigate.cfg:24 Flight_Freedom/units/Galleon.cfg:24
-#: Flight_Freedom/units/Gunboat.cfg:24
-#: Flight_Freedom/units/Pirate_Cruiser.cfg:24
 #: Flight_Freedom/units/Pirate_Galleon.cfg:25
-#: Flight_Freedom/units/Pirate_Schooner.cfg:24
-#: Flight_Freedom/units/Saurian_Juggler.cfg:37
-#: Flight_Freedom/units/Saurian_Knifethrower.cfg:38
-#: Flight_Freedom/units/Saurian_Skald.cfg:31
+#: Flight_Freedom/units/Drake_Worker_Malakar.cfg:93
+#: Flight_Freedom/units/Drake_Slave.cfg:87
 #: Flight_Freedom/units/Transport_Galleon.cfg:21
+#: Flight_Freedom/units/Dreadnought.cfg:25
+#: Flight_Freedom/units/Battleship.cfg:25
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:38
+#: Flight_Freedom/units/Frigate.cfg:24
+#: Flight_Freedom/units/Drake_Worker.cfg:90
+#: Flight_Freedom/units/Drake_Guard.cfg:29
+#: Flight_Freedom/units/Pirate_Schooner.cfg:24
+#: Flight_Freedom/units/Driver.cfg:24
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:24
+#: Flight_Freedom/units/Gunboat.cfg:24 Flight_Freedom/units/Galleon.cfg:24
+#: Flight_Freedom/units/Cave_Naga.cfg:23 Flight_Freedom/units/Cave_Naga.cfg:30
+#: Flight_Freedom/units/Saurian_Skald.cfg:31
+#: Flight_Freedom/units/Clipper.cfg:24
+#: Flight_Freedom/units/Saurian_Juggler.cfg:37
+#: Flight_Freedom/units/Caravan.cfg:22 Flight_Freedom/units/Caravan.cfg:29
 #: Flight_Freedom/units/Wolf.cfg:24
 msgid "pierce"
 msgstr "stick"
@@ -1611,10 +1616,10 @@ msgstr ""
 msgid "firststrike"
 msgstr "första slaget"
 
-#: Flight_Freedom/units/Caravan.cfg:21 Flight_Freedom/units/Drake_Guard.cfg:28
+#: Flight_Freedom/units/Drake_Worker_Malakar.cfg:92
 #: Flight_Freedom/units/Drake_Slave.cfg:86
 #: Flight_Freedom/units/Drake_Worker.cfg:89
-#: Flight_Freedom/units/Drake_Worker_Malakar.cfg:92
+#: Flight_Freedom/units/Drake_Guard.cfg:28 Flight_Freedom/units/Caravan.cfg:21
 msgid "spear"
 msgstr "spjut"
 
@@ -1648,10 +1653,10 @@ msgstr "treudd"
 msgid "tail"
 msgstr "svans"
 
-#: Flight_Freedom/units/Cave_Naga.cfg:32
-#: Flight_Freedom/units/Saurian_Juggler.cfg:28
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:29
+#: Flight_Freedom/units/Cave_Naga.cfg:32
 #: Flight_Freedom/units/Saurian_Skald.cfg:27
+#: Flight_Freedom/units/Saurian_Juggler.cfg:28
 msgid "poison"
 msgstr "gift"
 
@@ -1667,19 +1672,19 @@ msgstr "Kycklingar används för att ge kött och, längre fram, ägg."
 msgid "bawk"
 msgstr "kvack"
 
-#: Flight_Freedom/units/Chicken.cfg:22 Flight_Freedom/units/Cow.cfg:22
-#: Flight_Freedom/units/Door.cfg:38 Flight_Freedom/units/Drake_Worker.cfg:24
-#: Flight_Freedom/units/Drake_Worker.cfg:68
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:26
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:71
-#: Flight_Freedom/units/Dreadnought.cfg:43
 #: Flight_Freedom/units/Fake_Units.cfg:37
-#: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Frigate.cfg:41
-#: Flight_Freedom/units/Gunboat.cfg:41 Flight_Freedom/units/Highwayman.cfg:23
-#: Flight_Freedom/units/Horse.cfg:25 Flight_Freedom/units/Horse.cfg:62
+#: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Rock.cfg:28
+#: Flight_Freedom/units/Dreadnought.cfg:43
 #: Flight_Freedom/units/Invisible.cfg:17 Flight_Freedom/units/Pig.cfg:23
-#: Flight_Freedom/units/Pig.cfg:34 Flight_Freedom/units/Rock.cfg:28
-#: Flight_Freedom/units/Rock_Golem.cfg:52
+#: Flight_Freedom/units/Pig.cfg:34 Flight_Freedom/units/Cow.cfg:22
+#: Flight_Freedom/units/Frigate.cfg:41
+#: Flight_Freedom/units/Drake_Worker.cfg:24
+#: Flight_Freedom/units/Drake_Worker.cfg:68 Flight_Freedom/units/Horse.cfg:25
+#: Flight_Freedom/units/Horse.cfg:62 Flight_Freedom/units/Gunboat.cfg:41
+#: Flight_Freedom/units/Highwayman.cfg:23 Flight_Freedom/units/Door.cfg:38
+#: Flight_Freedom/units/Chicken.cfg:22 Flight_Freedom/units/Rock_Golem.cfg:52
 msgid "impact"
 msgstr "kross"
 
@@ -1720,33 +1725,34 @@ msgstr ""
 "Kråkor är asfåglar som äter allt som är dött. Större fåglar, som den här, "
 "har även gått till anfall när det är dåligt med mat."
 
-#: Flight_Freedom/units/Crow.cfg:21
-#: Flight_Freedom/units/Drake_Hatchling.cfg:22
 #: Flight_Freedom/units/Drake_Slave.cfg:22
-#: Flight_Freedom/units/Drake_Slave.cfg:65 Flight_Freedom/units/Falcon.cfg:21
+#: Flight_Freedom/units/Drake_Slave.cfg:65
 #: Flight_Freedom/units/Gargoyle.cfg:26 Flight_Freedom/units/Giant_Boar.cfg:21
+#: Flight_Freedom/units/Crow.cfg:21 Flight_Freedom/units/Falcon.cfg:21
+#: Flight_Freedom/units/Drake_Hatchling.cfg:22
 #: Flight_Freedom/units/Wolf.cfg:39
 msgid "claws"
 msgstr "klor"
 
-#: Flight_Freedom/units/Crow.cfg:22
-#: Flight_Freedom/units/Drake_Hatchling.cfg:23
 #: Flight_Freedom/units/Drake_Slave.cfg:23
-#: Flight_Freedom/units/Drake_Slave.cfg:66 Flight_Freedom/units/Falcon.cfg:22
-#: Flight_Freedom/units/Gargoyle.cfg:27 Flight_Freedom/units/Giant_Boar.cfg:22
+#: Flight_Freedom/units/Drake_Slave.cfg:66
+#: Flight_Freedom/units/Gargoyle.cfg:27
+#: Flight_Freedom/units/Saurian_Jarl.cfg:24
+#: Flight_Freedom/units/Giant_Boar.cfg:22 Flight_Freedom/units/Crow.cfg:22
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:24
+#: Flight_Freedom/units/Rabbit.cfg:23 Flight_Freedom/units/Taskmaster.cfg:26
+#: Flight_Freedom/units/Shadow_Mage.cfg:25
+#: Flight_Freedom/units/Saurian_Margrave.cfg:25
 #: Flight_Freedom/units/Pirate.cfg:22
 #: Flight_Freedom/units/Pirate_Captain.cfg:23
 #: Flight_Freedom/units/Pirate_Captain.cfg:44
-#: Flight_Freedom/units/Rabbit.cfg:23
+#: Flight_Freedom/units/Undead_Dwarf.cfg:26
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:23
-#: Flight_Freedom/units/Saurian_Jarl.cfg:24
-#: Flight_Freedom/units/Saurian_Juggler.cfg:23
-#: Flight_Freedom/units/Saurian_Knifethrower.cfg:24
-#: Flight_Freedom/units/Saurian_Margrave.cfg:25
 #: Flight_Freedom/units/Saurian_Skald.cfg:22
-#: Flight_Freedom/units/Shadow_Mage.cfg:25
-#: Flight_Freedom/units/Taskmaster.cfg:26
-#: Flight_Freedom/units/Undead_Dwarf.cfg:26 Flight_Freedom/units/Wolf.cfg:40
+#: Flight_Freedom/units/Falcon.cfg:22
+#: Flight_Freedom/units/Drake_Hatchling.cfg:23
+#: Flight_Freedom/units/Saurian_Juggler.cfg:23
+#: Flight_Freedom/units/Wolf.cfg:40
 msgid "blade"
 msgstr "hugg"
 
@@ -1778,15 +1784,15 @@ msgstr ""
 msgid "fire breath"
 msgstr "spruta eld"
 
-#: Flight_Freedom/units/Drake_Guard.cfg:52
-#: Flight_Freedom/units/Laser_Trooper.cfg:33
+#: Flight_Freedom/units/Spirit_Minor.cfg:22
 #: Flight_Freedom/units/Lava_Beast.cfg:25
 #: Flight_Freedom/units/Lava_Beast.cfg:36
 #: Flight_Freedom/units/Lava_Monster.cfg:24
 #: Flight_Freedom/units/Lava_Monster.cfg:35
+#: Flight_Freedom/units/Drake_Guard.cfg:52
 #: Flight_Freedom/units/Spirit_Major.cfg:23
 #: Flight_Freedom/units/Spirit_Major.cfg:30
-#: Flight_Freedom/units/Spirit_Minor.cfg:22
+#: Flight_Freedom/units/Laser_Trooper.cfg:33
 #: Flight_Freedom/units/Spirit_Thunder.cfg:21
 #: Flight_Freedom/units/Spirit_Thunder.cfg:28
 msgid "fire"
@@ -1819,33 +1825,33 @@ msgid ""
 "masters."
 msgstr "En gång en drakslav, men nu i uppror mot sina herrar."
 
-#: Flight_Freedom/units/Drake_Worker.cfg:5
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:5
+#: Flight_Freedom/units/Drake_Worker.cfg:5
 msgid "Drake Worker"
 msgstr "Drakarbetare"
 
-#: Flight_Freedom/units/Drake_Worker.cfg:20
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:22
+#: Flight_Freedom/units/Drake_Worker.cfg:20
 msgid "More advanced Drakes, the Workers fight with their maces."
 msgstr ""
 "Drakarbetarna är lite mer avancerade bland drakfolket, och slåss med "
 "spikklubbor."
 
-#: Flight_Freedom/units/Drake_Worker.cfg:23
-#: Flight_Freedom/units/Drake_Worker.cfg:67
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:25
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:70
+#: Flight_Freedom/units/Drake_Worker.cfg:23
+#: Flight_Freedom/units/Drake_Worker.cfg:67
 #: Flight_Freedom/units/Highwayman.cfg:22
 msgid "mace"
 msgstr "spikklubba"
 
-#: Flight_Freedom/units/Drake_Worker.cfg:48
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:50
+#: Flight_Freedom/units/Drake_Worker.cfg:48
 msgid "Drake Guerilla"
 msgstr "Drakgerillakrigare"
 
-#: Flight_Freedom/units/Drake_Worker.cfg:64
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:67
+#: Flight_Freedom/units/Drake_Worker.cfg:64
 msgid ""
 "More advanced Drakes, these guerilla fighters have so far led a successful "
 "campaign against their masters."
@@ -1856,8 +1862,8 @@ msgstr ""
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:18
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:64
 #: Flight_Freedom/units/Saurian_Jarl.cfg:20
-#: Flight_Freedom/units/Saurian_Margrave.cfg:21
 #: Flight_Freedom/units/Shadow_Mage.cfg:11
+#: Flight_Freedom/units/Saurian_Margrave.cfg:21
 msgid "leadership"
 msgstr "ledarskap"
 
@@ -2002,15 +2008,16 @@ msgstr ""
 "nedgörs, så kan deras sparkar krossa skallen på den som kommer i vägen."
 
 #: Flight_Freedom/units/Horse.cfg:45
-#, fuzzy
 msgid "Horse"
-msgstr "Vildhäst"
+msgstr "Häst"
 
 #: Flight_Freedom/units/Horse.cfg:58
 msgid ""
 "Horses, when tamed, are used as mounts by Elvish and Human armies, and also "
 "as beasts of burden."
 msgstr ""
+"Tämjda hästar används som riddjur av alver och människor. De är även "
+"praktiska som last- och dragdjur."
 
 #: Flight_Freedom/units/Invisible.cfg:5
 msgid "Invisible"
@@ -2046,10 +2053,10 @@ msgstr ""
 msgid "laser rifle"
 msgstr "lasergevär"
 
-#: Flight_Freedom/units/Laser_Trooper.cfg:35
 #: Flight_Freedom/units/Shadow_Mage.cfg:27
 #: Flight_Freedom/units/Shadow_Mage.cfg:50
 #: Flight_Freedom/units/Spirit_Major.cfg:32
+#: Flight_Freedom/units/Laser_Trooper.cfg:35
 #: Flight_Freedom/units/Spirit_Thunder.cfg:30
 msgid "magical"
 msgstr "magisk"
@@ -2062,12 +2069,12 @@ msgstr "Lavabest"
 msgid "The Lava Beast is a living, breathing hunk of lava with a bad attitude."
 msgstr "Lavabesten är en levande lavaklump med ett genuint dåligt humör."
 
+#: Flight_Freedom/units/Spirit_Minor.cfg:21
 #: Flight_Freedom/units/Lava_Beast.cfg:24
 #: Flight_Freedom/units/Lava_Monster.cfg:23
-#: Flight_Freedom/units/Rock_Golem.cfg:51
 #: Flight_Freedom/units/Spirit_Major.cfg:22
-#: Flight_Freedom/units/Spirit_Minor.cfg:21
 #: Flight_Freedom/units/Spirit_Thunder.cfg:20
+#: Flight_Freedom/units/Rock_Golem.cfg:51
 msgid "fist"
 msgstr "knytnäve"
 
@@ -2243,10 +2250,10 @@ msgstr ""
 "Dessa huvudjägare utgör det tunga infanteriet hos ödlefolket. Med sina yxor "
 "kan de dela ut tunga slag, men de hindras av sin rustning."
 
-#: Flight_Freedom/units/Saurian_Headhunter.cfg:21
 #: Flight_Freedom/units/Saurian_Jarl.cfg:22
 #: Flight_Freedom/units/Saurian_Margrave.cfg:23
 #: Flight_Freedom/units/Undead_Dwarf.cfg:25
+#: Flight_Freedom/units/Saurian_Headhunter.cfg:21
 msgid "axe"
 msgstr "yxa"
 
@@ -2278,15 +2285,15 @@ msgstr ""
 "Jonglörerna är mer erfarna skalder som kan kasta fler knivar. De har lärt "
 "sig att ersätta sitt naturliga gift med saften från träskbär."
 
-#: Flight_Freedom/units/Saurian_Juggler.cfg:22
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:23
 #: Flight_Freedom/units/Saurian_Skald.cfg:21
+#: Flight_Freedom/units/Saurian_Juggler.cfg:22
 msgid "teeth"
 msgstr "tänder"
 
-#: Flight_Freedom/units/Saurian_Juggler.cfg:36
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:37
 #: Flight_Freedom/units/Saurian_Skald.cfg:30
+#: Flight_Freedom/units/Saurian_Juggler.cfg:36
 msgid "dagger"
 msgstr "dolk"
 
@@ -2353,8 +2360,8 @@ msgstr ""
 "närstridsattacker. Trots deras offensiva styrka har deras förvridna själar "
 "börjat påverka deras hälsa negativt."
 
-#: Flight_Freedom/units/Shadow_Mage.cfg:24
 #: Flight_Freedom/units/Taskmaster.cfg:25
+#: Flight_Freedom/units/Shadow_Mage.cfg:24
 msgid "short sword"
 msgstr "kortsvärd"
 
