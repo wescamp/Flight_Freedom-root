@@ -5,13 +5,13 @@ msgstr ""
 "Project-Id-Version: flight-freedom-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-16 22:55+0100\n"
-"PO-Revision-Date: 2006-02-09 00:51+0100\n"
-"Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
+"PO-Revision-Date: 2006-02-16 17:53+0100\n"
+"Last-Translator: Gwain <mcgwain@hotmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.1\n"
 
 #: Flight_Freedom.cfg:22
@@ -196,9 +196,8 @@ msgstr ""
 "loro volontà. E che sarà dei tuoi alabardieri?"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:143
-#, fuzzy
 msgid "How DARE you insult my clashers, puny softskin!"
-msgstr "Come OSI insultare i miei clasher, debole pellemolle!"
+msgstr "Come OSI insultare i miei draghi corazzati, debole pellemolle!"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:147
 msgid ""
@@ -334,7 +333,6 @@ msgid "You wish!"
 msgstr "Ti piacerebbe!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:144
-#, fuzzy
 msgid "Humans! Servants of Good! Die you innocent people!"
 msgstr "Umani! Servi del Bene! Morite, gente innocente!"
 
@@ -435,7 +433,7 @@ msgstr "Sì, Gli umani hanno profanato il Tempio di Gar-Alagar!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:178
 msgid "I will kill meeeeself ssssome humanssss!"
-msgstr ""
+msgstr "Ammazzeeeerooo qualcheee umaaano!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:183
 msgid "Now I will get revenge for my enslavement!"
@@ -454,7 +452,6 @@ msgid "I dddddie! Fffight ffor meee...avvvennnnge...kkkill huuumansssss..."
 msgstr "Mmuoioo! Lottaate peer mee... vvendicaatemi... ucccidetee umaanii..."
 
 #: Flight_Freedom/scenarios/Endgame.cfg:239
-#, fuzzy
 msgid "NOOOOOOOO! I commit suicide!"
 msgstr "NOOOOOOO! Mi suicido!"
 
@@ -1071,9 +1068,8 @@ msgid "The trapdoor is locked!"
 msgstr "La botola è chiusa a chiave!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:609
-#, fuzzy
 msgid "This mansion is haunted!"
-msgstr "Questa ... è infestata da fantasmi!"
+msgstr "Questa dimora è infestata da fantasmi!"
 
 #: Flight_Freedom/scenarios/Manor.cfg:620
 msgid "I surrender! Don't hurt me!"
@@ -1130,7 +1126,6 @@ msgid "(Malakar) Fine. Let's get on with it."
 msgstr "(Malakar) Va bene. Andiamo avanti così."
 
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:181
-#, fuzzy
 msgid "(Malakar) Let's press on!"
 msgstr "(Malakar) Andiamo avanti!"
 
@@ -1224,9 +1219,8 @@ msgstr ""
 "maniero!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:638
-#, fuzzy
 msgid "The hatchlings are free! We must kill the taskmaster!"
-msgstr "I nidiacei sono liberi! Dobbiamo uccidere il taskmaster!"
+msgstr "I cuccioli sono liberi! Dobbiamo uccidere il taskmaster!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:642
 msgid "At least one hatchling must survive"
@@ -1273,7 +1267,7 @@ msgstr "È brulicante di umani!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:109
 msgid "We will run them through!"
-msgstr ""
+msgstr "Passeremo attraverso di loro!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:3
 msgid "River of Skulls"
@@ -1631,7 +1625,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Caravan.cfg:20
 msgid "firststrike"
-msgstr ""
+msgstr "attacco improvviso"
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:92
 #: Flight_Freedom/units/Drake_Slave.cfg:86
@@ -1686,7 +1680,7 @@ msgstr "I polli sono allevati per la carne e le uova."
 
 #: Flight_Freedom/units/Chicken.cfg:21
 msgid "bawk"
-msgstr ""
+msgstr "coccodè"
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:26
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:71
@@ -1783,19 +1777,18 @@ msgstr "La porta non si aprirà se non per chi è un suo alleato."
 
 #: Flight_Freedom/units/Door.cfg:35
 msgid "bump"
-msgstr ""
+msgstr "sbam"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:5
 msgid "Drake Guard"
-msgstr ""
+msgstr "Drago Guardiano"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:20
-#, fuzzy
 msgid ""
 "Protected by their massive golden shields, Drake Guards are at the front "
 "lines, protecting the Drakes behind them."
 msgstr ""
-"Protetti da massicci scudi dorati, i draghi ... sono in prima linea, a "
+"Protetti da massicci scudi dorati, i draghi guardiani sono in prima linea, a "
 "protezione dei draghi dietro di loro."
 
 #: Flight_Freedom/units/Drake_Guard.cfg:50
@@ -1924,20 +1917,20 @@ msgstr "frusta"
 
 #: Flight_Freedom/units/Fake_Units.cfg:6
 msgid "Drake Flare"
-msgstr ""
+msgstr "Drago Splendente"
 
 #: Flight_Freedom/units/Fake_Units.cfg:23
 msgid "Worker Wood"
-msgstr ""
+msgstr "Legno del lavoratore"
 
 #: Flight_Freedom/units/Fake_Units.cfg:36
 #: Flight_Freedom/units/Fake_Units.cfg:61 Flight_Freedom/units/Rock.cfg:25
 msgid "none"
-msgstr ""
+msgstr "nessuno"
 
 #: Flight_Freedom/units/Fake_Units.cfg:48
 msgid "Slave Wood"
-msgstr ""
+msgstr "Legno dello schiavo"
 
 #: Flight_Freedom/units/Falcon.cfg:5
 msgid "Falcon"
@@ -1961,7 +1954,7 @@ msgid ""
 "expensive, but very strong. Armed with three ballistae, they mete out "
 "justice with deadly efficency."
 msgstr ""
-"I galeoni sono navi da guerra a vela. Il tentativo umano a viaggiare per "
+"I galeoni sono navi da guerra a vela. Il tentativo umano di viaggiare per "
 "mare, sono costosi ma molto potenti. Armate di tre baliste, dispensano "
 "giustizia con efficienza mortale."
 
@@ -2046,7 +2039,7 @@ msgstr "Invisibile"
 
 #: Flight_Freedom/units/Invisible.cfg:16
 msgid "dummy"
-msgstr ""
+msgstr "fantoccio"
 
 #: Flight_Freedom/units/Laser_Trooper.cfg:5
 msgid "Laser Trooper"
@@ -2133,11 +2126,11 @@ msgstr ""
 
 #: Flight_Freedom/units/Pig.cfg:22
 msgid "hoof"
-msgstr ""
+msgstr "woof"
 
 #: Flight_Freedom/units/Pig.cfg:33
 msgid "oink"
-msgstr ""
+msgstr "oink"
 
 #: Flight_Freedom/units/Pirate.cfg:5
 msgid "Pirate"
@@ -2244,10 +2237,12 @@ msgid ""
 "This is impassable to all things, but is loose. It can be destroyed, but not "
 "easily."
 msgstr ""
+"Niente può attraversarla, ma è cedevole. Può esser distrutta, ma non "
+"facilmente."
 
 #: Flight_Freedom/units/Rock.cfg:30 Flight_Freedom/units/Rock_Golem.cfg:21
 msgid "steadfast"
-msgstr ""
+msgstr "risoluta"
 
 #: Flight_Freedom/units/Rock_Golem.cfg:5
 msgid "Rock Golem"
@@ -2283,34 +2278,32 @@ msgstr "ascia"
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:5
 msgid "Saurian Jarl"
-msgstr ""
+msgstr "Sauro Capoguerra"
 
 #: Flight_Freedom/units/Saurian_Jarl.cfg:18
-#, fuzzy
 msgid ""
 "Saurian Jarls are the leaders of saurian attack squads. Armed with an axe "
 "and armored, they are capable of doing decent damage and can take some hits, "
 "but the armor slows them down to the point where they cannot sneak pass "
 "enemies."
 msgstr ""
-"I sauri ...  sono i capi delle squadre di combattimento dei sauri. Armati di "
-"ascia e copereti da una robusta armatura, possono infliggere abbastanza "
-"danni e resistere a qualche colpo, ma l'armatura li rallenta al punto in cui "
-"non possono infiltrarsi tra i nemici."
+"I sauri capoguerra  sono i capi delle squadre di combattimento dei sauri. "
+"Armati di ascia e coperti da una robusta armatura, possono infliggere "
+"abbastanza danni e resistere a qualche colpo, ma l'armatura li rallenta al "
+"punto in cui non possono infiltrarsi tra i nemici."
 
 #: Flight_Freedom/units/Saurian_Juggler.cfg:5
 msgid "Saurian Juggler"
 msgstr "Giocoliere sauro"
 
 #: Flight_Freedom/units/Saurian_Juggler.cfg:19
-#, fuzzy
 msgid ""
 "More experienced Skalds, the Jugglers can throw more daggers. They have also "
 "learned to supplement their natural poison with swamp berry extracts."
 msgstr ""
-"Più esperti degli ... i giocolieri possono lanciare più pugnali. Hanno anche "
-"imparato a potenziare il loro veleno naturare con estratti di bacche di "
-"palude."
+"Più esperti dei saltimbanchi, i giocolieri possono lanciare più pugnali. "
+"Hanno anche imparato a potenziare il loro veleno naturale con estratti di "
+"bacche di palude."
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:23
 #: Flight_Freedom/units/Saurian_Skald.cfg:21
@@ -2329,34 +2322,32 @@ msgid "Saurian Knifethrower"
 msgstr "Lanciatore di coltelli sauro"
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:20
-#, fuzzy
 msgid ""
 "The Saurian Knifethrowers are the elite of the Skalds. They possess "
 "incredible skill with their arms, enabling them to throw many daggers at "
 "blindingly fast speeds."
 msgstr ""
-"I lanciatori di coltelli sauri fanno parte dell'elite degli ... Possiedono "
-"un'incredibile abilità con le loro armi, che permette loro di lanciare molti "
-"coltelli ad una velocità incredibile."
+"I lanciatori di coltelli sauri fanno parte dell'elite dei saltimbanchi. "
+"Possiedono un'incredibile abilità con le loro armi, che permette loro di "
+"lanciare molti coltelli ad una velocità incredibile."
 
 #: Flight_Freedom/units/Saurian_Margrave.cfg:5
 msgid "Saurian Margrave"
-msgstr ""
+msgstr "Sauro Margravio"
 
 #: Flight_Freedom/units/Saurian_Margrave.cfg:19
-#, fuzzy
 msgid ""
 "Saurian Margraves are the leaders of saurian armies. They are also skilled "
 "with the axe, but like the Jarls, are slower than most saurians due to their "
 "armor and cannot sneak past enemies."
 msgstr ""
-"I ... sauri sono i condottieri delle armate dei sauri. Sono anche abili con "
-"l'ascia, ma come i ... sono più lenti degli altri sauro a causa della loro "
-"armatura, e non possono infiltrarsi tra i nemici."
+"I sauri Margravi sono i condottieri delle armate dei sauri. Sono anche abili "
+"con l'ascia, ma come i ... sono più lenti degli altri sauro a causa della "
+"loro armatura, e non possono infiltrarsi tra i nemici."
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:5
 msgid "Saurian Skald"
-msgstr ""
+msgstr "Sauro Saltimbanco"
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:18
 msgid ""
@@ -2365,13 +2356,16 @@ msgid ""
 "they are best known for their manual dexterity, which they translate into "
 "fast dagger throwing."
 msgstr ""
+"I Sauri Saltimbanchi sono selezionati da un ceppo più lento, ma "
+"considerevolmente più forte di sauri, che in più posseggono un terribile "
+"morso velenoso. Comunque, essi sono più conosciuti per la loro destrezza "
+"manuale, che traducono nell'abilità di lanciare coltelli ad alta velocità ."
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:5
 msgid "Shadow Mage"
 msgstr "Mago oscuro"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:21
-#, fuzzy
 msgid ""
 "Years of violence and brutality to support the study of forbidden magical "
 "arts have turned the shadow mages into feared fighters. Now completely "
@@ -2384,8 +2378,8 @@ msgstr ""
 "Anni di violenza e brutalità subiti durante lo studio delle arti magiche "
 "proibite hanno reso i maghi oscuri dei terribili combattenti. Ora "
 "completamente soggiogati dal potere, sono noti per comandare piccole "
-"compagnie di ... Sono surclassati nel combattimento magico diretto dai loro "
-"pari utilizzatori di magia, e incanalano le loro energie in attacchi "
+"compagnie di seguaci. Sono surclassati nel combattimento magico diretto dai "
+"loro pari utilizzatori di magia, e incanalano le loro energie in attacchi "
 "devastanti nel corpo a corpo. A dispetto della loro potenza offensiva, la "
 "corruzione delle loro anime ha cominciato ad avere effetti negativi sulla "
 "loro salute."
@@ -2397,7 +2391,7 @@ msgstr "spada corta"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:47
 msgid "ice blast"
-msgstr ""
+msgstr "esplosione di gelo"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:48
 msgid "cold"
@@ -2449,7 +2443,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Taskmaster.cfg:5
 msgid "Taskmaster"
-msgstr ""
+msgstr "Supervisore"
 
 #: Flight_Freedom/units/Taskmaster.cfg:22
 msgid ""
@@ -2457,6 +2451,9 @@ msgid ""
 "life of torturing the slaves under their watch. They especially like beating "
 "Drake slaves with their short swords."
 msgstr ""
+"Un ruolo occupato dalla feccia della società, il supervisore vive torturando "
+"pervertamente gli schiavi sotto la sua custodia. Essi amano, sopra ogni "
+"cosa, picchiare gli schiavi draghi con le loro spade corte."
 
 #: Flight_Freedom/units/Transport_Galleon.cfg:5
 msgid "Transport Galleon"
