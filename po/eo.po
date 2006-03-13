@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-16 22:55+0100\n"
+"POT-Creation-Date: 2006-03-13 13:45+0100\n"
 "PO-Revision-Date: 2005-12-16 22:55+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -102,11 +102,11 @@ msgid "Move the Unforgiver to the East"
 msgstr ""
 
 #: Flight_Freedom/scenarios/Blockade.cfg:70
+#: Flight_Freedom/scenarios/Southern_Shore.cfg:51
 #: Flight_Freedom/scenarios/Open_Ocean.cfg:54
 #: Flight_Freedom/scenarios/Landfall.cfg:88
 #: Flight_Freedom/scenarios/Landfall.cfg:254
 #: Flight_Freedom/scenarios/Landfall.cfg:261
-#: Flight_Freedom/scenarios/Southern_Shore.cfg:51
 msgid "Destruction of the Unforgiver"
 msgstr ""
 
@@ -191,8 +191,8 @@ msgstr ""
 msgid "Fine. But you had better prove your worth!"
 msgstr ""
 
-#: Flight_Freedom/scenarios/Blue_River.cfg:164
 #: Flight_Freedom/scenarios/Rockfall.cfg:243
+#: Flight_Freedom/scenarios/Blue_River.cfg:164
 msgid "AAAAH!"
 msgstr ""
 
@@ -234,8 +234,8 @@ msgstr ""
 msgid "Very well. We shall sail."
 msgstr ""
 
-#: Flight_Freedom/units/Caravan.cfg:5 Flight_Freedom/scenarios/Caravan.cfg:3
-#: Flight_Freedom/scenarios/Caravan.cfg:159
+#: Flight_Freedom/scenarios/Caravan.cfg:3
+#: Flight_Freedom/scenarios/Caravan.cfg:159 Flight_Freedom/units/Caravan.cfg:5
 msgid "Caravan"
 msgstr ""
 
@@ -243,15 +243,15 @@ msgstr ""
 msgid "Destroy the caravan"
 msgstr ""
 
-#: Flight_Freedom/utils/objectives.cfg:18
-#: Flight_Freedom/scenarios/Manor.cfg:90
-#: Flight_Freedom/scenarios/Rockfall.cfg:66
-#: Flight_Freedom/scenarios/Rockfall.cfg:136
-#: Flight_Freedom/scenarios/Rockfall.cfg:206
 #: Flight_Freedom/scenarios/Rebellion.cfg:144
 #: Flight_Freedom/scenarios/Rebellion.cfg:643
 #: Flight_Freedom/scenarios/Rebellion.cfg:755
 #: Flight_Freedom/scenarios/Caravan.cfg:83
+#: Flight_Freedom/scenarios/Rockfall.cfg:66
+#: Flight_Freedom/scenarios/Rockfall.cfg:136
+#: Flight_Freedom/scenarios/Rockfall.cfg:206
+#: Flight_Freedom/scenarios/Manor.cfg:90
+#: Flight_Freedom/utils/objectives.cfg:18
 msgid "Death of Malakar"
 msgstr ""
 
@@ -336,20 +336,20 @@ msgid "Underground!"
 msgstr ""
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:228
-#: Flight_Freedom/scenarios/Landfall.cfg:489
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:275
+#: Flight_Freedom/scenarios/Landfall.cfg:489
 msgid "A spirit has attacked!"
 msgstr ""
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:239
-#: Flight_Freedom/scenarios/Landfall.cfg:515
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:286
+#: Flight_Freedom/scenarios/Landfall.cfg:515
 msgid "It didn't attack! It just appeared!"
 msgstr ""
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:252
-#: Flight_Freedom/scenarios/Landfall.cfg:543
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:299
+#: Flight_Freedom/scenarios/Landfall.cfg:543
 msgid "Are you going to say that EVERY time?"
 msgstr ""
 
@@ -615,9 +615,9 @@ msgstr ""
 msgid "Move Malakar to the ruined keep"
 msgstr ""
 
+#: Flight_Freedom/scenarios/Landfall.cfg:253
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:55
 #: Flight_Freedom/scenarios/Hordes_Undead.cfg:113
-#: Flight_Freedom/scenarios/Landfall.cfg:253
 msgid "Defeat both enemy leaders"
 msgstr ""
 
@@ -793,8 +793,8 @@ msgstr ""
 msgid "Protect Kamalar"
 msgstr ""
 
-#: Flight_Freedom/utils/objectives.cfg:46
 #: Flight_Freedom/scenarios/Liberation.cfg:77
+#: Flight_Freedom/utils/objectives.cfg:46
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -832,8 +832,8 @@ msgstr ""
 msgid "Without him, we will be unable to continue. All is lost!"
 msgstr ""
 
-#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:120
 #: Flight_Freedom/scenarios/Liberation.cfg:150
+#: Flight_Freedom/scenarios/Return_to_Morogor.cfg:120
 msgid "We continue!"
 msgstr ""
 
@@ -1061,8 +1061,8 @@ msgid ""
 "decided to lead a revolt against the humans before they arrived."
 msgstr ""
 
-#: Flight_Freedom/scenarios/Survival.cfg:124
 #: Flight_Freedom/scenarios/Rebellion.cfg:59
+#: Flight_Freedom/scenarios/Survival.cfg:124
 msgid "Malakar"
 msgstr ""
 
@@ -1232,8 +1232,8 @@ msgstr ""
 msgid "Ugh! Dwarven whiskey!"
 msgstr ""
 
-#: Flight_Freedom/scenarios/River_Skulls.cfg:541
 #: Flight_Freedom/scenarios/Rockfall.cfg:283
+#: Flight_Freedom/scenarios/River_Skulls.cfg:541
 msgid "We must continue!"
 msgstr ""
 
@@ -1432,37 +1432,34 @@ msgid ""
 "ship."
 msgstr ""
 
-#: Flight_Freedom/units/Pirate_Galleon.cfg:24
-#: Flight_Freedom/units/Transport_Galleon.cfg:20
-#: Flight_Freedom/units/Dreadnought.cfg:24
-#: Flight_Freedom/units/Battleship.cfg:24 Flight_Freedom/units/Frigate.cfg:23
+#: Flight_Freedom/units/Frigate.cfg:23 Flight_Freedom/units/Gunboat.cfg:23
 #: Flight_Freedom/units/Pirate_Schooner.cfg:23
+#: Flight_Freedom/units/Transport_Galleon.cfg:20
 #: Flight_Freedom/units/Pirate_Cruiser.cfg:23
-#: Flight_Freedom/units/Gunboat.cfg:23 Flight_Freedom/units/Galleon.cfg:23
-#: Flight_Freedom/units/Clipper.cfg:23
+#: Flight_Freedom/units/Dreadnought.cfg:24 Flight_Freedom/units/Galleon.cfg:23
+#: Flight_Freedom/units/Clipper.cfg:23 Flight_Freedom/units/Battleship.cfg:24
+#: Flight_Freedom/units/Pirate_Galleon.cfg:24
 msgid "ballista"
 msgstr ""
 
-#: Flight_Freedom/units/Pirate_Galleon.cfg:25
-#: Flight_Freedom/units/Drake_Worker_Malakar.cfg:93
-#: Flight_Freedom/units/Drake_Slave.cfg:87
-#: Flight_Freedom/units/Transport_Galleon.cfg:21
-#: Flight_Freedom/units/Dreadnought.cfg:25
-#: Flight_Freedom/units/Battleship.cfg:25
-#: Flight_Freedom/units/Saurian_Knifethrower.cfg:38
-#: Flight_Freedom/units/Frigate.cfg:24
-#: Flight_Freedom/units/Drake_Worker.cfg:90
-#: Flight_Freedom/units/Drake_Guard.cfg:29
-#: Flight_Freedom/units/Pirate_Schooner.cfg:24
-#: Flight_Freedom/units/Driver.cfg:24
-#: Flight_Freedom/units/Pirate_Cruiser.cfg:24
-#: Flight_Freedom/units/Gunboat.cfg:24 Flight_Freedom/units/Galleon.cfg:24
-#: Flight_Freedom/units/Cave_Naga.cfg:23 Flight_Freedom/units/Cave_Naga.cfg:30
-#: Flight_Freedom/units/Saurian_Skald.cfg:31
-#: Flight_Freedom/units/Clipper.cfg:24
-#: Flight_Freedom/units/Saurian_Juggler.cfg:37
 #: Flight_Freedom/units/Caravan.cfg:22 Flight_Freedom/units/Caravan.cfg:29
+#: Flight_Freedom/units/Drake_Worker_Malakar.cfg:93
+#: Flight_Freedom/units/Drake_Worker.cfg:90
+#: Flight_Freedom/units/Drake_Guard.cfg:29 Flight_Freedom/units/Frigate.cfg:24
 #: Flight_Freedom/units/Wolf.cfg:24
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:38
+#: Flight_Freedom/units/Gunboat.cfg:24
+#: Flight_Freedom/units/Pirate_Schooner.cfg:24
+#: Flight_Freedom/units/Transport_Galleon.cfg:21
+#: Flight_Freedom/units/Saurian_Skald.cfg:31
+#: Flight_Freedom/units/Drake_Slave.cfg:87
+#: Flight_Freedom/units/Pirate_Cruiser.cfg:24
+#: Flight_Freedom/units/Cave_Naga.cfg:23 Flight_Freedom/units/Cave_Naga.cfg:30
+#: Flight_Freedom/units/Driver.cfg:24
+#: Flight_Freedom/units/Saurian_Juggler.cfg:37
+#: Flight_Freedom/units/Dreadnought.cfg:25 Flight_Freedom/units/Galleon.cfg:24
+#: Flight_Freedom/units/Clipper.cfg:24 Flight_Freedom/units/Battleship.cfg:25
+#: Flight_Freedom/units/Pirate_Galleon.cfg:25
 msgid "pierce"
 msgstr ""
 
@@ -1477,10 +1474,11 @@ msgstr ""
 msgid "firststrike"
 msgstr ""
 
+#: Flight_Freedom/units/Caravan.cfg:21
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:92
-#: Flight_Freedom/units/Drake_Slave.cfg:86
 #: Flight_Freedom/units/Drake_Worker.cfg:89
-#: Flight_Freedom/units/Drake_Guard.cfg:28 Flight_Freedom/units/Caravan.cfg:21
+#: Flight_Freedom/units/Drake_Guard.cfg:28
+#: Flight_Freedom/units/Drake_Slave.cfg:86
 msgid "spear"
 msgstr ""
 
@@ -1509,8 +1507,8 @@ msgid "tail"
 msgstr ""
 
 #: Flight_Freedom/units/Saurian_Knifethrower.cfg:29
-#: Flight_Freedom/units/Cave_Naga.cfg:32
 #: Flight_Freedom/units/Saurian_Skald.cfg:27
+#: Flight_Freedom/units/Cave_Naga.cfg:32
 #: Flight_Freedom/units/Saurian_Juggler.cfg:28
 msgid "poison"
 msgstr ""
@@ -1529,17 +1527,17 @@ msgstr ""
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:26
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:71
-#: Flight_Freedom/units/Fake_Units.cfg:37
-#: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Rock.cfg:28
-#: Flight_Freedom/units/Dreadnought.cfg:43
-#: Flight_Freedom/units/Invisible.cfg:17 Flight_Freedom/units/Pig.cfg:23
-#: Flight_Freedom/units/Pig.cfg:34 Flight_Freedom/units/Cow.cfg:22
-#: Flight_Freedom/units/Frigate.cfg:41
-#: Flight_Freedom/units/Drake_Worker.cfg:24
-#: Flight_Freedom/units/Drake_Worker.cfg:68 Flight_Freedom/units/Horse.cfg:25
-#: Flight_Freedom/units/Horse.cfg:62 Flight_Freedom/units/Gunboat.cfg:41
-#: Flight_Freedom/units/Highwayman.cfg:23 Flight_Freedom/units/Door.cfg:38
-#: Flight_Freedom/units/Chicken.cfg:22 Flight_Freedom/units/Rock_Golem.cfg:52
+#: Flight_Freedom/units/Rock.cfg:28 Flight_Freedom/units/Drake_Worker.cfg:24
+#: Flight_Freedom/units/Drake_Worker.cfg:68
+#: Flight_Freedom/units/Frigate.cfg:41 Flight_Freedom/units/Fake_Units.cfg:37
+#: Flight_Freedom/units/Fake_Units.cfg:62 Flight_Freedom/units/Pig.cfg:23
+#: Flight_Freedom/units/Pig.cfg:34 Flight_Freedom/units/Chicken.cfg:22
+#: Flight_Freedom/units/Gunboat.cfg:41 Flight_Freedom/units/Cow.cfg:22
+#: Flight_Freedom/units/Horse.cfg:25 Flight_Freedom/units/Horse.cfg:62
+#: Flight_Freedom/units/Highwayman.cfg:23
+#: Flight_Freedom/units/Rock_Golem.cfg:52
+#: Flight_Freedom/units/Invisible.cfg:17
+#: Flight_Freedom/units/Dreadnought.cfg:43 Flight_Freedom/units/Door.cfg:38
 msgid "impact"
 msgstr ""
 
@@ -1576,34 +1574,32 @@ msgid ""
 "this have been also known to attack when food is scarce."
 msgstr ""
 
-#: Flight_Freedom/units/Drake_Slave.cfg:22
-#: Flight_Freedom/units/Drake_Slave.cfg:65
-#: Flight_Freedom/units/Gargoyle.cfg:26 Flight_Freedom/units/Giant_Boar.cfg:21
-#: Flight_Freedom/units/Crow.cfg:21 Flight_Freedom/units/Falcon.cfg:21
-#: Flight_Freedom/units/Drake_Hatchling.cfg:22
 #: Flight_Freedom/units/Wolf.cfg:39
+#: Flight_Freedom/units/Drake_Hatchling.cfg:22
+#: Flight_Freedom/units/Falcon.cfg:21 Flight_Freedom/units/Drake_Slave.cfg:22
+#: Flight_Freedom/units/Drake_Slave.cfg:65
+#: Flight_Freedom/units/Giant_Boar.cfg:21 Flight_Freedom/units/Gargoyle.cfg:26
+#: Flight_Freedom/units/Crow.cfg:21
 msgid "claws"
 msgstr ""
 
-#: Flight_Freedom/units/Drake_Slave.cfg:23
-#: Flight_Freedom/units/Drake_Slave.cfg:66
-#: Flight_Freedom/units/Gargoyle.cfg:27
-#: Flight_Freedom/units/Saurian_Jarl.cfg:24
-#: Flight_Freedom/units/Giant_Boar.cfg:22 Flight_Freedom/units/Crow.cfg:22
-#: Flight_Freedom/units/Saurian_Knifethrower.cfg:24
-#: Flight_Freedom/units/Rabbit.cfg:23 Flight_Freedom/units/Taskmaster.cfg:26
-#: Flight_Freedom/units/Shadow_Mage.cfg:25
 #: Flight_Freedom/units/Saurian_Margrave.cfg:25
-#: Flight_Freedom/units/Pirate.cfg:22
+#: Flight_Freedom/units/Taskmaster.cfg:26 Flight_Freedom/units/Pirate.cfg:22
+#: Flight_Freedom/units/Shadow_Mage.cfg:25 Flight_Freedom/units/Wolf.cfg:40
+#: Flight_Freedom/units/Saurian_Knifethrower.cfg:24
+#: Flight_Freedom/units/Drake_Hatchling.cfg:23
+#: Flight_Freedom/units/Saurian_Skald.cfg:22
+#: Flight_Freedom/units/Rabbit.cfg:23
+#: Flight_Freedom/units/Saurian_Headhunter.cfg:23
+#: Flight_Freedom/units/Saurian_Jarl.cfg:24 Flight_Freedom/units/Falcon.cfg:22
 #: Flight_Freedom/units/Pirate_Captain.cfg:23
 #: Flight_Freedom/units/Pirate_Captain.cfg:44
-#: Flight_Freedom/units/Undead_Dwarf.cfg:26
-#: Flight_Freedom/units/Saurian_Headhunter.cfg:23
-#: Flight_Freedom/units/Saurian_Skald.cfg:22
-#: Flight_Freedom/units/Falcon.cfg:22
-#: Flight_Freedom/units/Drake_Hatchling.cfg:23
+#: Flight_Freedom/units/Drake_Slave.cfg:23
+#: Flight_Freedom/units/Drake_Slave.cfg:66
+#: Flight_Freedom/units/Giant_Boar.cfg:22 Flight_Freedom/units/Gargoyle.cfg:27
+#: Flight_Freedom/units/Crow.cfg:22
 #: Flight_Freedom/units/Saurian_Juggler.cfg:23
-#: Flight_Freedom/units/Wolf.cfg:40
+#: Flight_Freedom/units/Undead_Dwarf.cfg:26
 msgid "blade"
 msgstr ""
 
@@ -1633,17 +1629,17 @@ msgstr ""
 msgid "fire breath"
 msgstr ""
 
-#: Flight_Freedom/units/Spirit_Minor.cfg:22
-#: Flight_Freedom/units/Lava_Beast.cfg:25
-#: Flight_Freedom/units/Lava_Beast.cfg:36
-#: Flight_Freedom/units/Lava_Monster.cfg:24
-#: Flight_Freedom/units/Lava_Monster.cfg:35
 #: Flight_Freedom/units/Drake_Guard.cfg:52
-#: Flight_Freedom/units/Spirit_Major.cfg:23
-#: Flight_Freedom/units/Spirit_Major.cfg:30
+#: Flight_Freedom/units/Spirit_Minor.cfg:22
 #: Flight_Freedom/units/Laser_Trooper.cfg:33
 #: Flight_Freedom/units/Spirit_Thunder.cfg:21
 #: Flight_Freedom/units/Spirit_Thunder.cfg:28
+#: Flight_Freedom/units/Lava_Monster.cfg:24
+#: Flight_Freedom/units/Lava_Monster.cfg:35
+#: Flight_Freedom/units/Spirit_Major.cfg:23
+#: Flight_Freedom/units/Spirit_Major.cfg:30
+#: Flight_Freedom/units/Lava_Beast.cfg:25
+#: Flight_Freedom/units/Lava_Beast.cfg:36
 msgid "fire"
 msgstr ""
 
@@ -1706,9 +1702,9 @@ msgstr ""
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:18
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:64
-#: Flight_Freedom/units/Saurian_Jarl.cfg:20
-#: Flight_Freedom/units/Shadow_Mage.cfg:11
 #: Flight_Freedom/units/Saurian_Margrave.cfg:21
+#: Flight_Freedom/units/Shadow_Mage.cfg:11
+#: Flight_Freedom/units/Saurian_Jarl.cfg:20
 msgid "leadership"
 msgstr ""
 
@@ -1723,8 +1719,8 @@ msgid ""
 "them."
 msgstr ""
 
-#: Flight_Freedom/units/Dreadnought.cfg:42 Flight_Freedom/units/Frigate.cfg:40
-#: Flight_Freedom/units/Gunboat.cfg:40
+#: Flight_Freedom/units/Frigate.cfg:40 Flight_Freedom/units/Gunboat.cfg:40
+#: Flight_Freedom/units/Dreadnought.cfg:42
 msgid "catapult"
 msgstr ""
 
@@ -1750,8 +1746,8 @@ msgstr ""
 msgid "Worker Wood"
 msgstr ""
 
-#: Flight_Freedom/units/Fake_Units.cfg:36
-#: Flight_Freedom/units/Fake_Units.cfg:61 Flight_Freedom/units/Rock.cfg:25
+#: Flight_Freedom/units/Rock.cfg:25 Flight_Freedom/units/Fake_Units.cfg:36
+#: Flight_Freedom/units/Fake_Units.cfg:61
 msgid "none"
 msgstr ""
 
@@ -1871,9 +1867,9 @@ msgstr ""
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:27
 #: Flight_Freedom/units/Shadow_Mage.cfg:50
-#: Flight_Freedom/units/Spirit_Major.cfg:32
 #: Flight_Freedom/units/Laser_Trooper.cfg:35
 #: Flight_Freedom/units/Spirit_Thunder.cfg:30
+#: Flight_Freedom/units/Spirit_Major.cfg:32
 msgid "magical"
 msgstr ""
 
@@ -1886,16 +1882,16 @@ msgid "The Lava Beast is a living, breathing hunk of lava with a bad attitude."
 msgstr ""
 
 #: Flight_Freedom/units/Spirit_Minor.cfg:21
-#: Flight_Freedom/units/Lava_Beast.cfg:24
-#: Flight_Freedom/units/Lava_Monster.cfg:23
-#: Flight_Freedom/units/Spirit_Major.cfg:22
 #: Flight_Freedom/units/Spirit_Thunder.cfg:20
 #: Flight_Freedom/units/Rock_Golem.cfg:51
+#: Flight_Freedom/units/Lava_Monster.cfg:23
+#: Flight_Freedom/units/Spirit_Major.cfg:22
+#: Flight_Freedom/units/Lava_Beast.cfg:24
 msgid "fist"
 msgstr ""
 
-#: Flight_Freedom/units/Lava_Beast.cfg:35
 #: Flight_Freedom/units/Lava_Monster.cfg:34
+#: Flight_Freedom/units/Lava_Beast.cfg:35
 msgid "boulder"
 msgstr ""
 
@@ -2040,10 +2036,10 @@ msgid ""
 "axe, they can deliver relatively strong blows, but are encumbered by armor."
 msgstr ""
 
-#: Flight_Freedom/units/Saurian_Jarl.cfg:22
 #: Flight_Freedom/units/Saurian_Margrave.cfg:23
-#: Flight_Freedom/units/Undead_Dwarf.cfg:25
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:21
+#: Flight_Freedom/units/Saurian_Jarl.cfg:22
+#: Flight_Freedom/units/Undead_Dwarf.cfg:25
 msgid "axe"
 msgstr ""
 
@@ -2154,8 +2150,8 @@ msgid ""
 "cities."
 msgstr ""
 
-#: Flight_Freedom/units/Spirit_Major.cfg:29
 #: Flight_Freedom/units/Spirit_Thunder.cfg:27
+#: Flight_Freedom/units/Spirit_Major.cfg:29
 msgid "lightning"
 msgstr ""
 
