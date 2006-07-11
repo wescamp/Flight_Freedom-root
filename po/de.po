@@ -1,10 +1,11 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2005-05-03 09:49+0200\n"
-"Last-Translator: The Very Uhu\n"
+"PO-Revision-Date: 2006-07-11 11:13+0200\n"
+"Last-Translator: The Very Uhu <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -394,14 +395,16 @@ msgstr "Ein Geist hat angegriffen."
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:239
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:286
 #: Flight_Freedom/scenarios/Landfall.cfg:515
+#, fuzzy
 msgid "It didn't attack! It just appeared!"
-msgstr ""
+msgstr "Sie haben uns nicht angegriffen! Sie sind nur aufgetaucht!"
 
 #: Flight_Freedom/scenarios/Gate_of_Storms.cfg:252
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:299
 #: Flight_Freedom/scenarios/Landfall.cfg:543
+#, fuzzy
 msgid "Are you going to say that EVERY time?"
-msgstr ""
+msgstr "Wirst du das jetzt IMER sagen?"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:320
 msgid "They pursue us! We must hurry!"
@@ -866,12 +869,14 @@ msgid "(Kogw) A spirit has attacked!"
 msgstr "(Kogw) Da! Ein Geist hat angegriffen! Die Gerüchte sind wahr!"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:522
+#, fuzzy
 msgid "(Malakar) It didn't attack! It just appeared!"
-msgstr ""
+msgstr "(Malakar) Es greift nicht an! Es taucht nur auf"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:550
+#, fuzzy
 msgid "(Malakar) Are you going to say that EVERY time?"
-msgstr ""
+msgstr "(Malakar) Willst du das jetzt IMMER sagen?"
 
 #: Flight_Freedom/scenarios/Landfall.cfg:611
 msgid "Intruders! Die!"
@@ -1265,11 +1270,12 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:638
 msgid "The hatchlings are free! We must kill the taskmaster!"
-msgstr ""
+msgstr "Die jungen Drachen sind frei! Wir müssen den Foltermeister töten!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:642
+#, fuzzy
 msgid "At least one hatchling must survive"
-msgstr ""
+msgstr "Es muss mindestens ein Drachenjunges überleben"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:647
 msgid ""
@@ -1279,11 +1285,12 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:677
 msgid "Kill the hatchlings! Kill them all!"
-msgstr ""
+msgstr "Tötet die Drachemjungen! Tötet sie alle!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:681
+#, fuzzy
 msgid "The guards have arrived! Everyone! FIGHT!!!!!"
-msgstr ""
+msgstr "Die Wächter sind angekommen! An alle: KÄMPFT!!!!!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:694
 #, fuzzy
@@ -1291,12 +1298,13 @@ msgid "Our hatchlings are under attack! Hurry!"
 msgstr "Unsere Vorräte gehen zur Neige! Beeilung!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:712
+#, fuzzy
 msgid "Our hatchlings... have been killed."
-msgstr ""
+msgstr "Unsere Neugebohrenen... sind getötet worden."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:751
 msgid "The master is dead! We must free the hatchlings!"
-msgstr ""
+msgstr "Der Meister ist tot! Wir müssen die Drachenjungen befreien!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:3
 msgid "Return to Morogor"
@@ -1671,7 +1679,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Caravan.cfg:20
 msgid "firststrike"
-msgstr ""
+msgstr "Erstschlag"
 
 #: Flight_Freedom/units/Caravan.cfg:21
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:92
@@ -1722,8 +1730,9 @@ msgid "Chicken"
 msgstr "Huhn"
 
 #: Flight_Freedom/units/Chicken.cfg:18
+#, fuzzy
 msgid "Chickens are kept for their meat and eggs."
-msgstr ""
+msgstr "Hühner werden für ihre Eier und ihr Fleisch eingesperrt,"
 
 # Anm. Wat heißt das? kontext? - The Very Uhu
 #: Flight_Freedom/units/Chicken.cfg:21
@@ -2153,7 +2162,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Pig.cfg:5
 msgid "Pig"
-msgstr ""
+msgstr "Schwein"
 
 #: Flight_Freedom/units/Pig.cfg:19
 msgid ""
