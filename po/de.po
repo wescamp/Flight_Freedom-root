@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2006-07-11 11:13+0200\n"
+"PO-Revision-Date: 2006-07-17 12:27+0200\n"
 "Last-Translator: The Very Uhu <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -363,14 +363,17 @@ msgid "We must go for the cave entrance!"
 msgstr "Wir müssen den Höhleneingang erreichen!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:153
+#, fuzzy
 msgid ""
 "Do you think we are bats? Wings do not work very well underground. Neither "
 "do cold blooded Drakes!"
 msgstr ""
+"Denkst du wir sind Fledermäuse? Flügel funktionieren nicht sehr gut unter "
+"der Erde. Geschweigedenn kaltblütige Drachen."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:157
 msgid "Our enemies are at are our very backs! We must flee!"
-msgstr ""
+msgstr "Unsere Feide sind uns sehr nah am Rücken. Wir müssen fiehen."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:165
 msgid "Why can't we work together against the drakes?"
@@ -527,7 +530,7 @@ msgstr "Sie haben den Eingang befestigt!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:433
 msgid "The tower has fallen into disrepair. Onward!"
-msgstr ""
+msgstr "Der wiederaufbau der ist angelaufen. Vorwärts!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:506
 msgid "Help us! The humans are trying to kill us!"
@@ -842,10 +845,13 @@ msgstr ""
 "Beim Gedanken an diese Insel befallen mich üble Vorahnungen."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:166
+#, fuzzy
 msgid ""
 "(Kogw) No. Our supplies are dwindling by the hour. We must make landfall "
 "soon."
 msgstr ""
+"(Kowg) Nein. Unsere leiferanten schwinden von Stunde zu Stunde. Wie müssen "
+"bvald Landfall einnehmen."
 
 #: Flight_Freedom/scenarios/Landfall.cfg:171
 #, fuzzy
@@ -1282,6 +1288,8 @@ msgid ""
 "Malakar, the hatchlings have been tortured and wounded. Let's make the "
 "humans pay!"
 msgstr ""
+"Malakar, die Neugebohrenen sind gequält und verwundet worden. Lasst uns dei "
+"Menschen dafür bezahlen."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:677
 msgid "Kill the hatchlings! Kill them all!"
@@ -1676,6 +1684,9 @@ msgid ""
 "guarded, but they usually also have a soldier with a spear and crossbow in "
 "the back to defend them."
 msgstr ""
+"Karavanen  werden benutzt um Gold oder Versorgungsmaterialien zu "
+"transportieren. Sie sind bewacht, aber normalerweise haben sie auch einen "
+"Soldaten im Rücken, mit einem Speer und einer Armbrust der sei verteidigt."
 
 #: Flight_Freedom/units/Caravan.cfg:20
 msgid "firststrike"
@@ -1774,6 +1785,7 @@ msgstr "Kuh"
 #: Flight_Freedom/units/Cow.cfg:18
 msgid "Cows are livestock that are used for their meat, leather, and milk."
 msgstr ""
+"Kühe sind Vieh welches wegen seinem Fleisch, Leder und Milch benutzt wird."
 
 #: Flight_Freedom/units/Cow.cfg:21 Flight_Freedom/units/Horse.cfg:24
 #: Flight_Freedom/units/Horse.cfg:61
@@ -1789,6 +1801,8 @@ msgid ""
 "Crows are carrion birds which will eat anything dead. Larger ones such as "
 "this have been also known to attack when food is scarce."
 msgstr ""
+"Krähen sin Aasvögel dei alles Tote essen. Große, so wie diese sind auch "
+"bekannt dafür, anzugreifen, wenn Nahrung Raar ist."
 
 #: Flight_Freedom/units/Wolf.cfg:39
 #: Flight_Freedom/units/Drake_Hatchling.cfg:22
@@ -1961,6 +1975,8 @@ msgid ""
 "The Slave Driver makes a living by beating slaves in order to make them "
 "productive."
 msgstr ""
+"Der Sklavenwächter lebt durch das befehligte Schlagen von Sklaven um sie "
+"produktiev zu machen."
 
 #: Flight_Freedom/units/Driver.cfg:23
 msgid "whip"
@@ -2033,6 +2049,9 @@ msgid ""
 "Giant Boars are overgrown pigs with a nasty disposition that will attack "
 "anything that moves. It is fortunate that these animals are rare."
 msgstr ""
+"Rieseneber sind überwachsene Schweine mit der bösen Einstellung alles "
+"anzugreifen, was sich bewegt. Glücklicherweise sind diese Tiere selten "
+"anzutreffen."
 
 #: Flight_Freedom/units/Gunboat.cfg:5
 msgid "Gunboat"
@@ -2172,7 +2191,7 @@ msgstr ""
 
 #: Flight_Freedom/units/Pig.cfg:22
 msgid "hoof"
-msgstr ""
+msgstr "Hufe"
 
 #: Flight_Freedom/units/Pig.cfg:33
 #, fuzzy
