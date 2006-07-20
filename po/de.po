@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2006-07-17 12:27+0200\n"
+"PO-Revision-Date: 2006-07-20 10:35+0200\n"
 "Last-Translator: The Very Uhu <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2087,6 +2087,9 @@ msgid ""
 "especially if cornered or frightened.  Though they are easily put down, "
 "their kicks can smash a man's skull."
 msgstr ""
+"Pferde die aus der Gefangenschaft fliehen werden meist wild und "
+"menschnefeindlich, vorallem wenn sie Angst hatten.  So werden sie meist "
+"eingeschläferd, ihr Tritt kan eines menschne Schädels zermatschen."
 
 #: Flight_Freedom/units/Horse.cfg:45
 #, fuzzy
@@ -2098,6 +2101,8 @@ msgid ""
 "Horses, when tamed, are used as mounts by Elvish and Human armies, and also "
 "as beasts of burden."
 msgstr ""
+"Pferde werden zum bereiten für elfische und menschliche Armeen benutzt, und "
+"auch als Lasttiere werden sie verwendet."
 
 #: Flight_Freedom/units/Invisible.cfg:5
 msgid "Invisible"
@@ -2188,6 +2193,8 @@ msgid ""
 "Pigs are instrumental in the production of ham. Also, their skin is used to "
 "make Wesballs, like those used in the game of Wesbowl."
 msgstr ""
+"Schweine sind wichtig für die Schinkenproduktien. Auch wird ihre Haut dafür "
+"benutzt Wesbälle zu machen, wie diese die im Spiel Wesbowl benutzt werden."
 
 #: Flight_Freedom/units/Pig.cfg:22
 msgid "hoof"
@@ -2312,6 +2319,9 @@ msgid ""
 "Rock Golems are creatures made out of solid, living rock. They have a weak "
 "attack, but are incredibly hard to destroy."
 msgstr ""
+"Steinelementare sind Kreaturen die aus solidem, lebendem Stien gemacht sind. "
+"Sie haben eine schwache Attacke, sind aber unglaublich schwierig zu "
+"zerstören."
 
 #: Flight_Freedom/units/Saurian_Headhunter.cfg:5
 msgid "Saurian Headhunter"
@@ -2534,6 +2544,10 @@ msgid ""
 "individually, a pack of wolves can kill even the strongest man in minutes. "
 "Wolves are trained and rode by goblins."
 msgstr ""
+"Große Hünde, Wölfe sind agressive Tiere welche in kleinen Gruppen auf die "
+"Jagt gehen. Obwohl die Einzelnen schwach sind, ist eine Rotte von Wölfen in "
+"der Lage, selbst den Stärksten Mann inerhalb von Minuten zu Strecke bringen. "
+"Wölfe werden von Kobolden trainiert und beritten"
 
 #: Flight_Freedom/units/Wolf.cfg:23
 msgid "bite"
