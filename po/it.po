@@ -433,7 +433,7 @@ msgstr "Sì, Gli umani hanno profanato il Tempio di Gar-Alagar!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:178
 msgid "I will kill meeeeself ssssome humanssss!"
-msgstr "Ammazzeeeerooo qualcheee umaaano!"
+msgstr "Ammazzeeeerooò qualcheee umaaano!"
 
 #: Flight_Freedom/scenarios/Endgame.cfg:183
 msgid "Now I will get revenge for my enslavement!"
@@ -982,7 +982,7 @@ msgid ""
 "lines and kill their leaders."
 msgstr ""
 "I sauri sono elusivi e veloci, ma non molto bravi con le armi. Propongo che "
-"mentre attacchiamo gli umani sul fronte, i sauri si infiltrini dietro le "
+"mentre attacchiamo gli umani sul fronte, i sauri si infiltrino dietro le "
 "linee nemiche ed uccidano i condottieri."
 
 #: Flight_Freedom/scenarios/Liberation.cfg:219
@@ -1220,7 +1220,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:638
 msgid "The hatchlings are free! We must kill the taskmaster!"
-msgstr "I cuccioli sono liberi! Dobbiamo uccidere il taskmaster!"
+msgstr "I cuccioli sono liberi! Dobbiamo uccidere il supervisore!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:642
 msgid "At least one hatchling must survive"
@@ -2448,7 +2448,7 @@ msgid ""
 "Drake slaves with their short swords."
 msgstr ""
 "Un ruolo occupato dalla feccia della società, il supervisore vive torturando "
-"pervertamente gli schiavi sotto la sua custodia. Essi amano, sopra ogni "
+"perversamente gli schiavi sotto la sua custodia. Essi amano, sopra ogni "
 "cosa, picchiare gli schiavi draghi con le loro spade corte."
 
 #: Flight_Freedom/units/Transport_Galleon.cfg:5
