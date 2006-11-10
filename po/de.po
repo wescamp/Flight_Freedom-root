@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2006-10-22 19:51+0100\n"
+"PO-Revision-Date: 2006-11-10 09:16+0100\n"
 "Last-Translator: Peter Schaefer <peter.schaefer@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -43,13 +43,12 @@ msgid "Rebel"
 msgstr "Rebell"
 
 #: Flight_Freedom.cfg:30
-#, fuzzy
 msgid ""
 "Lead Malakar and his Drake tribe to freedom from the humans!\n"
 "\n"
 "Version 3.0"
 msgstr ""
-"Führen Sie Malakar und seinen Drachenclan aus der Sklaverei der Menschen!"
+"Führen Sie Malakar und seinen Drakenclan aus der Sklaverei der Menschen!"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:3
 msgid "Betrayal"
@@ -111,7 +110,6 @@ msgstr ""
 msgid "Blockade"
 msgstr "Blockade"
 
-# "Gandenlos"
 #: Flight_Freedom/scenarios/Blockade.cfg:69
 msgid "Move the Unforgiver to the East"
 msgstr "Schafft den Gnadenlosen gen Osten."
@@ -206,11 +204,10 @@ msgstr ""
 "Der Wind bläst scharf über dem Ozean. Gegen ihn werdet Ihr mit Eueren "
 "Schwingen kaum ankommen! Und was würde aus Eueren Speerträgern werden?"
 
-# Anm. Korrekte Bez. für Clasher in Dt. - The Very Uhu
 #: Flight_Freedom/scenarios/Blue_River.cfg:143
 msgid "How DARE you insult my clashers, puny softskin!"
 msgstr ""
-"Wie kannst du es wagen, meine Clasher zu beleidigen, du arrogante kleine "
+"Wie kannst du es wagen, meine Schmetterer zu beleidigen, du arrogante kleine "
 "Samthaut!?"
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:147
@@ -219,7 +216,7 @@ msgid ""
 "drakes'."
 msgstr ""
 "Langsam, langsam! Ihr werdet sie zurücklassen müssen! Ah, welch ein Verlust "
-"für den hochherrlichen Fürst der Drachen! "
+"für den hochherrlichen Fürst der Draken! "
 
 #: Flight_Freedom/scenarios/Blue_River.cfg:152
 msgid "Fine. But you had better prove your worth!"
@@ -339,7 +336,7 @@ msgstr "Die Wölfe! Sie haben die Karawane vernichtet!"
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:3
 msgid "The Drake Escape"
-msgstr "Das Entkommen der der Drachen."
+msgstr "Das Entkommen der der Draken."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:87
 msgid "Move Malakar to the cave entrance"
@@ -367,7 +364,7 @@ msgid ""
 "do cold blooded Drakes!"
 msgstr ""
 "Denkst du wir sind Fledermäuse? Flügel funktionieren nicht sehr gut unter "
-"der Erde. Geschweigedenn kaltblütige Drachen."
+"der Erde. Geschweigedenn kaltblütige Draken."
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:157
 msgid "Our enemies are at are our very backs! We must flee!"
@@ -376,8 +373,7 @@ msgstr "Unsere Feide sind uns sehr nah am Rücken. Wir müssen fiehen."
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:165
 msgid "Why can't we work together against the drakes?"
 msgstr ""
-"Weshalb können wir unsere Kräfte eigentlich nicht gegen die Drachen "
-"vereinen? "
+"Weshalb können wir unsere Kräfte eigentlich nicht gegen die Draken vereinen? "
 
 #: Flight_Freedom/scenarios/Drake_Escape.cfg:169
 msgid "Very well, we are allies for now."
@@ -434,7 +430,7 @@ msgid ""
 "Malakar would command the saurians, and the drake army would be split "
 "between them."
 msgstr ""
-"Malakar führte das Kommando über die Saurianer. Die Drachenarmee wurde auf "
+"Malakar führte das Kommando über die Saurianer. Die Drakenarmee wurde auf "
 "die Anführer aufgeteilt. "
 
 #: Flight_Freedom/scenarios/Endgame.cfg:163
@@ -555,7 +551,7 @@ msgid ""
 "With the seizure of Weswyt, Morogor was once again the homeland of the "
 "Drakes."
 msgstr ""
-"Mit der Einnahme Weswyts war Morogor wieder in die Heimat der Drachen "
+"Mit der Einnahme Weswyts war Morogor wieder in die Heimat der Draken "
 "zurückgekehrt."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:21
@@ -563,8 +559,8 @@ msgid ""
 "Malakar was crowned King of the Drakes, for saving his people from the hands "
 "of the humans."
 msgstr ""
-"Malakar hat den König der Drachen gekrönt, denn er war es, der sein Volk aus "
-"den Händen der Menschen befreit hat."
+"Malakar wurde zum König der Draken gekrönt, denn er war es, der sein Volk "
+"aus den Händen der Menschen befreit hat."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:24
 msgid ""
@@ -572,9 +568,9 @@ msgid ""
 "strike repeatedly at the humans, and liberate their brothers still in "
 "captivity."
 msgstr ""
-"Mit der Macht aller Drachenstämme im Rücken konnte Malakar unablässig "
-"Schläge gegen die Menschen führen und seine Brüder befreien, die sich "
-"immernoch in Gefangenschaft befanden."
+"Mit der Macht aller Drakenstämme im Rücken konnte Malakar unablässig Schläge "
+"gegen die Menschen führen und seine Brüder befreien, die sich immer noch in "
+"Gefangenschaft befanden."
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:28
 msgid ""
@@ -597,7 +593,7 @@ msgid ""
 "of the drakes."
 msgstr ""
 "Noch Jahrhunderte später gedachte man Malakar als einem der großen "
-"Drachenhelden. "
+"Drakenhelden. "
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:40
 msgid ""
@@ -605,7 +601,7 @@ msgid ""
 "the drakes from above."
 msgstr ""
 "Schließlich wurden er und Kogw in den Stand der Götter gehoben. Ihre Geister "
-"wachen nun vom Himmel herab über das Schicksal der Drachen. "
+"wachen nun vom Himmel herab über das Schicksal der Draken. "
 
 #: Flight_Freedom/scenarios/Epilogue.cfg:62
 msgid "Take your place at the throne"
@@ -1080,17 +1076,17 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Manor.cfg:307
 msgid "Drake Spear"
-msgstr "Drachen-Speer"
+msgstr "Draken-Speer"
 
 #: Flight_Freedom/scenarios/Manor.cfg:308
 msgid "This weapon is excellent for a drake rising against its masters."
 msgstr ""
-"Diese Waffe ist ein vorzügliches Wekzeug für jeden Drachen, der gegen seinen "
+"Diese Waffe ist ein vorzügliches Wekzeug für jeden Draken, der gegen seinen "
 "Herrn aufbegehrt."
 
 #: Flight_Freedom/scenarios/Manor.cfg:309
 msgid "This weapon is only fit for adult drakes."
-msgstr "Diese Waffe eignet sich nur für erwachsene Drachen. "
+msgstr "Diese Waffe eignet sich nur für erwachsene Draken. "
 
 #: Flight_Freedom/scenarios/Manor.cfg:483
 msgid "Could this key fit that trapdoor?"
@@ -1185,9 +1181,9 @@ msgid ""
 "the drake blood spilled on that woeful day."
 msgstr ""
 "Malakar und sein kleiner Stamm kämpften mutig, aber gegen die Armeen der "
-"Menschen vermochten sie nichts auszurichten. Viele Drachen wurden an diesem "
+"Menschen vermochten sie nichts auszurichten. Viele Draken wurden an diesem "
 "Tag dahingeschlachtet, die Überlebenden gefangengenommen. Die Küsten färbten "
-"sich rot von dem vergossenen Drachenblut, das an diesem schwarzen Tag "
+"sich rot von dem vergossenen Drakenblut, das an diesem schwarzen Tag "
 "vergossen worden war."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:23
@@ -1199,7 +1195,7 @@ msgid ""
 "Many weeks passed. Half of the drakes died on the voyage, and the rest were "
 "badly injured."
 msgstr ""
-"Viele Wochen vergingen. Die Hälfte der Drachen starb auf dieser Reise, die "
+"Viele Wochen vergingen. Die Hälfte der Draken starb auf dieser Reise, die "
 "übrigen waren ernsthaft erschöpft."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:33
@@ -1211,23 +1207,21 @@ msgstr ""
 "wurden an den Baron Prax III als Sklaven verkauft."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:38
-#, fuzzy
 msgid ""
 "Their hatchlings were held hostage, and the tribe was forced to work in Prax "
 "III's plantation for the rest of their lives."
 msgstr ""
-"Bezauberungssprüche vernebelten die Sinne der Gefangenen, die in den Docks "
-"von Prax III für den Rest ihres Lebens arbeiten sollten."
+"Die Jungen wurden als Geiseln gehalten, sodass die Gefangenen in den Docks "
+"von Prax III für den Rest ihres Lebens arbeiten mussten."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:43
-#, fuzzy
 msgid ""
 "However, one day, the hatchlings' guards failed to report for duty. Malakar "
 "decided to lead a revolt against the humans before they arrived."
 msgstr ""
-"Nach fünf Jahren aber verflüchtigte sich die Mentalmagie. Malakar entschloß "
-"sich kurzerhand, eine Revolte anzuzetteln, bevor die Magie erneut ihre "
-"Wirkung entfalten konnte. "
+"Eines Tages jedoch erschien die Wache nicht, die die Jungen bewachte. "
+"Malakar entschloß sich kurzerhand, eine Revolte anzuzetteln bevor die Wache "
+"wieder kam."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:59
 #: Flight_Freedom/scenarios/Survival.cfg:124
@@ -1246,7 +1240,7 @@ msgstr "Tötet den Aufseher"
 #: Flight_Freedom/scenarios/Rebellion.cfg:143
 #: Flight_Freedom/scenarios/Rebellion.cfg:754
 msgid "Rescue the Hatchlings"
-msgstr "Rette die Drachenjungen"
+msgstr "Rette die Drakenjungen"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:520
 msgid "WORK!"
@@ -1268,11 +1262,11 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:638
 msgid "The hatchlings are free! We must kill the taskmaster!"
-msgstr "Die jungen Drachen sind frei! Wir müssen den Foltermeister töten!"
+msgstr "Die jungen Draken sind frei! Wir müssen den Foltermeister töten!"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:642
 msgid "At least one hatchling must survive"
-msgstr "Es muss mindestens ein Drachenjunges überleben"
+msgstr "Es muss mindestens ein Drakenjunges überleben"
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:647
 msgid ""
@@ -1300,7 +1294,7 @@ msgstr "Unsere Neugebohrenen... sind getötet worden."
 
 #: Flight_Freedom/scenarios/Rebellion.cfg:751
 msgid "The master is dead! We must free the hatchlings!"
-msgstr "Der Meister ist tot! Wir müssen die Drachenjungen befreien!"
+msgstr "Der Meister ist tot! Wir müssen die Drakenjungen befreien!"
 
 #: Flight_Freedom/scenarios/Return_to_Morogor.cfg:3
 msgid "Return to Morogor"
@@ -1368,7 +1362,7 @@ msgstr "Ein Lavafluss! Wie soll ich den überwinden?"
 #: Flight_Freedom/scenarios/River_Skulls.cfg:304
 msgid "I'll take care of that later. Drakes! We need to explore this river!"
 msgstr ""
-"Darum kümmere ich mich später. Drachen! Wir müssen diesen Fluss erkunden!"
+"Darum kümmere ich mich später. Draken! Wir müssen diesen Fluss erkunden!"
 
 #: Flight_Freedom/scenarios/River_Skulls.cfg:308
 msgid "Explore the river"
@@ -1537,7 +1531,7 @@ msgid ""
 "strange sight."
 msgstr ""
 "Auf der Insel von Morogor, nach ihrem Mittagsschlaf, sichtete eine "
-"Drachensippe ein fremdartiges Schiff. "
+"Drakensippe ein fremdartiges Schiff. "
 
 #: Flight_Freedom/scenarios/Survival.cfg:22
 msgid ""
@@ -1556,7 +1550,7 @@ msgid ""
 "Normally, the humans were peaceful, but now they were out for drake blood."
 msgstr ""
 "Normalerweise waren die Menschen friedlich, aber diesmal dürstete es ihnen "
-"nach Drachenblut."
+"nach Drakenblut."
 
 #: Flight_Freedom/scenarios/Survival.cfg:37
 msgid ""
@@ -1731,7 +1725,6 @@ msgstr "Huhn"
 msgid "Chickens are kept for their meat and eggs."
 msgstr "Hühner werden wegen  ihrer Eier und ihres Fleisches gehalten."
 
-# Anm. Wat heißt das? kontext? - The Very Uhu
 #: Flight_Freedom/units/Chicken.cfg:21
 msgid "bawk"
 msgstr "kikeriki"
@@ -1834,15 +1827,15 @@ msgstr "Rumms"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:5
 msgid "Drake Guard"
-msgstr "Drachenwächter"
+msgstr "Drakenwächter"
 
 #: Flight_Freedom/units/Drake_Guard.cfg:20
 msgid ""
 "Protected by their massive golden shields, Drake Guards are at the front "
 "lines, protecting the Drakes behind them."
 msgstr ""
-"Drachenwächter bilden im Schutz ihrer massiven Goldschilde die Frontlinie im "
-"Gefecht und beschützen so die Drachen hinter sich."
+"Drakenwächter bilden im Schutz ihrer massiven Goldschilde die Frontlinie im "
+"Gefecht und beschützen so die Draken hinter sich."
 
 #: Flight_Freedom/units/Drake_Guard.cfg:50
 msgid "fire breath"
@@ -1864,7 +1857,7 @@ msgstr "Feuer"
 
 #: Flight_Freedom/units/Drake_Hatchling.cfg:5
 msgid "Drake Hatchling"
-msgstr "Drachenjunges"
+msgstr "Drakenjunges"
 
 #: Flight_Freedom/units/Drake_Hatchling.cfg:19
 msgid ""
@@ -1875,33 +1868,33 @@ msgstr ""
 
 #: Flight_Freedom/units/Drake_Slave.cfg:5
 msgid "Drake Slave"
-msgstr "Drachensklave"
+msgstr "Drakensklave"
 
 #: Flight_Freedom/units/Drake_Slave.cfg:19
 msgid "Drake Slaves are servile members of this reptilian race."
-msgstr "Drachensklaven sind duckmäuserische Mitglieder dieser Reptilienart. "
+msgstr "Drakensklaven sind duckmäuserische Mitglieder dieser Reptilienart. "
 
 #: Flight_Freedom/units/Drake_Slave.cfg:46
 msgid "Drake Rebel"
-msgstr "Drachen-Rebell"
+msgstr "Draken-Rebell"
 
 #: Flight_Freedom/units/Drake_Slave.cfg:62
 msgid ""
 "This was a drake slave, but it has grabbed a spear in rebellion against its "
 "masters."
 msgstr ""
-"Dies war ein Drachensklave, aber nun hat er einen Speer ergriffen, um gegen "
+"Dies war ein Drakensklave, aber nun hat er einen Speer ergriffen, um gegen "
 "seine Herren aufzubegehren."
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:5
 #: Flight_Freedom/units/Drake_Worker.cfg:5
 msgid "Drake Worker"
-msgstr "Drachenarbeiter"
+msgstr "Drakenarbeiter"
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:22
 #: Flight_Freedom/units/Drake_Worker.cfg:20
 msgid "More advanced Drakes, the Workers fight with their maces."
-msgstr "Als erfahrenere Drachen kämpfen die Drachenarbeiter mit ihren Keulen."
+msgstr "Als erfahrenere Draken kämpfen die Drakenarbeiter mit ihren Keulen."
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:25
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:70
@@ -1914,7 +1907,7 @@ msgstr "Keule"
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:50
 #: Flight_Freedom/units/Drake_Worker.cfg:48
 msgid "Drake Guerilla"
-msgstr "Drachenguerillero"
+msgstr "Drakenguerillero"
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:67
 #: Flight_Freedom/units/Drake_Worker.cfg:64
@@ -1922,7 +1915,7 @@ msgid ""
 "More advanced Drakes, these guerilla fighters have so far led a successful "
 "campaign against their masters."
 msgstr ""
-"Als erfahrene Drachen haben diese Drachenguerilleros ihren ehemaligen Herren "
+"Als erfahrene Draken haben diese Drakenguerilleros ihren ehemaligen Herren "
 "einen recht erfolgreichen Kampf geliefert"
 
 #: Flight_Freedom/units/Drake_Worker_Malakar.cfg:18
@@ -2185,9 +2178,8 @@ msgid "hoof"
 msgstr "Hufe"
 
 #: Flight_Freedom/units/Pig.cfg:33
-#, fuzzy
 msgid "oink"
-msgstr "Gift"
+msgstr "*quietsch*"
 
 #: Flight_Freedom/units/Pirate.cfg:5
 msgid "Pirate"
@@ -2396,7 +2388,7 @@ msgid ""
 "armor and cannot sneak past enemies."
 msgstr ""
 "Der Saurianische Margrave ist der Anführer der Saurianischen Armee. Er ist "
-"zwar im umgang mit der Axt geübt, aber wie die Jarls wird er durch seine "
+"zwar im Umgang mit der Axt geübt, aber wie die Jarls wird er durch seine "
 "Rüstung behindert und kann nicht durch die gegnerischen Reihen schlüpfen."
 
 #: Flight_Freedom/units/Saurian_Skald.cfg:5
@@ -2473,7 +2465,6 @@ msgstr "Blitz"
 msgid "Minor Spirit"
 msgstr "Geringerer Geist"
 
-# Anm. (Fehler im Original) - VeryUhu
 #: Flight_Freedom/units/Spirit_Minor.cfg:18
 msgid ""
 "The Thunder Spirits are very powerful and mysterious. Even though this "
@@ -2505,7 +2496,7 @@ msgid ""
 "Drake slaves with their short swords."
 msgstr ""
 "Foltermeister gehören zum Bodensatz der Gesellschaft. Sie genießen es ganz "
-"besonders, Drachensklaven mit ihren Kurzschwertern zu verprügeln."
+"besonders, Drakensklaven mit ihren Kurzschwertern zu verprügeln."
 
 #: Flight_Freedom/units/Transport_Galleon.cfg:5
 msgid "Transport Galleon"
@@ -2556,7 +2547,7 @@ msgstr "Alles ist verloren!"
 
 #: Flight_Freedom/utils/deaths.cfg:27
 msgid "Now the drakes will be enslaved again!"
-msgstr "Die Drachen werden wieder versklavt werden!"
+msgstr "Die Draken werden wieder versklavt werden!"
 
 #: Flight_Freedom/utils/deaths.cfg:42
 msgid "I have failed!"
