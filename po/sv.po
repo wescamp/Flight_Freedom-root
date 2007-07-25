@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2007-06-27 23:24+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -54,7 +54,7 @@ msgstr "Förräderi"
 #: Flight_Freedom/scenarios/Betrayal.cfg:43
 #: Flight_Freedom/scenarios/Landfall.cfg:260
 msgid "Defeat enemy leader"
-msgstr "Besegra fiendeledaren"
+msgstr "Besegra fiendens ledare"
 
 #: Flight_Freedom/scenarios/Betrayal.cfg:81
 msgid ""
@@ -2367,7 +2367,7 @@ msgstr "isstöt"
 
 #: Flight_Freedom/units/Shadow_Mage.cfg:48
 msgid "cold"
-msgstr "kyla"
+msgstr "frost"
 
 #: Flight_Freedom/units/Spirit_Major.cfg:5
 msgid "Major Spirit"
@@ -2386,7 +2386,7 @@ msgstr ""
 #: Flight_Freedom/units/Spirit_Thunder.cfg:27
 #: Flight_Freedom/units/Spirit_Major.cfg:29
 msgid "lightning"
-msgstr "åskvigg"
+msgstr "blixtar"
 
 #: Flight_Freedom/units/Spirit_Minor.cfg:5
 msgid "Minor Spirit"
