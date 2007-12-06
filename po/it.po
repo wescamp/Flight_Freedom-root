@@ -1,18 +1,18 @@
-# translation of flight-freedom-it.po to Italian
-# Luciano Montanaro <mikelima@cirulla.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: flight-freedom-it\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-02 15:39+0100\n"
-"PO-Revision-Date: 2007-11-24 11:59+0100\n"
-"Last-Translator: Gwain <mcgwain@hotmail.com>\n"
+"PO-Revision-Date: 2007-12-06 20:49+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.1\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Flight_Freedom/_main.cfg:23
 msgid "Flight to Freedom"
@@ -45,7 +45,7 @@ msgid ""
 " \n"
 "Version 4.3.3, 1.3.9+ ONLY"
 msgstr ""
-"Conduci Malakar e la sua tribù di draghi alla libertà dagli umani!\n"
+"Conduci Malakar e la sua tribù di draghi alla libertà dagli uomini!\n"
 "\n"
 "Version 4.3.3, SOLO per 1.3.8+"
 
@@ -171,7 +171,7 @@ msgstr "Uccidi il sovrintendente"
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:112
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:954
 msgid "Rescue the Hatchlings"
-msgstr "Salva i nidiacei"
+msgstr "Salva la nidiata"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:113
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:773
@@ -200,15 +200,16 @@ msgstr "LAVORATE!"
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:598
 msgid "OW! Wait... the guards' fresh replacements... they are late tonight..."
 msgstr ""
-"UAU! Aspetta... i sostituti freschi delle guardie... sono in ritardo "
+"UAU! Aspetta... i sostitui freschi delle guardie... sono in ritardo "
 "stanotte..."
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:602
-#, fuzzy
 msgid ""
 "I am done being at the hands of humans! Drakes! Rally to me! Gather what "
 "strength you have! ATTACK! For VENGEANCE!!!"
-msgstr "Non mi piegherò più agli ordini degli umani! Tutti voi! ALL'ATTACCO!!!"
+msgstr ""
+"Non mi piegherò più agli ordini degli uomini! Draghi! A me! Raccogliete "
+"tutta la forza che avete! ALL'ATTACCO! VENDETTA!!!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:613
 msgid "Human! Feel my wrath! For Necolar!"
@@ -221,23 +222,23 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:635
 msgid "Die the death you meant for us!"
-msgstr ""
+msgstr "Muoia la morte che volevate per noi!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:706
 msgid "The hatchlings are free!"
-msgstr "I nidiacei sono liberi!"
+msgstr "La nidiata è libera!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:712
 msgid "The hatchlings are free! We must kill the taskmaster!"
-msgstr "I cuccioli sono liberi! Dobbiamo uccidere il supervisore!"
+msgstr "La nidiata è libera! Dobbiamo uccidere il sorvegliante!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:718
-#, fuzzy
 msgid ""
 "Malakar... our hatchlings... they've been tortured and wounded. Why... why "
 "would they do this?"
 msgstr ""
-"Malakar, la nidiata è stata torturata e ferita. Facciamola pagare agli umani!"
+"Malakar... la nostra nidiata... è stata torturata e ferita. Perché... perché "
+"lo hanno fatto?"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:722
 msgid ""
@@ -255,7 +256,7 @@ msgstr "Guardia"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:758
 msgid "Kill the hatchlings! Kill them all!"
-msgstr "Uccidete i nidiacei! Uccideteli tutti!"
+msgstr "Uccidete la nidiata! Uccideteli tutti!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:762
 msgid "The guards have arrived! Everyone! FIGHT!!!!!"
@@ -271,7 +272,7 @@ msgstr "Uccidi entrambe le guardie"
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:780
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:948
 msgid "At least four hatchlings must survive"
-msgstr "Almeno quattro nidiacei devono sopravvivere"
+msgstr "Almeno quattro nidiate devono sopravvivere"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:817
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:924
@@ -284,33 +285,33 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:837
 msgid "Let's make the overseer pay for our hatchlings! In blood!"
-msgstr "Che il sovrintendente paghi per i nostri nidiacei! Con il suo sangue!"
+msgstr "Che il sovrintendente paghi per le nostre nidiate! Con il suo sangue!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:849
 msgid "Let us make the overseer pay for that hatchling! In blood!"
-msgstr "Che il sovrintendente paghi per i nostri nidiacei! Con il suo sangue!"
+msgstr "Che il sovrintendente paghi per le nostre nidiate! Con il suo sangue!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:855
 msgid ""
 "Let us make the overseer pay for those $hatchlings_killed hatchlings! In "
 "blood!"
 msgstr ""
-"Che il sovrintendente paghi per quei $hatchlings_killed nidiacei! Con il suo "
-"sangue!"
+"Che il sovrintendente paghi per quelle $hatchlings_killed nidiate! Con il "
+"suo sangue!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:874
 msgid "Our hatchlings are under attack! Hurry!"
-msgstr "Stanno attaccando la nidiata! Presto!"
+msgstr "Stanno attaccando la nostra nidiata! Presto!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:894
 msgid "NO!! Our hatchlings... our tribe is lost. Oh, Necolar, I am sorry..."
 msgstr ""
-"NO!! I nostri nidiacei... la nostra tribù è persa. Oh, Necolar, mi spiace..."
+"NO!! La nostra nidiata... la nostra tribù è persa. Oh, Necolar, mi spiace..."
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:938
-#, fuzzy
 msgid "The taskmaster - that monster - is dead! We must free the hatchlings!"
-msgstr "Il padrone è morto! Dobbiamo liberare la nidiata!"
+msgstr ""
+"Il sorvegliante - quello schiavista - è morto! Dobbiamo liberare la nidiata!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:1008
 msgid "Slaves! Surrender or die!"
@@ -405,8 +406,8 @@ msgid ""
 "I will not strike you down, chief Hartholar. However, we will defend "
 "ourselves, and maintain our honor!"
 msgstr ""
-"Noi attaccheremo, capo  Hartholar. Comunque, ci difenderemo e conserveremo "
-"il nostro onore!"
+"Noi attaccheremo, capo Hartholar. Comunque, ci difenderemo e conserveremo il "
+"nostro onore!"
 
 #: Flight_Freedom/scenarios/02b_Swamps_Jamolar.cfg:178
 #, fuzzy
@@ -496,13 +497,16 @@ msgid ""
 "rendering most of them unable to fight. Many died from their wounds, "
 "throwing Malakar and the drakes into a ferocious bloodlust."
 msgstr ""
+"Anche se adesso la nidiata era in salvo, avevano patito ferite molto gravi e "
+"molti di loro non avrebbero potuto volare. Per le ferite riportate molti di "
+"loro morirono e ciò alimentò la bramosia di sangue di Malakar e dei draghi."
 
 #: Flight_Freedom/scenarios/03a_Manor.cfg:343
 msgid ""
 "Soldiers! Attack! I expect each of you to bring back the scalp of a human!"
 msgstr ""
 "Soldati! All'attacco! Mi aspetto che ognuno di voi torni con lo scalpo di un "
-"umano!"
+"uomo!"
 
 #: Flight_Freedom/scenarios/03a_Manor.cfg:532
 msgid "Drake Spear"
@@ -656,19 +660,24 @@ msgid ""
 "intellectual. I was wrong in opposing you, and I repent with my scar of "
 "penance."
 msgstr ""
+"Malakar, devo ammettere che sei stato capace di grandi prodezze, marziali e "
+"intellettuali. Mi sbagliavo a oppormi a te e me ne rammarico con la mia "
+"cicatrice di penitenza."
 
 #: Flight_Freedom/scenarios/03b_Council_of_War.cfg:104
 msgid ""
 "Very well, Hartholar. Let us strive to put this matter behind us, but do not "
 "dare to speak ill of Necolar. Who is this to my right?"
 msgstr ""
+"Benissimo, Hartholar. Sforziamoci di lasciarci alle spalle questa faccenda, "
+"ma non osare più parlare male di Necolar. Chi è questi alla mia destra?"
 
 #: Flight_Freedom/scenarios/03b_Council_of_War.cfg:108
 msgid ""
 "He is Kzzklk, the leader of the saurians that opposed you earlier, under my "
 "directive. What is your plan?"
 msgstr ""
-"È Kzzklk, capo ei sauri che prima si opponevano a noi, sotto i miei ordini. "
+"È Kzzklk, capo dei sauri che prima si opponevano a noi, sotto i miei ordini. "
 "Qual è il tuo piano?"
 
 #: Flight_Freedom/scenarios/03b_Council_of_War.cfg:113
@@ -716,6 +725,10 @@ msgid ""
 "power to clear this island once again, this time from the evils that dare to "
 "invade it."
 msgstr ""
+"Sono la nostra unica speranza. Come i loro antenati, guidati dal rgande "
+"drago Freon, liberarono questa isola dal male che l'abitava un tempo, hanno "
+"il potere di liberare di nuovo questa isola, questa volta dal male che osa "
+"invaderla."
 
 #: Flight_Freedom/scenarios/03b_Council_of_War.cfg:140
 msgid ""
@@ -748,6 +761,11 @@ msgid ""
 "ancient Mal-Bronam. Only then will we reach the Citadel... which may harbor "
 "dangers and guardians of its own."
 msgstr ""
+"La strada perla cittadella sarà insidiosa. Per prima cosa, dobbiamo "
+"raggiungere - e magari riconquistare - la fortezza di Hafwyt, oltre la "
+"foresta degli incubi. Poi, dobbiamo attraversare le montagne Harkon e i "
+"luoghi dove riposa l'antico Mal-Bronam. Sollo allora raggiungeremo la "
+"cittadella--- che potrebbe avere proprie insidie e custodi."
 
 #: Flight_Freedom/scenarios/03b_Council_of_War.cfg:162
 msgid "But, I am decided. This journey must be undertaken."
@@ -780,12 +798,11 @@ msgid "Caravan escapes"
 msgstr "Fuga della carovana"
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:248
-#, fuzzy
 msgid ""
 "After killing the baron and torching his house, Malakar headed out to "
 "intercept the caravan."
 msgstr ""
-"Dopo aver ucciso l'uomo e bruciato la sua casa, Malakar si dispose a "
+"Dopo aver ucciso il barone e incendiato la sua casa, Malakar si dispose a "
 "intercettare la carovana."
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:252
@@ -819,11 +836,15 @@ msgid ""
 "simple: take no longer than necessary, start no fires of any kind, and harm "
 "no living creature while within our borders."
 msgstr ""
+"Sarà concesso di passare per la nostra foresta anche agli ingiuriosi. "
+"Tuttavia non metteteci alla prova, altrimenti scoprirete che non abbiamo "
+"rivali nei boschi. Le regole sono semplici: non impiegateci più tempo del "
+"necessario, non accendete fuochi di nessun tipo e non fate del male e "
+"nessuna creatura vivente fintanto che sarete nei nostri confini."
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:360
-#, fuzzy
 msgid "Very well, we will be gone from your lands shortly."
-msgstr "Molto bene, ti aiuteremo."
+msgstr "Benissimo, tra poco avremo abbandonato la vostra terra."
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:365
 msgid "Remember, men, take the caravan! We have no quarrel with the elves."
@@ -881,18 +902,16 @@ msgstr ""
 "fiamme!"
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:534
-#, fuzzy
 msgid ""
 "Those fiends! Rally! Drive out the beasts! Do not rest 'til you cannot see "
 "their scales beneath our arrows!"
 msgstr ""
-"Quiei demoni! Adunata! Spazziamo via queste bestie! Non avremo riposo finché "
+"Quei demoni! Adunata! Spazziamo via queste bestie! Non avremo riposo finché "
 "non vedremo le loro scaglie trapassate dalle nostre frecce!"
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:553
-#, fuzzy
 msgid "500 gold! This will go a long way toward our cause!"
-msgstr "500 monete d'oro! Saranno molto utili alla nostra causa!"
+msgstr "500 pezzi d'oro! È un bel passo verso la nostra causa!"
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:557
 msgid ""
@@ -976,6 +995,8 @@ msgid ""
 "Simply put, no tribe has yet laid claim to this area, and none have saw fit "
 "to cleanse it. They are more interested in their petty feuds."
 msgstr ""
+"È semplice, nessuna tribù ha ancora reclamato questa area e nessuno ha "
+"trovato conveniente ripulirla. Sono più interessati ai loro pietosi feudi."
 
 #: Flight_Freedom/scenarios/04b_Forest_of_Nightmares.cfg:133
 msgid ""
@@ -986,6 +1007,12 @@ msgid ""
 "taxed or robbed because of their differing ancestries, so some have tried "
 "their luck here."
 msgstr ""
+"Nondimeno, molti draghi sono morti qua. A causa delle montagne Harkon, "
+"l'unica via percorribile da Weswyt a Hafwyt è attraverso le paludi della mia "
+"tribù oppure le colline della tribù Lojmar a sud. Inoltre sia Weswyt sia "
+"Hafwyt sono, per la legge di Kahn, città senza tribù, i loro cittadini sono "
+"spesso tassati o rapinati a causa delle loro diversi stirpi perciò alcuni "
+"hanno cercato fortuna qua."
 
 #: Flight_Freedom/scenarios/04b_Forest_of_Nightmares.cfg:138
 msgid "What dangers do we face in this forest?"
@@ -1025,6 +1052,7 @@ msgstr ""
 msgid ""
 "They have corrupted drakes for their evil ends! Those wretched sorcerers!"
 msgstr ""
+"Hanno corrotto dei draghi per i loro fini malvagi! Che sciagurati stregoni!"
 
 #: Flight_Freedom/scenarios/04b_Forest_of_Nightmares.cfg:315
 msgid ""
@@ -1110,8 +1138,9 @@ msgstr ""
 "cercando o no."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:116
+#, fuzzy
 msgid "Spot of trouble with the army, eh?"
-msgstr ""
+msgstr "C'è qualche problema in arrivo con l'esercito, eh?"
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:121
 msgid "Who are you? Someone! Kill the human!"
@@ -1239,16 +1268,15 @@ msgstr ""
 "di Gar-Alagar, re degli dei di Morogor!"
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:248
-#, fuzzy
 msgid "Upon the very eyes of the pirate gods I swear my loyalty."
-msgstr "Sotto lo sguardo dei miei dei giuro la mia fedeltà."
+msgstr "Sotto lo sguardo degli dei dei pirati giuro la mia fedeltà."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:253
 msgid ""
 "Do not mention your 'gods' again, infidel human. I see I will have to teach "
 "you manners."
 msgstr ""
-"Non menzionare più i tuoi dei, umano infedele. Vedo che dovrò insegnarti le "
+"Non menzionare più i tuoi dei, uomo infedele. Vedo che dovrò insegnarti le "
 "buone maniere."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:259
@@ -1264,9 +1292,8 @@ msgid "You can now recruit Pirate Schooners."
 msgstr "Ora puoi reclutare le golette pirata."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:288
-#, fuzzy
 msgid "You! Why do your men pursue us!"
-msgstr "Ehi! Perché i tuoi uomini ci inseguono?"
+msgstr "Ehi tu! Perché i tuoi uomini ci inseguono?"
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:292
 msgid ""
@@ -1282,9 +1309,8 @@ msgid ""
 msgstr ""
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:301
-#, fuzzy
 msgid "What forces do you have with you?"
-msgstr "Quali forze hai con te?"
+msgstr "Che forze avete con voi?"
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:305
 msgid ""
@@ -1316,22 +1342,25 @@ msgstr "Così sia."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:334
 msgid "Wow. Well, Mal, we'd best be getting..."
-msgstr "Uau. Be', Mal, faremmo meglio a..."
+msgstr "Uau. Be', Mal, faremmo meglio ad andarcene..."
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:82
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:339
 msgid " *growls*"
-msgstr ""
+msgstr "(ringhia)"
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:344
 msgid "... along before the winds shift. My ship is ready to go, when you are."
 msgstr ""
+"... finché soffia il vento. La mia nave è pronta ad andare quando volete."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:349
 msgid ""
 "First we must bury the body of that one, Omandro. The others were merely "
 "puppets, but he was their leader."
 msgstr ""
+"Pre prima cosa dobbiamo seppellire questo corpo, quello di Omandro. Gli "
+"altri erano solo pupazzi, ma egli era il capo."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:363
 msgid "With all due respect, Malakar, we hardly have the time to..."
@@ -1348,7 +1377,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:372
 msgid " *gulp*"
-msgstr ""
+msgstr "(ammutolito)"
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:377
 msgid ""
@@ -1356,12 +1385,17 @@ msgid ""
 "In the end, it is one thing that makes us different from them. Bury their "
 "leader."
 msgstr ""
+"Comunque, hanno ancora qualche traccia di onore. Noi rispettiamo quelli "
+"hanno il senso dell'onore e Omandro lo aveva. In pratica, questa è l'unica "
+"cosa che ci fa differenti da loro. Seppellite il capo."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:384
 msgid ""
 "We respect those with honor, and Omandro had honor. In the end, it is one "
 "thing that makes us different from them."
 msgstr ""
+"Noi rispettiamo quelli che hanno il senso dell'onore e Omandro lo aveva. In "
+"pratica, questa è l'unica cosa che ci fa differenti da loro."
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:3
 msgid "Hafwyt"
@@ -1392,17 +1426,23 @@ msgid ""
 "The mighty stronghold of Hafwyt lies before us. Here, we can rest and "
 "recruit more warriors, perhaps among the Jamolar expatriates here."
 msgstr ""
+"Abbiamo di fronte la potente fortezza di Hafwyt. Qui, possiamo riposarci e "
+"reclutare qualche altro guerriero, forse tra i Jamolar espatriati qua."
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:222
 msgid ""
 "We cannot rest now. Look! The softskins are laying siege to the fortress!"
 msgstr ""
+"Non possiamo riposare ora. Guardate i pellimolli stanno assediando la "
+"fortezza!"
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:226
 msgid ""
 "Hafwyt shall not fall. Its walls are solid stone, enchanted by the magi of "
 "the Citadel."
 msgstr ""
+"Hafwyt non cadrà. Le sua mura sono di solida roccia, incantata dai maghi "
+"della cittadella."
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:230
 msgid ""
@@ -1423,20 +1463,24 @@ msgid ""
 "Tenbakar! We will drive off the humans, just hold them at bay until we "
 "arrive."
 msgstr ""
+"Tenbakar! Scaccieremo gli uomini, devi solo tenerli a bada fino al nostro "
+"arrivo."
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:252
 msgid "Retract the drawbridge! Quickly!"
-msgstr ""
+msgstr "Sollevate il ponte levatoio! Presto!"
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:280
 msgid "The humans are setting up strange war machines!"
-msgstr ""
+msgstr "Gli uomini stanno approntando bizzarre macchine da guerra!"
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:285
 msgid ""
 "They are ballistae, like those on the humans' ships! Drakes! Destroy them "
 "quickly, before they destroy Hafwyt!"
 msgstr ""
+"Sono baliste come quelle sulle navi degli uomini! Draghi! Distruggetele in "
+"fretta prima che distruggano Hafwyt!"
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:417
 msgid "The ballistae are firing! Destroy them!"
@@ -1468,6 +1512,9 @@ msgid ""
 "of the humans. Although my soldiers and I must remain and defend this "
 "fortress, I pledge what treasure we have to you and your cause."
 msgstr ""
+"Guerrieri del nord, grazie per averci salvato oggi dalle lance e dalle spade "
+"degli uomini. Anche se i miei soldati e io dobbiamo restare a difendere "
+"questa fortezza, impegno il nostro tesoro per voi e la vostra causa."
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:884
 msgid "You receive 130 pieces of gold!"
@@ -1478,6 +1525,8 @@ msgid ""
 "Thank you. Drakes! For now, we rest and reprovision, but tomorrow, we fly at "
 "dawn!"
 msgstr ""
+"Grazie. Draghi! Per ora riposeremo e ci rinfocilleremo, ma domani voleremo "
+"all'alba!"
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:918
 msgid ""
@@ -1528,6 +1577,8 @@ msgid ""
 "Omandro had been wrong, however, and the human reinforcements were much "
 "closer than he had thought."
 msgstr ""
+"Omandro, però, si sbagliava e i rinforzi degli uomini erano molto più vicini "
+"di quanto avesse pensato."
 
 #: Flight_Freedom/scenarios/06a_Southern_Shore.cfg:104
 msgid ""
@@ -1559,6 +1610,8 @@ msgstr "Così sia. Vi affonderemo!"
 #: Flight_Freedom/scenarios/06a_Southern_Shore.cfg:140
 msgid "The Luna is sinking! All hands, prepare for emergency boarding!"
 msgstr ""
+"La Luna sta affondando! Ai vostri pposti, prepariamoci per un abbordaggiodi "
+"emergenza!"
 
 #: Flight_Freedom/scenarios/06a_Southern_Shore.cfg:144
 msgid "Save the highest-ranking officers first!"
@@ -1569,6 +1622,8 @@ msgid ""
 "(Kogw) Now, while they're distracted! Full sails south! Let's leave Wesnoth "
 "for good!"
 msgstr ""
+"(Kogw) Ora, mentre sono distratti! A gonfie vele verso sud! Lasciamo "
+"finalmente Wesnoth!"
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:4
 msgid "The Crypt of the Mountains"
@@ -1592,12 +1647,16 @@ msgid ""
 "I have never seen such land as this, with mountains taller than the "
 "strongest glider flies."
 msgstr ""
+"Non ho mai visto una terra come questa con montagne che salgono al cielo più "
+"in alto di qualsiasi aliante."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:107
 msgid ""
 "We are within a valley in the Harkon Mountains - one of only a few where "
 "drakes can survive. However, this land is, some say, cursed."
 msgstr ""
+"Siamo in una valle delle montagne Harkon - una delle poche dove i draghi "
+"possono sopravvivere. Tuttavia, questa terra è, in un certo senso, maledetta."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:112
 msgid "Why? What is this curse, and why must we traverse this valley?"
@@ -1612,6 +1671,11 @@ msgid ""
 "to incredible heights. Because of the mountains, we must cross here, in this "
 "valley."
 msgstr ""
+"Noi siamo sul luogo della battaglia tra Kahn e Mal-Bronam. Il luogo dove i "
+"nostri antenati sconfissero quel lich e conquistarono l'isola. Tuttavia, "
+"quando morì la terra stessa respinse la sua essenza e queste montagne "
+"salirono ad altezze incredibili. A causa di queste montagne dobbiamo passare "
+"di qua, per questa valle."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:121
 msgid ""
@@ -1619,6 +1683,9 @@ msgid ""
 "conquering Morogor as we speak, I have learned to fear even the dead undead. "
 "I am sure that we all remember the Forest."
 msgstr ""
+"Dovremmo lasciare questa valle il più presto possibile. Non solo gli uomini "
+"stanno conquistando Morogor mentre parliamo, ma ho anche imparato a temere "
+"il non-morto sconfitto. Sono sicuro che noi tutti ricorderemo la foresta."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:147
 msgid "Quemar"
@@ -1714,7 +1781,7 @@ msgstr ""
 msgid ""
 "A curtain of darkness descends from the mountains, cloaking the entire "
 "valley."
-msgstr ""
+msgstr "Una cortina di tenebra scende dalle montagne oscurando tutta la valle."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:337
 msgid "The undead have found us. Remember, Mal-Bronam must be our target."
@@ -1730,6 +1797,8 @@ msgid ""
 "Drakes! Use the mountains for cover, and defend yourselves! We must escape "
 "the valley!"
 msgstr ""
+"Draghi! Usate le montagne per proteggervi e difendetevi! Dobbiamo fuggire "
+"dalla valle!"
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:448
 msgid ""
@@ -1737,6 +1806,9 @@ msgid ""
 "the undead are melting away. We must reach the citadel quickly, and begin "
 "the convocation!"
 msgstr ""
+"Mal-Bronam è stato finalmente sconfitto. L'oscurità già si sta dissipando e "
+"i non-morti si disperdono. Dobbiamo raggiungere la cittadella in fretta e "
+"iniziare l'invocazione!"
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:496
 msgid "We must defeat Mal-Bronam first!"
@@ -1751,6 +1823,8 @@ msgstr ""
 msgid ""
 "Yes, but we must plan our strategy. The Citadel will not be easy to breach."
 msgstr ""
+"Sì, ma dobbiamo organizzare la nostra strategia. Non sarà facile fare "
+"breccia nella cittadella."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:511
 msgid "We will, Quemar, we will. May Gar-Alagar be with us."
@@ -1761,10 +1835,14 @@ msgid ""
 "@But first, I must return to the first scenario, and get defeated, so that I "
 "can be enslaved!"
 msgstr ""
+"@Ma prima, devo tornare al primo scenario e venire sconfitto in modo da "
+"poter essere fatto schiavo!"
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:546
 msgid "We have tarried too long... we cannot reach the citadel in time!"
 msgstr ""
+"Abbiamo esitato troppo a lungo... non possiamo raggiungere la cittadella in "
+"tempo!"
 
 #: Flight_Freedom/scenarios/07_Open_Ocean.cfg:3
 msgid "The Open Ocean"
@@ -1862,7 +1940,7 @@ msgstr "Brezza passeggera"
 
 #: Flight_Freedom/scenarios/08_Landfall.cfg:382
 msgid "(Malakar) The humans pursue us!"
-msgstr "(Malakar) Gli umani ci inseguono!"
+msgstr "(Malakar) Gli uomini ci inseguono!"
 
 #: Flight_Freedom/scenarios/08_Landfall.cfg:387
 msgid ""
@@ -1885,6 +1963,8 @@ msgid ""
 "Men, be prepared for attacks from the East, but the Drakes remain our "
 "primary objective. Move out!"
 msgstr ""
+"Uomini, preparatevi per gli attachci da est, ma i draghi rimangono il nostro "
+"obiettivo primario. Muovetevi!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:558
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:239
@@ -1957,6 +2037,8 @@ msgstr ""
 msgid ""
 "Forgive me, darling. I've never had the honor of captaining a finer ship."
 msgstr ""
+"Perdonami, tesoro. Non avevo mai avuto l'onore di comandare una nave più "
+"bella."
 
 #: Flight_Freedom/scenarios/08_Landfall.cfg:934
 msgid "..."
@@ -1964,7 +2046,7 @@ msgstr "..."
 
 #: Flight_Freedom/scenarios/08_Landfall.cfg:939
 msgid "Haaarh. You must see, I have no choice. My hands are tied."
-msgstr ""
+msgstr "Haaarh. Devi capire, non ho scelta. Ho le mani legate."
 
 #: Flight_Freedom/scenarios/08_Landfall.cfg:944
 msgid "Let us go!"
@@ -1979,10 +2061,12 @@ msgid ""
 "It's hopeless, Malakar. That's a whole fleet of their finest, and we cannot "
 "escape!"
 msgstr ""
+"Non c'è speranza, Malakar. Quella è una flotta intera delle loro migliori e "
+"non possiamo scappare!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:3
 msgid "The Drake Escape"
-msgstr "La fuga del drago"
+msgstr "La fuga dei draghi"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:43
 msgid "Hago"
@@ -2032,6 +2116,9 @@ msgid ""
 "Wow. Now that's a firm order. If there's any way to get to the cave without "
 "going through those forests, I'd really appreciate it, Malakar."
 msgstr ""
+"Uau. Adesso è un ordine secco. Se ci fosse un qualsiasi modo di arrivare "
+"alla caverna senza attraversare quelle foreste, sarei felice di conoscerlo, "
+"Malakar."
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:202
 msgid ""
@@ -2041,14 +2128,21 @@ msgid ""
 "leave behind every weapon we carry with us. You could become the most "
 "powerful leader on this island!"
 msgstr ""
+"Salute, orco... ehm... re! Tu vedi le nostre forze e devi riconoscere che "
+"possiamo schiacciarvi. Ti propongo un altro piano. Se ci porterai la testa "
+"del capo dei draghi, noi lasceremo la tua terra. Inoltre, abbandoneremo "
+"dietro di noi tuttel e armi che ci siamo portati. Potresti diventare il "
+"comandante più potente su tutta l'isola!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:206
 msgid "Heuh! Now that is treating a warrior with respect! So be it!"
 msgstr ""
+"Perbacco! Questo è quello che si dice trattare con rispetto un guerriero! Ci "
+"sto!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:239
 msgid "I have traveled too far to fall today!"
-msgstr ""
+msgstr "Abbiamo viaggiato così a lungo per cadere oggi!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:247
 msgid "Einelen vanishes with a magical word!"
@@ -2060,11 +2154,12 @@ msgstr "Sottoterra!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:294
 msgid "The caves... Drake leader! Halt!"
-msgstr ""
+msgstr "Le caverne... Capo dei draghi! Alt!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:298
+#, fuzzy
 msgid "Heungah! You cannot run from our forces!"
-msgstr ""
+msgstr "Heungah! Non potete fuggire alle nostre forze!"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:302
 msgid "Halt! Please!"
@@ -2169,21 +2264,24 @@ msgstr "Questa è una porta segreta. Vediamo che cosa c'è dietro!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:321
 msgid "Half-men. Where do these caves reach the surface?"
-msgstr ""
+msgstr "Mezzi-uomini. Quale di queste gallerie porta alla superficie?"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:325
+#, fuzzy
 msgid "Half...? Are you the blikkers who just smashed up the doorway?"
-msgstr ""
+msgstr "Mezz...? Siete voi quelli che hanno appena distrutto il portone?"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:330
 msgid "Many elves were in pursuit. We had no other choice."
-msgstr ""
+msgstr "Molti elfi ci stavano inseguendo. Non avevamo altra scelta."
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:334
 msgid ""
 "And you've brought elves in here with you? Gol, by the Beard. This is "
 "nothing less than an invasion! Mobilize! Dwarven units, mobilize!"
 msgstr ""
+"E avete portato gli elfi qui con voi? Gold, per tutte le barbe. Questa è una "
+"vera e propria invasione! Alle armi! Nani, alle armi!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:351
 msgid "There must have been a great battle here..."
@@ -2204,19 +2302,22 @@ msgstr "AIUTO!!!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:445
 msgid "RUARRRRR!!! Now new life flows through me!!!"
-msgstr ""
+msgstr "ROARRRRR!!! Ora nuova vita scorre nel mio corpo!!!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:450
 msgid ""
 "We are the children of your race, the drakes, sons of dragons. Come to the "
 "aid of your kin!"
 msgstr ""
+"Siamo i figli della vostra razza, i draghi, figli di dragoni. Vieni ad "
+"aiutare la tua stirpe!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:455
 msgid ""
 "But Malakar, that dragon is a dark abomination! We cannot ally with such "
 "evil!"
 msgstr ""
+"Ma Malakar, quel dragone è un oscuro abominio! Non possiamo allearci al male!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:460
 msgid ""
@@ -2224,6 +2325,10 @@ msgid ""
 "shadows of his might, the same fire that once flowed through his veins flows "
 "through ours. We are kin, and I will ask for his help."
 msgstr ""
+"Se è un non-morto non lo per sua scelta. Comunque noi draghi siamo solo "
+"l'ombra del suo potere, lo stesso fuoco che un tempo scorreva nelle sue vene "
+"adesso scorre nelle nostre. Siamo la stessa stirpe e io chiederò il suo "
+"aiuto."
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:464
 msgid ""
@@ -2231,6 +2336,9 @@ msgid ""
 "consanguinity. Perhaps I can now do some good, since my summoner is long "
 "dead, and my will is now free."
 msgstr ""
+"Sì. Anche se sono legato in questa lurida non vita, riconosco che siamo "
+"consangiunei. Forse posso fare qualcosa di buono adesso che colui che mi ha "
+"invocato è morto da molto tempo e la mia volontà ora è libera."
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:477
 #: Flight_Freedom/scenarios/11_River_Skulls.cfg:31
@@ -2243,7 +2351,7 @@ msgstr "Muori, feccia di un drago!"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:502
 msgid "The humans follow us! We must continue!"
-msgstr "Gli umani ci inseguono! Dobbiamo continuare!"
+msgstr "Gli uomini ci inseguono! Dobbiamo continuare!"
 
 #: Flight_Freedom/scenarios/11_River_Skulls.cfg:3
 msgid "River of Skulls"
@@ -2301,7 +2409,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/11_River_Skulls.cfg:244
 msgid "The humans pursue us!"
-msgstr "Gli umani ci inseguono!"
+msgstr "Gli uomini ci inseguono!"
 
 #: Flight_Freedom/scenarios/11_River_Skulls.cfg:261
 msgid "Well, we can't go that way."
@@ -2392,7 +2500,6 @@ msgid "We have used up half of our supplies."
 msgstr "Abbiamo usato metà delle nostre provviste."
 
 #: Flight_Freedom/scenarios/11_River_Skulls.cfg:581
-#, fuzzy
 msgid "We've used up three-quarters of our supplies. I suggest you make haste."
 msgstr ""
 "Abbiamo usato tre quarti delle nostre provviste. Suggerisco di sbrigarci."
@@ -2470,7 +2577,7 @@ msgstr "Ci inseguono ancora?"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:189
 msgid "Look. Buddy."
-msgstr ""
+msgstr "Guarda. Compagno."
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:193
 msgid "You're riding a drake?!?"
@@ -2478,7 +2585,7 @@ msgstr "Stai cavalcando un drago?!?"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:198
 msgid " *growl*"
-msgstr ""
+msgstr "(ringhia)"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:204
 msgid "Not... really. Where's the exit?"
@@ -2489,16 +2596,22 @@ msgid ""
 "We cannot let you pass that way. Those tunnels are too fragile, and you have "
 "proven yourselves to be a menace. This is the end, lizards."
 msgstr ""
+"Non possiamo lasciarvi passare da questa parte. Queste gallerie sono troppo "
+"fragili e voi avete dimostrato di essere una minaccia. Questo è tutto, "
+"lucertole"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:223
 msgid ""
 "The roof of the tunnel is extremely low here, and appears to be supported by "
 "these boulders."
 msgstr ""
+"Il soffitto della galleria è estremamente basso qui e sembra che siano "
+"questi macigni a sostenerlo."
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:229
 msgid "We can strand the elves here for days if we can bring down the tunnel!"
 msgstr ""
+"Potremo resistere agli elfi per giorni se facessimo crollare la galleria!"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:234
 msgid "So be it. This is our chance to leave our pursuers behind."
@@ -2515,6 +2628,8 @@ msgid ""
 "All 6 boulders have been destroyed! The cave could collapse at any time! "
 "Everyone out, now!"
 msgstr ""
+"Tutti e 6 i macigni sono stati distrutti! La caverna potrebbe crollare in "
+"qualsiasi momento! Uscite tutti, subito!"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:266
 #, fuzzy
@@ -2556,6 +2671,10 @@ msgid ""
 "Those who will not must leave behind their weapons and go their separate "
 "ways."
 msgstr ""
+"Quello che è successo qui oggi rimarà per sempre come una macchia sulla "
+"nostra tribù. Quelli che presteranno giuramento a me e alla tribù seduta "
+"stante saranno perdonati. Quelli che non lo faranno dovranno abbandonare le "
+"loro armi e andarsene per un'altra strada."
 
 #: Flight_Freedom/scenarios/13_Betrayal.cfg:97
 msgid ""
@@ -2677,6 +2796,8 @@ msgid ""
 "I want three scouts sent south and east. Find a safe path past the Gate. "
 "Hopefully, it will distract and slow any who would follow us."
 msgstr ""
+"Voglio tre esploratori a sud ed est. Che trovino una strada sicura oltre il "
+"portale. Speriamo che distragga e rallenti chiunque ci seguisse."
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:76
 msgid ""
@@ -2687,7 +2808,6 @@ msgid ""
 msgstr ""
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:87
-#, fuzzy
 msgid ""
 "...never sleeping, never stopping, never tiring, hungering only for blood..."
 msgstr ""
@@ -2708,6 +2828,8 @@ msgid ""
 "Such... strange... power. I cannot get close enough to touch the gate. "
 "Physical force is worthless here!"
 msgstr ""
+"Che... strana... energia. Non riesco ad avvicinarmi abbastanza da toccare il "
+"portale. La froza fisica non ha alcun valore in questo caso!"
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:118
 msgid ""
@@ -2742,17 +2864,16 @@ msgstr ""
 "«cancello delle tempeste»"
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:161
-#, fuzzy
 msgid ""
 "I call upon Gar-Hagar, god of all that is burning and favored child of Gar-"
 "Alagar, to destroy this portal of evil!"
 msgstr ""
-"Invoco Gar-Hagar, dio di tutto ciò che brucia perché distrugga questo "
-"portale demoniaco!"
+"Invoco Gar-Hagar, dio di tutto ciò che brucia e figlio prediletto di Gar-"
+"Alagar, perché distrugga questo portale demoniaco!"
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:293
 msgid "The Gate... it's glowing..."
-msgstr ""
+msgstr "Il cancello... è incandescente..."
 
 #: Flight_Freedom/scenarios/16_Exodus.cfg:3
 msgid "The Exodus"
@@ -2985,7 +3106,7 @@ msgstr "Mal, se portassero i loro capi in campo aperto, sarebbero massacrati!"
 
 #: Flight_Freedom/scenarios/18_Return_to_Morogor.cfg:132
 msgid "I know. We will have the beaches cleared before they arrive."
-msgstr ""
+msgstr "Lo so. Le spiagge saranno liberate prima del nostro arrivo."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:146
 #: Flight_Freedom/scenarios/18_Return_to_Morogor.cfg:143
@@ -3035,11 +3156,13 @@ msgstr "Ciao, fratello!"
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:109
 msgid "I request your assistance fighting the evil humans."
-msgstr "Richiedo la tua assistenza per combattere contro i perfidi umani."
+msgstr "Richiedo la tua assistenza per combattere contro i perfidi uomini."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:113
 msgid "Very well. We too have born their yoke, and your arrival brings hope."
 msgstr ""
+"Benissimo. Anche noi abbiamo patito il suo giogo e il vostro arrivo ci porta "
+"speranza."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:125
 #: Flight_Freedom/scenarios/20_Endgame.cfg:357
@@ -3072,20 +3195,19 @@ msgstr ""
 "Si chiamano sauri. Una piccola curiosità in cui sono imbattuto in una notte."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:193
-#, fuzzy
 msgid ""
 "I found a small group of them. Refugees from the humans, just like us. They "
 "have allied with me against the humans."
 msgstr ""
-"Ho trovato un piccolo gruppo di loro, profughi dagli umani. Si sono alleati "
-"con me contro gli umani."
+"Ho trovato un piccolo gruppo di loro, in fuga dagli uomini proprio come noi. "
+"Si sono alleati con me contro gli uomini."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:197
 msgid ""
 "However, once the humans came to Morogor, we had to go into hiding. With the "
 "help of the saurians, I was able to avoid their patrols."
 msgstr ""
-"Però da quando gli umani giunsero a Morogor abbiamo dovuto nasconderci. Con "
+"Però da quando gli uomini giunsero a Morogor abbiamo dovuto nasconderci. Con "
 "l'aiuto dei sauri, sono riuscito ad evitare le loro pattuglie."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:201
@@ -3112,7 +3234,7 @@ msgid ""
 "lines and kill their leaders."
 msgstr ""
 "I sauri sono elusivi e veloci, ma non molto bravi con le armi. Propongo che "
-"mentre attacchiamo gli umani sul fronte, i sauri si infiltrino dietro le "
+"mentre attacchiamo gli uomini sul fronte, i sauri si infiltrino dietro le "
 "linee nemiche e uccidano i condottieri."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:218
@@ -3145,7 +3267,7 @@ msgstr "Fanne buon uso."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:250
 msgid "The saurians will try to outflank the humans."
-msgstr "I sauri cercheranno di circondare gli umani."
+msgstr "I sauri cercheranno di circondare gli uomini."
 
 #: Flight_Freedom/scenarios/19_Liberation.cfg:254
 msgid "Very well. They will arrive at the third dawn."
@@ -3199,7 +3321,7 @@ msgid ""
 msgstr ""
 "Malakar e Kamalar dovrebbero condurre la forza principale, il comandante dei "
 "sauri, Kzzklk, dovrebbe guidare la sua forza di sauri, nella speranza di "
-"circondare gli umani."
+"circondare gli uomini."
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:170
 msgid "So this is what the bastards did with our city!"
@@ -3207,7 +3329,7 @@ msgstr "Ecco che cosa hanno fatto, quei bastardi, alla nostra città!"
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:174
 msgid "Yes. The humans have defiled the temple of Gar-Alagar!"
-msgstr "Sì. Gli umani hanno profanato il tempio di Gar-Alagar!"
+msgstr "Sì. Gli uomini hanno profanato il tempio di Gar-Alagar!"
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:179
 msgid "I will kill meeeeself ssssome humanssss!"
@@ -3230,9 +3352,8 @@ msgid "I dddddie! Fffight ffor meee...avvvennnnge...kkkill huuumansssss..."
 msgstr "Mmuoioo! Lottaate peer mee... vvendicaatemi... ucccidetee umaanii..."
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:247
-#, fuzzy
 msgid "NOOOOOOOO! I cannot bear to live!"
-msgstr "NOOOOOOO! Mi suicido!"
+msgstr "NOOOOOOOO! Come posso vivere ancora dopo tutto questo?"
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:284
 msgid "GUARDS!!! Slay them all!"
@@ -3243,11 +3364,12 @@ msgid "Morogor is ours!"
 msgstr "Morogor è nostra!"
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:328
-#, fuzzy
 msgid ""
 "But this is bittersweet. My brother is dead... just like Necolar, my "
 "daughter."
-msgstr "Ma è una triste vittoria. Mio fratello è morto."
+msgstr ""
+"Ma è una triste vittoria. Mio fratello è morto... proprio come Necolar, mia "
+"figlia."
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:333
 msgid "He died fighting for you. Like any of your other soldiers would."
@@ -3259,7 +3381,7 @@ msgstr "Era un vero guerriero."
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:361
 msgid "I am gone! Fight on against the humans without me!"
-msgstr "Sono perduto! Combatti contro gli umani senza di me!"
+msgstr "Sono perduto! Combatti contro gli uomini senza di me!"
 
 #: Flight_Freedom/scenarios/20_Endgame.cfg:439
 msgid "At yooourrr ccccommaaaand!"
@@ -3355,15 +3477,14 @@ msgid "female^Dreadnought"
 msgstr "Corazzata"
 
 #: Flight_Freedom/units/boats/Dreadnought.cfg:23
-#, fuzzy
 msgid ""
 "Dreadnoughts are the pride of the humans' navy. With 3 ballistae and a "
 "catapult, they can sink or kill almost anything unlucky enough to be in "
 "their way."
 msgstr ""
-"Le corazzate sono l'orgoglio della marina degli umani. Con tre baliste e una "
-"catapulta, possono uccidere quasi qualsiasi cosa abbastanza sfortunata da "
-"trovarsi sulla loro strada."
+"Le corazzate sono l'orgoglio della marina degli uomini. Con tre baliste e "
+"una catapulta, possono affondare o uccidere quasi qualsiasi cosa abbastanza "
+"sfortunata da trovarsi sulla loro strada."
 
 #: Flight_Freedom/units/boats/Frigate.cfg:5
 msgid "female^Frigate"
@@ -3383,9 +3504,9 @@ msgid ""
 "expensive, but very strong. Armed with three ballistae, they mete out "
 "justice with deadly efficency."
 msgstr ""
-"I galeoni sono navi da guerra a vela. Il tentativo umano di viaggiare per "
-"mare, sono costosi ma molto potenti. Armate di tre baliste, dispensano "
-"giustizia con efficienza mortale."
+"I galeoni sono navi da guerra a vela. Sono il tentativo degli uomini di "
+"viaggiare per mare, costosi ma molto potenti. Armate di tre baliste, "
+"dispensano giustizia con efficienza mortale."
 
 #: Flight_Freedom/units/boats/Pirate_Cruiser.cfg:5
 msgid "female^Pirate Cruiser"
@@ -3421,9 +3542,9 @@ msgid ""
 "ships ply the seaways, looking for plunder. They are widely feared because "
 "of that."
 msgstr ""
-"I pirati sono i trasportatori acquatici dei ladri. Equipaggiate da rinnegati "
-"umani, queste navi solcano i mari alla ricerca di bottino. Sono temutissime "
-"per questa loro caratteristica."
+"I pirati sono i trasportatori acquatici dei ladri. Equipaggiate da uomini "
+"rinnegati, queste navi solcano i mari alla ricerca di bottino. Sono "
+"temutissime per questa loro caratteristica."
 
 #: Flight_Freedom/units/drakes/Chieftain.cfg:6
 #: Flight_Freedom/units/fake_units.cfg:6
@@ -3483,15 +3604,13 @@ msgstr "lancia"
 
 #: Flight_Freedom/units/drakes/Hatchling.cfg:5
 msgid "Drake Hatchling"
-msgstr "Nidiaceo di drago"
+msgstr "Nidiata di drago"
 
 #: Flight_Freedom/units/drakes/Hatchling.cfg:18
-#, fuzzy
 msgid ""
 "Newborn Drakes, Hatchlings are used as cannon fodder and as cheap walls."
 msgstr ""
-"Un drago appena nato, i nidiacei sono usati come carne da macello e barriere "
-"economiche."
+"I draghi appena nati sono usati come carne da macello e sbarramento da poco."
 
 #: Flight_Freedom/units/npc/Falcon.cfg:23 Flight_Freedom/units/npc/Crow.cfg:22
 #: Flight_Freedom/units/monsters/Wolf.cfg:59
@@ -3524,9 +3643,8 @@ msgid "staff"
 msgstr "bastone"
 
 #: Flight_Freedom/units/drakes/High_Magus.cfg:59
-#, fuzzy
 msgid "ice shot"
-msgstr "esplosione di gelo"
+msgstr ""
 
 #: Flight_Freedom/units/drakes/Lord.cfg:6
 #: Flight_Freedom/units/fake_units.cfg:23
@@ -3657,7 +3775,7 @@ msgstr "frusta"
 
 #: Flight_Freedom/units/human-loyalists/Taskmaster.cfg:5
 msgid "Taskmaster"
-msgstr "Supervisore"
+msgstr "Sorvegliante"
 
 #: Flight_Freedom/units/human-loyalists/Taskmaster.cfg:21
 msgid ""
@@ -3722,7 +3840,6 @@ msgid "Shadow Mage"
 msgstr "Mago oscuro"
 
 #: Flight_Freedom/units/human-outlaws/Shadow_Mage.cfg:23
-#, fuzzy
 msgid ""
 "Years of violence and brutality to support the study of forbidden magical "
 "arts have turned the shadow mages into feared fighters. Now completely "
@@ -3732,14 +3849,14 @@ msgid ""
 "attacks. Despite their offensive power, the corruption in their souls has "
 "begun to adversely affect their health."
 msgstr ""
-"Anni di violenza e brutalità subiti durante lo studio delle arti magiche "
-"proibite hanno reso i maghi oscuri dei terribili combattenti. Ora "
-"completamente soggiogati dal potere, sono noti per comandare piccole "
-"compagnie di seguaci. Sono surclassati nel combattimento magico diretto dai "
-"loro pari utilizzatori di magia, e incanalano le loro energie in attacchi "
-"devastanti nel corpo a corpo. A dispetto della loro potenza offensiva, la "
-"corruzione delle loro anime ha cominciato ad avere effetti negativi sulla "
-"loro salute."
+"Anni di violenza e di brutalità a supporto degli studi delle arti magiche "
+"proibite hanno trasformato i maghi oscuri i temibili combattenti. Ormai "
+"completamente asserviti dal potere, sono noti per avere una schiera di "
+"seguaci sotto il loro comando. Nessuno dei loro equivalenti maghi delle "
+"altre categorie è più abile nei combattimento magico corpo a corpo, grazie "
+"alla loro capacità di convogliare le loro energie in devastanti attacchi in "
+"mischia. A dispetto del loro potenziale offensivo, la corruzione delle loro "
+"anime ha iniziato a minare la loro salute."
 
 #: Flight_Freedom/units/human-outlaws/Shadow_Mage.cfg:40
 msgid "ice blast"
@@ -3901,7 +4018,7 @@ msgstr "coda"
 
 #: Flight_Freedom/units/nagas/Depthstalker.cfg:5
 msgid "Naga Depthstalker"
-msgstr ""
+msgstr "Naga assassina degli abissi"
 
 #: Flight_Freedom/units/nagas/Depthstalker.cfg:27
 msgid ""
@@ -3916,7 +4033,7 @@ msgstr ""
 
 #: Flight_Freedom/units/nagas/Depthstalker.cfg:191
 msgid "Nagini Depthstalker"
-msgstr ""
+msgstr "Naga assassino degli abissi"
 
 #: Flight_Freedom/units/nagas/Guardian.cfg:5
 msgid "Naga Guardian"
@@ -3940,6 +4057,10 @@ msgid ""
 "poisoned arrows. These two foot long shafts, tipped with a potent poison, "
 "have been known to slay many kinds of prey."
 msgstr ""
+"I cacciatori naga sono abili nella caccia con l'arco. Poiché sono "
+"naturalmente resistenti al veleno, non hanno remore a cacciare con frecce "
+"avvelenate. Queste lunghe aste dalla punta impregnata di potente veleno sono "
+"note per aver abbattuto molti tipi di preda diversi."
 
 #: Flight_Freedom/units/nagas/Hunter.cfg:54
 msgid "bow"
@@ -3970,17 +4091,19 @@ msgstr "Naga mago"
 
 #: Flight_Freedom/units/nagas/Sea_Hag.cfg:5
 msgid "female^Sea Hag"
-msgstr ""
+msgstr "Strega del mare"
 
 #: Flight_Freedom/units/nagas/Sea_Hag.cfg:19
 msgid ""
 "Sea Hags are older and more experienced Nagas who have learned to control "
 "the water magic."
 msgstr ""
+"Le streghe del mare sono le naga più anziane ed esperte che hanno appreso il "
+"controllo della magia acquatica."
 
 #: Flight_Freedom/units/nagas/Sea_Hag.cfg:31
 msgid "water spray"
-msgstr ""
+msgstr "spruzzo d'acqua"
 
 #: Flight_Freedom/units/nagas/Sentinel.cfg:5
 msgid "Naga Sentinel"
@@ -3998,7 +4121,7 @@ msgstr ""
 
 #: Flight_Freedom/units/nagas/Spellcrafter.cfg:172
 msgid "Nagini Spellcrafter"
-msgstr ""
+msgstr "Naga maestro di magia"
 
 #: Flight_Freedom/units/nagas/Warlock.cfg:24
 #: Flight_Freedom/units/nagas/Warlock.cfg:123
@@ -4015,7 +4138,7 @@ msgstr ""
 
 #: Flight_Freedom/units/nagas/Spellwarrior.cfg:5
 msgid "Naga Spellwarrior"
-msgstr ""
+msgstr "Naga guerriera magica"
 
 #: Flight_Freedom/units/nagas/Spellwarrior.cfg:27
 msgid ""
@@ -4027,11 +4150,11 @@ msgstr ""
 
 #: Flight_Freedom/units/nagas/Spellwarrior.cfg:69
 msgid "Nagini Spellwarrior"
-msgstr ""
+msgstr "Naga guerriero magico"
 
 #: Flight_Freedom/units/nagas/Warden.cfg:5
 msgid "Naga Warden"
-msgstr ""
+msgstr "Naga custode"
 
 #: Flight_Freedom/units/nagas/Warden.cfg:23
 msgid ""
@@ -4039,10 +4162,14 @@ msgid ""
 "wield huge maces which they use to crush their enemies. They mostly guard "
 "naga outposts, but occasionally participate in offensive raids."
 msgstr ""
+"Questi combattenti pesantemente corazzati sono più lenti della maggior parte "
+"dei naga e brandiscono enormi mazze che usano per annientare i nemici. "
+"Solitamente sorvegliano gli avamposti, ma a volte partecipano a spedizioni "
+"punitive."
 
 #: Flight_Freedom/units/nagas/Warlock.cfg:5
 msgid "Naga Warlock"
-msgstr ""
+msgstr "Naga strega"
 
 #: Flight_Freedom/units/nagas/Warlock.cfg:19
 msgid ""
@@ -4052,11 +4179,11 @@ msgstr ""
 
 #: Flight_Freedom/units/nagas/Warlock.cfg:116
 msgid "Nagini Warlock"
-msgstr ""
+msgstr "Naga stregone"
 
 #: Flight_Freedom/units/nagas/Warrior_Mage.cfg:5
 msgid "Naga Warrior Mage"
-msgstr ""
+msgstr "Naga maga guerriera"
 
 #: Flight_Freedom/units/nagas/Warrior_Mage.cfg:27
 msgid ""
@@ -4069,7 +4196,7 @@ msgstr ""
 
 #: Flight_Freedom/units/nagas/Warrior_Mage.cfg:69
 msgid "Nagini Warrior Mage"
-msgstr ""
+msgstr "Naga mago guerriero"
 
 #: Flight_Freedom/units/nagas/Warrior_Mage.cfg:87
 msgid ""
@@ -4162,7 +4289,7 @@ msgid ""
 "their kicks can smash a man's skull."
 msgstr ""
 "I cavalli sfuggiti alla cattività spesso diventano selvaggi ed ostili nei "
-"riguardi degli umani, specialmente se accerchiati o spaventati. Sebbene si "
+"riguardi degli uomini, specialmente se accerchiati o spaventati. Sebbene si "
 "calmino facilmente, il loro calcio può spaccare il cranio di un uomo."
 
 #: Flight_Freedom/units/npc/Horse.cfg:53
@@ -4215,7 +4342,7 @@ msgstr ""
 "Il coniglio è una simpatica creatura che vive nei campi e nelle foreste. La "
 "sua capacità di rodere, derivante da potenti incisivi, incute un terrore "
 "ineguagliabile alle carote. Purtroppo i conigli sono vittime dell'appetito "
-"di molte altre crudeli creature, come i lupi e anche gli umani, poiché la "
+"di molte altre crudeli creature, come i lupi e anche gli uomini, poiché la "
 "loro carne è fra i piatti più prelibati. La leggenda narra che seguano un re "
 "coniglio dal nome di Cedric."
 
@@ -4254,7 +4381,7 @@ msgid ""
 "but the armor slows them down to the point where they cannot sneak pass "
 "enemies."
 msgstr ""
-"I sauri capoguerra  sono i capi delle squadre di combattimento dei sauri. "
+"I sauri capoguerra sono i capi delle squadre di combattimento dei sauri. "
 "Armati di ascia e coperti da una robusta armatura, possono infliggere "
 "abbastanza danni e resistere a qualche colpo, ma l'armatura li rallenta al "
 "punto in cui non possono infiltrarsi tra i nemici."
@@ -4346,7 +4473,6 @@ msgid "The door will not open for any who are not allied with it."
 msgstr "La porta non si aprirà se non per chi è un suo alleato."
 
 #: Flight_Freedom/units/special/Door.cfg:36
-#, fuzzy
 msgid "bump"
 msgstr "sbam"
 
@@ -4360,7 +4486,7 @@ msgid ""
 "This is impassable to all corporeal things. It can be destroyed, but not "
 "easily."
 msgstr ""
-"Niente può attraversarla, ma è cedevole. Può esser distrutta, ma non "
+"Solo le cose incorporee possono attraversarla. Può esser distrutta, ma non "
 "facilmente."
 
 #: Flight_Freedom/units/special/Rock.cfg:26
@@ -4380,20 +4506,19 @@ msgstr ""
 
 #: Flight_Freedom/units/undead/Abomination.cfg:34
 msgid "crush"
-msgstr ""
+msgstr "impatto"
 
 #: Flight_Freedom/units/undead/Gargoyle.cfg:5
 msgid "Gargoyle"
 msgstr "Gargoyle"
 
 #: Flight_Freedom/units/undead/Gargoyle.cfg:18
-#, fuzzy
 msgid ""
 "This is a statue animated by dark magic. It is not very powerful, but it is "
 "annoying, as it reverts to its stone form during the day, making it utterly "
 "invulnerable to any and all forces."
 msgstr ""
-"Una statua animata da magia oscura, non è molto potente, ma è fastidiosa, "
+"È una statua animata dalla magia nera. Non è molto potente, ma è fastidiosa, "
 "perché torna di pietra durante il giorno, rendendola invulnerabile a "
 "qualsiasi attacco."
 
@@ -4419,15 +4544,14 @@ msgid "Undead Dwarf"
 msgstr "Nano non-morto"
 
 #: Flight_Freedom/units/undead/Undead_Dwarf.cfg:19
-#, fuzzy
 msgid ""
 "These are former dwarves, raised into unlife. They retain the power of "
 "dwarves, but also their lack of speed.\n"
 "\n"
 "Special Notes:"
 msgstr ""
-"Un tempo era un nano che ora è stato riportato alla non-vita. Questo essere "
-"conserva il potere dei nani, ma anche la loro scarsa velocità.\n"
+"Un tempo erano nanti e ora sono stati riportati alla non-vita. Conservano la "
+"resistenza dei nani, ma anche la loro scarsa velocità.\n"
 "\n"
 "Note speciali:"
 
@@ -4489,7 +4613,6 @@ msgstr ""
 "una notte quando vide uno spettacolo inconsueto."
 
 #: Flight_Freedom/utils/story.cfg:13
-#, fuzzy
 msgid ""
 "Captain: 'A moment of your time, Malakar. My scouts have reported an "
 "approaching fleet manned by humans. No doubt they wish to discuss the use of "
@@ -4505,8 +4628,8 @@ msgid ""
 "Captain, deny any requests for landing on Morogor's shores. Surely, by now, "
 "they would know that we have no interest in trade with thin-skins.'"
 msgstr ""
-"malakar: «Ahhhhrr. Quante volte dovrò rifiutare ancora prima che ci lascino "
-"in pace? capitano, rifiutate ogni richiesta di approdo sulle rive di "
+"Malakar: «Ahhhhrr. Quante volte dovrò rifiutare ancora prima che ci lascino "
+"in pace? Capitano, rifiutate ogni richiesta di approdo sulle rive di "
 "Morogor. Certamente, adesso, dovrebbero sapere che non abbiamo nessun "
 "interesse a commerciare con questi pelle molli.»"
 
@@ -4544,6 +4667,9 @@ msgid ""
 "And so Necolar, as an official emissary of her father's tribe, went to meet "
 "with the human leaders. The humans were not interested in trading, however."
 msgstr ""
+"Quindi Necolar, in veste di emissara della tribù di suo padre, si recò a "
+"incontrare i comandanti degli uomini. Gli uomini, però, non erano "
+"interessati a mercanteggiare."
 
 #: Flight_Freedom/utils/story.cfg:43
 msgid "Negotiations were short."
@@ -4566,10 +4692,14 @@ msgstr ""
 "stretto necessario. »"
 
 #: Flight_Freedom/utils/story.cfg:63
+#, fuzzy
 msgid ""
 "Baron: 'Very well, Marshal, I suppoze I can hardly expect a mere merzenary "
 "to share in the bazic social grazes to which I am accuztomed.'"
 msgstr ""
+"Barone: «Benissimo, colonnello. Suppongo che difficilmente posso pretendere "
+"che un semplice mercenario condivida le cortesie sociali di base a cui sono "
+"stato educato.»"
 
 #: Flight_Freedom/utils/story.cfg:68
 msgid ""
@@ -4577,13 +4707,20 @@ msgid ""
 "provided us with an escape from crisis, but do not ever presume that we "
 "answer to anyone but the Crown.'"
 msgstr ""
+"Generale: «L'esercito reale di Wesnoth non è un esercito di mercenari! Ci "
+"avrai anche dato una via di fuga dalla crisi, ma avresti dovuto saperlo che "
+"noi non avremmo ubbidito ad altri che alla corona.»"
 
 #: Flight_Freedom/utils/story.cfg:73
+#, fuzzy
 msgid ""
 "Baron: 'I think you will find, Marshal, that even your prezious King would "
 "anzwer like a lapdog if his pocketbook dozn't begin to fill soon. Money doez "
 "strange thingz to people...'"
 msgstr ""
+"Barone: «Penso che scoprirete, colonnello, che persino il vostro prezioso re "
+"ubbidirebbe come un cagnolino se il suo libretto si riempisse in fretta. "
+"L'oro fa fare strane cose alla gente...»"
 
 #: Flight_Freedom/utils/story.cfg:78
 msgid "General: 'This... this is a tenth of what was promised!'"
@@ -4595,6 +4732,9 @@ msgid ""
 "help, and you brought me dying lizards. You are lucky I do not chooz to "
 "punish you for your shameful performanz.'"
 msgstr ""
+"Barone: «Mi avete deluso, colonnello, voi e i vostri uomini. Mi servivano "
+"uomini... e voi mi portate lucertole agonizzanti. Siete fortunati che abbia "
+"deciso di non punirvi per il vostro pietoso servizio.»"
 
 #: Flight_Freedom/utils/story.cfg:88
 msgid ""
@@ -4602,14 +4742,23 @@ msgid ""
 "our lowliest peasant! The drakes are strong, powerful, and will heal soon! "
 "You have all the slaves you need to run your plantations, and the drakes...'"
 msgstr ""
+"Generale: «Voi, finché il regno di Wesnoth sarà in piedi, non alzerete "
+"nemmeno un dito contro il più umile dei contadini! I draghi sono forti, "
+"possenti e guariscono in fretta! Avete tutti gli schiavi che vi servono per "
+"mandare avanti le vostre piantagioni e i draghi...»"
 
 #: Flight_Freedom/utils/story.cfg:93
+#, fuzzy
 msgid ""
 "Baron: 'Yez, Marshal, they are uzeful to me, and so I let you live. Never, "
 "though, did I zay that I what I needed waz manpower. Perhapz next time you "
 "will pay a little more attenzion and bring me the humans I had azked for. "
 "Now, get out of here.'"
 msgstr ""
+"Barone: «Sì, colonnello, mi saranno utili ed è per questo che vi lascerò "
+"vivere. Però non vi ho mai detto di volere forza lavoro. Forse la prossima "
+"volta farete più attenzione e mi porterete gli uomini che vi ho chiesto. "
+"Adesso andatevene.»"
 
 #: Flight_Freedom/utils/story.cfg:103
 msgid ""
@@ -4657,7 +4806,6 @@ msgstr ""
 "capitano. Potete andare.»"
 
 #: Flight_Freedom/utils/story.cfg:128
-#, fuzzy
 msgid ""
 "General: 'Lieutenant! It has come to my attention that we must leave no "
 "trace of our actions here today. As soon as the last able-bodied drake is "
@@ -4666,8 +4814,8 @@ msgid ""
 msgstr ""
 "Generale: «Tenente! È stato portato alla mia attenzione il fatto che non "
 "dobbiamo lasciare traccia alcuna della nostra azione di oggi. Appena "
-"l'ultimo drago è a bordo, voglio che la vostra unità rada al suolo questo "
-"villaggio. Non deve rimanere nulla tranne la cenere.»"
+"l'ultimo drago è a bordo, voglio che la vostra unità riduca in cenere questo "
+"villaggio. Non deve rimanere nulla oltre alla cenere.»"
 
 #: Flight_Freedom/utils/story.cfg:135 Flight_Freedom/utils/story.cfg:161
 #: Flight_Freedom/utils/story.cfg:209
@@ -4737,17 +4885,24 @@ msgid "Captain: 'Sir, yes, sir.'"
 msgstr ""
 
 #: Flight_Freedom/utils/story.cfg:221
+#, fuzzy
 msgid ""
 "Baron: 'Foolish insectz! You think you have won, but I have only begun to "
 "show you my true power!'"
 msgstr ""
+"Barone: «Sciocchi insetti! Pensate di aver vinto, ma io ho solo cominciato a "
+"farvi vedere il mio vero potere!»"
 
 #: Flight_Freedom/utils/story.cfg:226
+#, fuzzy
 msgid ""
 "Baron: 'Hear me Sol'kan, bringer of the void and arbiter of souls! I summon "
 "thee forth from your pit of eternal suffering to aid me now! Hear me, unholy "
 "groom of the darkezt one, lord of...'"
 msgstr ""
+"Barone: «Ascoltami, Sol'kan, signora del vuoto e giudice delle anime! Io ti "
+"invoco dal tuo pozzo di eterna sofferenza per aiutare me adesso! Ascoltami, "
+"terribile sposa del più oscuro signore di...»"
 
 #: Flight_Freedom/utils/story.cfg:231
 msgid "Malakar: 'HIYA!!!'"
@@ -4803,16 +4958,15 @@ msgid ""
 msgstr ""
 "Malakar: «Draghi! Ascoltatemi! Ci sposteremo verso occidente tra un'ora! Per "
 "il momento sparpagliatevi per il maniero. Per ogni amico che avete perso, "
-"per ogni nobile guerriero  che è stato disonorato,»"
+"per ogni nobile guerriero che è stato disonorato,»"
 
 #: Flight_Freedom/utils/story.cfg:267
-#, fuzzy
 msgid ""
 "Malakar: 'for every hatchling you will never see grow old, for every scar "
 "upon your back, set one fire. The humans have sown their seeds!'"
 msgstr ""
-"Malakar: «per ogni nidiaceo che non vedrete più crescere, per ogni cicatrice "
-"sulla vostra pelle accendete un fuoco.»"
+"Malakar: «...per ogni nidiata che non vedrete più crescere, per ogni "
+"cicatrice sulla vostra pelle accendete un fuoco.»"
 
 #: Flight_Freedom/utils/story.cfg:272
 #, fuzzy
@@ -4859,12 +5013,11 @@ msgstr "Kogw: ..."
 
 #: Flight_Freedom/utils/story.cfg:313
 msgid "Kogw: 'The funny thing about elves is this... oh well.'"
-msgstr ""
+msgstr "Kogw: «La cosa divertente sugli elfi è che... oh, va bene.»"
 
 #: Flight_Freedom/utils/story.cfg:324
-#, fuzzy
 msgid "Glider: 'Malakar, we have sighted land!'"
-msgstr "Glider: «Malakar, abbiamo avvistato la terra!»"
+msgstr "Aliante: «Malakar, abbiamo avvistato la terra!»"
 
 #: Flight_Freedom/utils/story.cfg:329
 msgid "Kogw: 'Be wary, this is not Morogor, but the Isle of Storms.'"
@@ -4946,7 +5099,7 @@ msgstr ""
 
 #: Flight_Freedom/utils/story.cfg:385
 msgid "Malakar: 'Move, softskin! We cannot afford to wait for you later!'"
-msgstr ""
+msgstr "Malakar: «Muoviti, pellemolle! Non possiamo aspettarti ancora!»"
 
 #: Flight_Freedom/utils/story.cfg:390
 msgid ""
@@ -4955,6 +5108,11 @@ msgid ""
 "something left of the Unforgiver and I can be out of here before the army's "
 "done following me. Good luck on your journey, Malakar.'"
 msgstr ""
+"Kogw: «Sissignore. Non voglio che mi aspettiate. Sto andando a est. A "
+"differenza di voi che volate, io lascio delle tracce. Se sono fortunato, ci "
+"potrebbe essere rimasto qualcosa dell'Implacabile e io potrei essere fuori "
+"di qua prima che l'esercito abbia finito di seguirmi. Buona fortuna per il "
+"tuo viaggio, Malakar.»"
 
 #: Flight_Freedom/utils/story.cfg:395
 msgid ""
@@ -4966,14 +5124,16 @@ msgstr ""
 msgid ""
 "Human Leader: 'The leaders are virtually unprotected! This is our chance!'"
 msgstr ""
+"Comandante degli uomini: «I comandanti sono praticamente senza protezione! È "
+"la nostra chance!»"
 
 #: Flight_Freedom/utils/story.cfg:405
 msgid "Kogw: '...all the pirate gods be damned. Run!'"
-msgstr ""
+msgstr "Kogw: «... che tutti gli dei pirati vadano all'inferno. Corri!»"
 
 #: Flight_Freedom/utils/story.cfg:416
 msgid "Einelen: 'All we ask for is your companion.'"
-msgstr ""
+msgstr "Einelen: «Non chiediamo altro che il vostro compagno.»"
 
 #: Flight_Freedom/utils/story.cfg:421 Flight_Freedom/utils/story.cfg:441
 #: Flight_Freedom/utils/story.cfg:579
@@ -5040,9 +5200,8 @@ msgstr ""
 "essere uno di noi, per quanti favori ci possa...»"
 
 #: Flight_Freedom/utils/story.cfg:486
-#, fuzzy
 msgid "Malakar: 'You WILL hold your tongue! Blockade the entrance!'"
-msgstr "Malakar: «VUOI stare zitto? Barricate l'ingresso!»"
+msgstr "Malakar: «Vuoi stare ZITTO? Barricate l'ingresso!»"
 
 #: Flight_Freedom/utils/story.cfg:508
 msgid "Kogw: 'Ye gods! Has the sun always been this bright?'"
@@ -5168,7 +5327,7 @@ msgid ""
 "He died with honor. Where is the honor for Necolar? She... she was never... "
 "even buried... where... she... Gar-Alagar... oh... why?!?'"
 msgstr ""
-"Malakar: «... morì con una spada in mano e un urlo di battaglia in gola. È "
+"Malakar: «... è morto con una spada in mano e un urlo di battaglia in gola. È "
 "morto con onore. Dov'è l'onore per Necolar? Non.. non è stata... nemmeno "
 "sepolta... dove... lei... Gar-Alagar... oh... perché!?»"
 
@@ -5193,18 +5352,16 @@ msgid "Malakar: 'Morogor! At last!'"
 msgstr "Malakar: «Morogor! Finalmente!»"
 
 #: Flight_Freedom/utils/story.cfg:630
-#, fuzzy
 msgid "Glider: 'Gar-Alagar... it is Malakar, returned to us!'"
-msgstr "Glider: «Gar-Alagar... è Malakar, è tornato!»"
+msgstr "Aliante: «Gar-Alagar... è Malakar, è tornato!»"
 
 #: Flight_Freedom/utils/story.cfg:635
 msgid "Malakar: 'It is I. Do I know you?'"
 msgstr "Malakar: «Sono io. Io ti conosco?»"
 
 #: Flight_Freedom/utils/story.cfg:640
-#, fuzzy
 msgid "Glider: 'I have words, sir, for your ears only.'"
-msgstr "Glider: «Sire, ho un messaggio riservato a voi solo.»"
+msgstr "Aliante: «Sire, ho un messaggio riservato a voi solo.»"
 
 #: Flight_Freedom/utils/story.cfg:645
 msgid "Kogw: 'Oi!'"
@@ -5215,9 +5372,8 @@ msgid "Malakar: 'You may speak in front of the captain. He is of our tribe.'"
 msgstr "Malakar: «Puoi parlare, il capitano fa parte della nostra tribù.»"
 
 #: Flight_Freedom/utils/story.cfg:655
-#, fuzzy
 msgid "Glider: 'Oh, I. Uh. Very good.'"
-msgstr "Glider: «Oh, io. Eh. Benissimo.»"
+msgstr "Aliante: «Oh, io. Eh. Benissimo.»"
 
 #: Flight_Freedom/utils/story.cfg:661
 msgid ""
@@ -5268,7 +5424,7 @@ msgid ""
 "of the humans."
 msgstr ""
 "Malakar fu incoronato re dei draghi, per aver salvato la sua gente dalle "
-"mani degli umani."
+"mani degli uomini."
 
 #: Flight_Freedom/utils/story.cfg:698
 msgid ""
@@ -5290,7 +5446,7 @@ msgstr ""
 
 #: Flight_Freedom/utils/story.cfg:706
 msgid "Kogw lived to be 47, and was a noble in Malakar's court."
-msgstr "Kogw visse fino a 47 anni, e fu fatto nobile alla corte di Malakar."
+msgstr "Kogw visse fino a 47 anni e fu fatto nobile alla corte di Malakar."
 
 #: Flight_Freedom/utils/story.cfg:710
 msgid ""
