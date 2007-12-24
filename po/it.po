@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-02 15:39+0100\n"
-"PO-Revision-Date: 2007-12-15 13:30+0100\n"
+"PO-Revision-Date: 2007-12-17 20:14+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -1806,6 +1806,12 @@ msgid ""
 "that the magus' energy is depleted. Fireballs are invoked by right-clicking "
 "the target and selecting the appropriate item in the menu."
 msgstr ""
+"I draghi archimaghi possono scagliare palle di fuoco (danni: 30 fuoco) in un "
+"raggio di quattro esagoni. Sono limitati a tre palle di fuoco per livello "
+"per arcimago. Un quadrato verde vuol dire che il mago ha energia residua "
+"mentre uno rosso vuol dire che l'energia del mago è esaurita. La palle di "
+"fuoco sono invocate cliccando con il tasto destro sul bersaglio e "
+"selezionando la voce appropriata sul menu."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:327
 msgid ""
@@ -2539,6 +2545,8 @@ msgid ""
 "My bones are brittle, and I cannot brave the flaming river. I will return to "
 "the surface, and harass the softskins that pursue you."
 msgstr ""
+"Le mie ossa sono fragili e non posso attraversare il fiume fiammeggiante. "
+"Tornerò in superficie e impegnerò i pelle-molli che vi inseguono."
 
 #: Flight_Freedom/scenarios/11_River_Skulls.cfg:546
 msgid "Very well. I am honored to have fought with a dragon of old."
@@ -2620,10 +2628,13 @@ msgid "We seek only to leave."
 msgstr "Stiamo solo cercando di andarcene."
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:178
+#, fuzzy
 msgid ""
 "Be that as it may, you're tearing up our tunnels and profaning our land by "
 "dragging the ding-blasted elves everywhere."
 msgstr ""
+"Sarà anche come dici, ma state devastando le nostre gallerie e profanando i "
+"nostri territori trascinando ovunque quei maledetti elfi."
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:183
 msgid "They pursue us still?"
@@ -2738,6 +2749,11 @@ msgid ""
 "put as many miles as we can between ourselves and the ruins of the cave "
 "mouth."
 msgstr ""
+"Le proteste di Theracar erano giuste ma i suoi metodi imperdonabili. Sono "
+"stati tempi duri per tutti e tutti noi abbiamo sofferto molto. Questa sera "
+"terremo un incontro per discutere del futuro della nostra tribù ma per "
+"adesso dobbiamo mettere tra noi e le rovine dell'imbocco delle caverne più "
+"miglia possibile."
 
 #: Flight_Freedom/scenarios/13_Betrayal.cfg:111
 msgid ""
@@ -2754,6 +2770,11 @@ msgid ""
 "neighbors of old treasons, will face the harshest penalties. We must live "
 "again as a tribe if we are to survive. MOVE OUT!"
 msgstr ""
+"Sono tutti perdonati. Nessuno di voi dimenticherà mai quali fazioni sono "
+"state scelte qui oggi ma chiunque verrà scoperto a parlare delle nidiate o "
+"ad accusare i nostri vicini di vecchi tradimenti, affronterà le punizioni "
+"più dure. Dobbiamo vivere di nuovo come uan tribù se vogliamo sopravvivere. "
+"SGOMBRIAMO!"
 
 #: Flight_Freedom/scenarios/13_Betrayal.cfg:131
 msgid "We have lost too many! Even if I win, we cannot continue!"
@@ -2860,6 +2881,10 @@ msgid ""
 "destroyed. You can run to the ends of the world, and rotting corpses will "
 "still hound your steps..."
 msgstr ""
+"Con rispetto parlando, Malakar, il cancello è aperto. Qualsiasi cosa "
+"facciamo forse non importa - con il tempo, questa isola, Wesnoth e tutto "
+"Morogor saranno sopraffatti e distrutti. Anche se fuggirai in capo al mondo, "
+"i cadaveri in putrefazione saranno ancora alle tue calcagna..."
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:87
 msgid ""
@@ -2891,6 +2916,9 @@ msgid ""
 "surround the Gate, getting as close as you can, and set it ablaze! Everyone "
 "else, cover for them."
 msgstr ""
+"Gli spettri raddoppiano i loro sforzi! Occorre che tutti gli incendiari "
+"rimasti circondino il cancello e stando più vicino possibile lo incendino! "
+"Tutti gli altri li dovranno coprire."
 
 #: Flight_Freedom/scenarios/15_Gate_of_Storms.cfg:122
 msgid ""
@@ -3700,7 +3728,7 @@ msgstr "artigli"
 
 #: Flight_Freedom/units/drakes/High_Magus.cfg:7
 msgid "Drake High Magus"
-msgstr "Drago arcimagus"
+msgstr "Drago arcimago"
 
 #: Flight_Freedom/units/drakes/High_Magus.cfg:20
 msgid ""
