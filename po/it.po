@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-02 15:39+0100\n"
-"PO-Revision-Date: 2007-12-17 20:14+0100\n"
+"PO-Revision-Date: 2007-12-31 17:14+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -309,8 +309,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:938
 msgid "The taskmaster - that monster - is dead! We must free the hatchlings!"
-msgstr ""
-"Il sorvegliante - quello schiavista - è morto! Dobbiamo liberare la nidiata!"
+msgstr "Il sorvegliante - quel mostro - è morto! Dobbiamo liberare la nidiata!"
 
 #: Flight_Freedom/scenarios/02a_Rebellion.cfg:1008
 msgid "Slaves! Surrender or die!"
@@ -1304,13 +1303,12 @@ msgstr ""
 "richiamato in servizio."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:296
-#, fuzzy
 msgid ""
 "I personally despise slavery, and I thank you for slaying that occult Baron, "
 "but I have my orders."
 msgstr ""
-"Io disprezzo la schiavitù e ti ringrazio per aver ucciso quel barone, ma ho "
-"degli ordini."
+"Io disprezzo la schiavitù e ti ringrazio per aver ucciso quel barone "
+"occulto, ma ho degli ordini."
 
 #: Flight_Freedom/scenarios/05a_Blue_River.cfg:301
 msgid "What forces do you have with you?"
@@ -3014,7 +3012,7 @@ msgstr ""
 #, fuzzy
 msgid "North? Wouldn't a, y'know, daring rescue been more appropriate?"
 msgstr ""
-"Nord? Non sarebbe stato, diciamo, più appropriato tentare un salvataggio?"
+"Nord? Non sarebbe, diciamo, più appropriato tentare un intrepido salvataggio?"
 
 #: Flight_Freedom/scenarios/16_Exodus.cfg:162
 msgid "Well, that's what I said, but Davies, here..."
@@ -3913,9 +3911,9 @@ msgid ""
 "life of torturing the slaves under their watch. They especially like beating "
 "Drake slaves with their short swords."
 msgstr ""
-"Un ruolo occupato dalla feccia della società, il supervisore vive torturando "
-"perversamente gli schiavi sotto la sua custodia. Essi amano, sopra ogni "
-"cosa, picchiare gli schiavi draghi con le loro spade corte."
+"Un ruolo occupato dalla feccia della società, i sorveglianti vivono "
+"torturando perversamente gli schiavi sotto la sua custodia. Essi amano, "
+"sopra ogni cosa, picchiare gli schiavi draghi con le loro spade corte."
 
 #: Flight_Freedom/units/human-loyalists/Taskmaster.cfg:26
 #: Flight_Freedom/units/human-outlaws/Shadow_Mage.cfg:28
@@ -4010,7 +4008,7 @@ msgstr "Bestia di lava"
 #: Flight_Freedom/units/monsters/Lava_Beast.cfg:21
 msgid "The Lava Beast is a living, breathing hunk of lava with a bad attitude."
 msgstr ""
-"La bestia di lava è un blocco di lava vivente e respirante con un pessimo "
+"La bestia di lava è un vivente e respirante blocco di lava con un pessimo "
 "carattere."
 
 #: Flight_Freedom/units/monsters/Spirit_Minor.cfg:22
@@ -4159,8 +4157,8 @@ msgstr ""
 "sopravvivere nelle profondità più oscure del mare. Dopo un addestramento "
 "particolare, da questa conoscenza può nascere un nuovo stile di "
 "combattimento anche se altrettanto mortale. Gli assassini degli abissi sono "
-"preziosi guardiani delle covate, perché sorvegliano le uova deposte begli "
-"anfratii nascosti.\n"
+"preziosi guardiani delle covate, perché sorvegliano le uova deposte negli "
+"anfratti nascosti.\n"
 "\n"
 "Note speciali:"
 
@@ -4652,7 +4650,6 @@ msgid "Rock"
 msgstr "Roccia"
 
 #: Flight_Freedom/units/special/Rock.cfg:23
-#, fuzzy
 msgid ""
 "This is impassable to all corporeal things. It can be destroyed, but not "
 "easily."
@@ -4874,13 +4871,12 @@ msgstr ""
 "stretto necessario. »"
 
 #: Flight_Freedom/utils/story.cfg:63
-#, fuzzy
 msgid ""
 "Baron: 'Very well, Marshal, I suppoze I can hardly expect a mere merzenary "
 "to share in the bazic social grazes to which I am accuztomed.'"
 msgstr ""
-"Barone: «Benissimo, colonnello. Suppongo che difficilmente posso pretendere "
-"che un semplice mercenario condivida le cortesie sociali di base a cui sono "
+"Barone: «Benizzimo, colonnello. Zuppongo che diffizilmente posso pretendere "
+"che un zemplice mercenario condivida le cortesie zociali di baze a cui zono "
 "stato educato.»"
 
 #: Flight_Freedom/utils/story.cfg:68
@@ -4894,14 +4890,13 @@ msgstr ""
 "noi non avremmo ubbidito ad altri che alla corona.»"
 
 #: Flight_Freedom/utils/story.cfg:73
-#, fuzzy
 msgid ""
 "Baron: 'I think you will find, Marshal, that even your prezious King would "
 "anzwer like a lapdog if his pocketbook dozn't begin to fill soon. Money doez "
 "strange thingz to people...'"
 msgstr ""
-"Barone: «Penso che scoprirete, colonnello, che persino il vostro prezioso re "
-"ubbidirebbe come un cagnolino se il suo libretto si riempisse in fretta. "
+"Barone: «Penso che scoprirete, colonnello, che perzino il fostro prezioso re "
+"ubbidirebbe come un cagnolino ze il suo borzellino zi riempisse in fretta. "
 "L'oro fa fare strane cose alla gente...»"
 
 #: Flight_Freedom/utils/story.cfg:78
@@ -4930,15 +4925,14 @@ msgstr ""
 "mandare avanti le vostre piantagioni e i draghi...»"
 
 #: Flight_Freedom/utils/story.cfg:93
-#, fuzzy
 msgid ""
 "Baron: 'Yez, Marshal, they are uzeful to me, and so I let you live. Never, "
 "though, did I zay that I what I needed waz manpower. Perhapz next time you "
 "will pay a little more attenzion and bring me the humans I had azked for. "
 "Now, get out of here.'"
 msgstr ""
-"Barone: «Sì, colonnello, mi saranno utili ed è per questo che vi lascerò "
-"vivere. Però non vi ho mai detto di volere forza lavoro. Forse la prossima "
+"Barone: «Zì, colonnello, mi saranno utili ed è per questo che vi lascerò "
+"vivere. Però non vi ho mai detto di volere forza lavoro. Forze la prossima "
 "volta farete più attenzione e mi porterete gli uomini che vi ho chiesto. "
 "Adesso andatevene.»"
 
@@ -5097,24 +5091,22 @@ msgid "Captain: 'Sir, yes, sir.'"
 msgstr "Capitano: «Signorsì, signore!»"
 
 #: Flight_Freedom/utils/story.cfg:221
-#, fuzzy
 msgid ""
 "Baron: 'Foolish insectz! You think you have won, but I have only begun to "
 "show you my true power!'"
 msgstr ""
-"Barone: «Sciocchi insetti! Pensate di aver vinto, ma io ho solo cominciato a "
-"farvi vedere il mio vero potere!»"
+"Barone: «Sciocchi inzetti! Penzate di afer vinto, ma io ho zolo cominciato a "
+"farvi federe il mio fero potere!»"
 
 #: Flight_Freedom/utils/story.cfg:226
-#, fuzzy
 msgid ""
 "Baron: 'Hear me Sol'kan, bringer of the void and arbiter of souls! I summon "
 "thee forth from your pit of eternal suffering to aid me now! Hear me, unholy "
 "groom of the darkezt one, lord of...'"
 msgstr ""
 "Barone: «Ascoltami, Sol'kan, signora del vuoto e giudice delle anime! Io ti "
-"invoco dal tuo pozzo di eterna sofferenza per aiutare me adesso! Ascoltami, "
-"terribile sposa del più oscuro signore di...»"
+"invoco dal tuo pozzo di eterna sofferenza per aiutarmi adesso! Ascoltami, "
+"terribile sposa del più ozcuro zignore di...»"
 
 #: Flight_Freedom/utils/story.cfg:231
 msgid "Malakar: 'HIYA!!!'"
