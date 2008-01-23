@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-01-22 00:21+0100\n"
-"PO-Revision-Date: 2007-12-31 17:14+0100\n"
+"PO-Revision-Date: 2008-01-22 21:26+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: Flight_Freedom/_main.cfg:21
 msgid "FtF"
-msgstr ""
+msgstr "Fpll"
 
 #: Flight_Freedom/_main.cfg:22
 msgid "Flight to Freedom"
@@ -43,7 +43,6 @@ msgid "Rebel"
 msgstr "Ribelle"
 
 #: Flight_Freedom/_main.cfg:30
-#, fuzzy
 msgid ""
 "Lead Malakar and his Drake tribe to freedom from the humans!\n"
 " \n"
@@ -51,7 +50,7 @@ msgid ""
 msgstr ""
 "Conduci Malakar e la sua tribù di draghi alla libertà dagli uomini!\n"
 "\n"
-"Version 4.3.3, SOLO per 1.3.9+"
+"Version 4.3.3, SOLO per 1.3.10+"
 
 #: Flight_Freedom/main.cfg:8
 msgid "bombard"
@@ -401,14 +400,16 @@ msgid ""
 "Note for translators: 'wench' here is intended as a fairly mild gender-"
 "specific insult, not to literally mean 'prostitute'."
 msgstr ""
+"Nota per i traduttori: 'wench' è da intendersi come un lieve insulto di "
+"genere, non letteralmente come 'prostituta'."
 
 #: Flight_Freedom/scenarios/02b_Swamps_Jamolar.cfg:125
 msgid ""
 "Oh, Necolar, that wench. When the humans come, I will thank them. Drakes! To "
 "arms, let us drive out these rabble!"
 msgstr ""
-"Oh, Necolar, quella puttana. Quando arriveranno gli uomini, li ringrazierò. "
-"Draghi! Alle armi, scacciamo questa spazzatura!"
+"Oh, Necolar, quella stronzetta. Quando arriveranno gli uomini, li "
+"ringrazierò. Draghi! Alle armi, scacciamo questa spazzatura!"
 
 #: Flight_Freedom/scenarios/02b_Swamps_Jamolar.cfg:130
 msgid ""
@@ -420,7 +421,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/02b_Swamps_Jamolar.cfg:135
 msgid "NOTE: The campaign will not end if Hartholar is killed."
-msgstr ""
+msgstr "NOTA: La campagna non termina se Hartholar venisse ucciso."
 
 #: Flight_Freedom/scenarios/02b_Swamps_Jamolar.cfg:184
 msgid "Hartholar! Who are your allies?"
@@ -666,9 +667,8 @@ msgid "Kzzklk"
 msgstr "Kzzklk"
 
 #: Flight_Freedom/scenarios/03b_Council_of_War.cfg:204
-#, fuzzy
 msgid "End the scenario to continue."
-msgstr "No! Non posso proseguire..."
+msgstr "Finisci lo scenario per continuare."
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:3
 #: Flight_Freedom/units/special/Caravan.cfg:5
@@ -700,11 +700,12 @@ msgstr ""
 "intercettare la carovana."
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:271
-#, fuzzy
 msgid ""
 "Now that I have freed the tribe, I have true warriors at hand, including the "
 "Chieftain of the Jamolar!"
-msgstr "Ora che ho liberato la tribù, ho veri guerrieri a disposizione!"
+msgstr ""
+"Ora che ho liberato la tribù, ho veri guerrieri a disposizione, tra cui il "
+"capitano dei Jamolar!"
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:277
 msgid "Now that I have freed the tribe, I have true warriors at hand!"
@@ -761,6 +762,8 @@ msgid ""
 "NOTE: Since Hartholar is no longer critical from now on, the game will not "
 "end if Hartholar is killed."
 msgstr ""
+"NOTA: Dato che Hartholar non è più decisivo, la partita non termina se "
+"Hartholar venisse ucciso."
 
 #: Flight_Freedom/scenarios/04a_Caravan.cfg:439
 msgid ""
@@ -890,13 +893,12 @@ msgid "Why have these remnants been allowed to survive?"
 msgstr "Perché questi resti sono stati risparmiati?"
 
 #: Flight_Freedom/scenarios/04b_Forest_of_Nightmares.cfg:146
-#, fuzzy
 msgid ""
 "Simply put, no tribe has yet laid claim to this area, and none have seen fit "
 "to cleanse it. They are more interested in their petty feuds."
 msgstr ""
 "È semplice, nessuna tribù ha ancora reclamato questa area e nessuno ha "
-"trovato conveniente ripulirla. Sono più interessati ai loro pietosi feudi."
+"trovato conveniente ripulirla. Sono più interessati ai loro meschini feudi."
 
 #: Flight_Freedom/scenarios/04b_Forest_of_Nightmares.cfg:150
 msgid ""
@@ -977,7 +979,6 @@ msgid "Drakes! Continue traveling southeast, but be on your guard!"
 msgstr "Draghi! Continuate verso sud-est ma siate prudenti!"
 
 #: Flight_Freedom/scenarios/04b_Forest_of_Nightmares.cfg:411
-#, fuzzy
 msgid "This cave is infested with bats!"
 msgstr "La caverna è infestata di pipistrelli!"
 
@@ -1358,7 +1359,7 @@ msgstr ""
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:248
 msgid "NOTE: The campaign will not end if Malakar is defeated."
-msgstr ""
+msgstr "NOTA: La campagna non termina se Malakar fosse sconfitto."
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:259
 msgid ""
@@ -1369,6 +1370,12 @@ msgid ""
 "Hafwyt without first paying every drop of blood we can wring from them. By "
 "honor and by Gar-Alagar, forward!"
 msgstr ""
+"A tutti i draghi abili! Faccio appello a tutti i giuramenti che avete fatto "
+"alle vostre tribù, alle vostre famiglie e a me. Ora, attaccate i loro "
+"comandanti con tutto quello che vi è rimasto. Sì, spade e frecce pungono "
+"ancora, ma nessuno di noi morirà oggi sapendo che abbiamo permesso ai "
+"pellimolli di prendere Hafwyt senza prima pagare con ogni goccia di sangue "
+"che possiamo strappar loro. Per l'onore e per Gar-Alagar, avanti!"
 
 #: Flight_Freedom/scenarios/05b_Hafwyt.cfg:272
 msgid "Retract the drawbridge! Quickly!"
@@ -1620,18 +1627,16 @@ msgstr ""
 "questa forza. Sembra che qualcosa li abbia risvegliati dal loro sonno."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:181
-#, fuzzy
 msgid ""
 "Perhaps I can explain. Humans have invaded Morogor in several places and "
 "butchered my daughter, and are slaughtering drakes by the hundreds, while "
 "your magi are screwing off in the citadel!"
 msgstr ""
 "Forse ho una spiegazione. Gli uomini hanno invaso Morogor in diversi punti e "
-"hanno massacrato mia figlia e facendo strage di migliaia di draghi mentre i "
-"vostri maghi si giravano i pollici nella cittadella!"
+"hanno massacrato mia figlia e stanno massacrando draghi a centinaia mentre i "
+"vostri maghi si girano i pollici nella cittadella!"
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:185
-#, fuzzy
 msgid ""
 "I know full well of the apathy that you speak of. For some reason, many of "
 "my colleagues have lost their ardor. I remember, when they first began their "
@@ -1642,14 +1647,15 @@ msgid ""
 "even above civilized laws and basic morality. Only Quahgakar seems to still "
 "carry the torch of Freon. Only Quahgakar, and I."
 msgstr ""
-"Conosco benessimo l'apatia di cui stai parlando. Per qualche motivo molti "
+"Conosco benissimo l'apatia di cui stai parlando. Per qualche motivo molti "
 "dei miei colleghi hanno perso il loro ardore. Mi ricordo, quando "
 "cominciarono il loro addestramento, quando bramavano la conoscenza. La loro "
 "curiosità, la loro passione. Solo che di recente hanno cominciato a "
 "inseguire strane magie e persino perverse depravazioni, trascurando i loro "
 "studi e ritirandosi dalla vita. Credono che il loro stato di magi li ponga "
-"al di sopra degli altri draghi e persino oltre le leggi e l'etica. Solo "
-"Quahgakar sembra ancora portare la torcia di Freon. Quahgakar solo e io."
+"al di sopra degli altri draghi e persino oltre le leggi e l'etica. Quahgakar "
+"sembra essere l'unico a reggere ancora la torcia di Freon. Solo Quahgakar e "
+"io."
 
 #: Flight_Freedom/scenarios/06b_Mountain_Crypt.cfg:189
 msgid ""
@@ -2140,7 +2146,7 @@ msgstr "Capisco. Hai tutta la mia attenzione, elfo."
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:463
 msgid "Dredgno? Leader?"
-msgstr "Dredgno? Capo?"
+msgstr "Dredgno? Comandante?"
 
 #: Flight_Freedom/scenarios/09_Drake_Escape.cfg:469
 msgid "Our quarrel is not with you. Give us Kogw, and we will leave you be."
@@ -2228,9 +2234,8 @@ msgid "Half-men. Where do these caves reach the surface?"
 msgstr "Mezzi-uomini. Quale di queste gallerie porta alla superficie?"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:330
-#, fuzzy
 msgid "Half...? Are you the blikkers who just smashed up the doorway?"
-msgstr "Mezz...? Siete voi quelli che hanno appena distrutto il portone?"
+msgstr "Mezz...? Siete voi i balenghi che hanno appena distrutto il portone?"
 
 #: Flight_Freedom/scenarios/10_Underground.cfg:335
 msgid "Many elves were in pursuit. We had no other choice."
@@ -2533,7 +2538,6 @@ msgid "We seek only to leave."
 msgstr "Stiamo solo cercando di andarcene."
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:178
-#, fuzzy
 msgid ""
 "Be that as it may, you're tearing up our tunnels and profaning our land by "
 "dragging the ding-blasted elves everywhere."
@@ -2602,9 +2606,8 @@ msgstr ""
 "qualsiasi momento! Uscite tutti, subito!"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:266
-#, fuzzy
 msgid "Malakar has 4 turns to escape the cave-in."
-msgstr "Rimangono quattro turni a Malakar per lasciare le caverne."
+msgstr "Rimangono quattro turni a Malakar per uscire dalle caverne"
 
 #: Flight_Freedom/scenarios/12_Rockfall.cfg:338
 msgid ""
@@ -2916,7 +2919,6 @@ msgstr ""
 "siamo ripartiti a vele spiegate di nuovo verso nord."
 
 #: Flight_Freedom/scenarios/16_Exodus.cfg:158
-#, fuzzy
 msgid "North? Wouldn't a, y'know, daring rescue been more appropriate?"
 msgstr ""
 "Nord? Non sarebbe, diciamo, più appropriato tentare un intrepido salvataggio?"
@@ -4668,9 +4670,8 @@ msgstr ""
 "oppongono a noi! Non prendete prigionieri e non abbiate pietà!"
 
 #: Flight_Freedom/utils/deaths.cfg:129
-#, fuzzy
 msgid "No! Hartholar is dead!"
-msgstr "Basta! Hartholar, per l'ultima volta arrenditi!"
+msgstr "No! Hartholar è morto!"
 
 #: Flight_Freedom/utils/deaths.cfg:133
 msgid ""
@@ -4678,6 +4679,9 @@ msgid ""
 "- your people - still live on, and you are their chief. You cannot falter "
 "now."
 msgstr ""
+"Devi continuare questa missione senza di me, Malakar. Anche se io muoio, i "
+"draghi - la tua gente - vivranno ancora e tu sei il loro capo. Ora non puoi "
+"esitare."
 
 #: Flight_Freedom/utils/deaths.cfg:153
 msgid "This is the end... of the drakes."
@@ -5529,14 +5533,12 @@ msgstr ""
 "mani degli uomini."
 
 #: Flight_Freedom/utils/story.cfg:629
-#, fuzzy
 msgid ""
 "With the might of all the other drake tribes behind him, Malakar struck the "
 "humans again and liberated their brothers still in bondage."
 msgstr ""
-"Con la forza di tutte le altre tribù dei draghi a sostenerlo, Malakar fu in "
-"grado di colpire ripetutamente gli uomini e di liberare i fratelli ancora in "
-"prigionia."
+"Con la forza di tutte le altre tribù dei draghi a sostenerlo, Malakar colpì "
+"ripetutamente gli uomini e liberò i fratelli ancora in prigionia."
 
 #: Flight_Freedom/utils/story.cfg:633
 msgid ""
@@ -5594,128 +5596,118 @@ msgstr ""
 "cavalli di nuovo al porto."
 
 #: Flight_Freedom/utils/story.cfg:685
-#, fuzzy
 msgid ""
 "Malakar: 'Many have died today. Far too many, all because of petty racism.'"
 msgstr ""
-"Oggi sono morti in tanti. Veramente troppi, solo per del meschino razzismo."
+"Malakar: «Oggi sono morti in tanti. Veramente troppi, solo per del meschino "
+"razzismo.»"
 
 #: Flight_Freedom/utils/story.cfg:690
-#, fuzzy
 msgid ""
 "Hartholar: 'Malakar, I must admit that you have great prowess, both martial "
 "and intellectual. I was wrong in opposing you, and I repent with my scar of "
 "penance.'"
 msgstr ""
-"Malakar, devo ammettere che sei stato capace di grandi prodezze, marziali e "
-"intellettuali. Mi sbagliavo a oppormi a te e me ne rammarico con la mia "
-"cicatrice di penitenza."
+"Hartholar: «Malakar, devo ammettere che sei stato capace di grandi prodezze, "
+"marziali e intellettuali. Mi sbagliavo a oppormi a te e me ne rammarico con "
+"la mia cicatrice di penitenza.»"
 
 #: Flight_Freedom/utils/story.cfg:695
-#, fuzzy
 msgid ""
 "Malakar: 'Very well, Hartholar. Let us strive to put this matter behind us, "
 "but do not dare to speak ill of Necolar. Who is this to my right?'"
 msgstr ""
-"Benissimo, Hartholar. Sforziamoci di lasciarci alle spalle questa faccenda, "
-"ma non osare più parlare male di Necolar. Chi è questi alla mia destra?"
+"Malakar: «Benissimo, Hartholar. Sforziamoci di lasciarci alle spalle questa "
+"faccenda, ma non osare più parlare male di Necolar. Chi è questi alla mia "
+"destra?»"
 
 #: Flight_Freedom/utils/story.cfg:700
-#, fuzzy
 msgid ""
 "Hartholar: 'He is Kzzklk, the leader of the saurians that opposed you "
 "earlier, under my directive. What is your plan?'"
 msgstr ""
-"È Kzzklk, capo dei sauri che prima si opponevano a noi, sotto i miei ordini. "
-"Qual è il tuo piano?"
+"Hartholar: «È Kzzklk, capo dei sauri che prima si opponevano a noi, sotto i "
+"miei ordini. Qual è il tuo piano?»"
 
 #: Flight_Freedom/utils/story.cfg:705
-#, fuzzy
 msgid ""
 "Malakar: 'Even with the might of both of our tribes, we cannot fight the "
 "humans by ourselves. I have seen their army, and it is not only large, but "
 "elite.'"
 msgstr ""
-"Anche con la forza delle nostre due tribù, non possiamo combattere gli "
-"uomini da soli. Ho visto il loro esercito, che non solo è enorme, ma anche "
-"di elite."
+"Malakar: «Anche con la forza delle nostre due tribù, non possiamo combattere "
+"gli uomini da soli. Ho visto il loro esercito, che non solo è enorme, ma "
+"anche di elite.»"
 
 #: Flight_Freedom/utils/story.cfg:710
-#, fuzzy
 msgid "Kzzklk: 'My sssaurians will ssstand wwittth youuu.'"
-msgstr "I miei sssauri ssstaranno con te."
+msgstr "Kzzklk: «I miei sssauri ssstaranno con te.»"
 
 #: Flight_Freedom/utils/story.cfg:715
-#, fuzzy
 msgid ""
 "Malakar: 'Kzzklk, I am honored. We can use every soldier that is willing to "
 "fight with us. However, we will need to leave these swamps soon, before the "
 "main human host arrives.'"
 msgstr ""
-"Kzzklk, sono onorato. Possiamo impiegare ogni soldato che vorrà combattere "
-"con noi. Comunque dobbiamo lasciare queste paludi al più presto, prima che "
-"arrivi il grosso dell'esercito degli uomini."
+"Malakar: «Kzzklk, sono onorato. Possiamo impiegare ogni soldato che vorrà "
+"combattere con noi. Comunque dobbiamo lasciare queste paludi al più presto, "
+"prima che arrivi il grosso dell'esercito degli uomini.»"
 
 #: Flight_Freedom/utils/story.cfg:720
-#, fuzzy
 msgid ""
 "Malakar: 'Our ultimate goal should be the Obsidian Citadel, the dwelling "
 "place of the High Magi.'"
 msgstr ""
-"L'obiettivo finale dovrebbe essere la cittadella di ossidiana, dove abitano "
-"gli alti maghi."
+"Malakar: «L'obiettivo finale dovrebbe essere la cittadella di ossidiana, dove "
+"abitano gli alti maghi.»"
 
 #: Flight_Freedom/utils/story.cfg:725
-#, fuzzy
 msgid ""
 "Hartholar: 'But, Malakar, how will you convince them to leave their "
 "cloisters and join us?'"
 msgstr ""
-"Ma, Malakar, come li convincera a lasciare i loro chiostri e unirsi a noi?"
+"Hartholar: «Ma, Malakar, come li convincera a lasciare i loro chiostri e "
+"unirsi a noi?»"
 
 #: Flight_Freedom/utils/story.cfg:730
-#, fuzzy
 msgid ""
 "Malakar: 'They are our only hope. Just as their forerunners, led by the "
 "great drake Freon, cleared this island of the evils that once lived on it, "
 "they have the power to clear this island once again, this time from the "
 "evils that dare to invade it.'"
 msgstr ""
-"Sono la nostra unica speranza. Come i loro antenati, guidati dal rgande "
-"drago Freon, liberarono questa isola dal male che l'abitava un tempo, hanno "
-"il potere di liberare di nuovo questa isola, questa volta dal male che osa "
-"invaderla."
+"Malakar: «Sono la nostra unica speranza. Come i loro antenati, guidati dal "
+"rgande drago Freon, liberarono questa isola dal male che l'abitava un tempo, "
+"hanno il potere di liberare di nuovo questa isola, questa volta dal male che "
+"osa invaderla.»"
 
 #: Flight_Freedom/utils/story.cfg:735
-#, fuzzy
 msgid ""
 "Hartholar: 'You speak wisdom, Malakar. Perhaps the saurians can cover our "
 "retreat? They know the swamps well, much better than any drake, and can wage "
 "guerilla war against the thinskins.'"
 msgstr ""
-"Parli saggiamente, Malakar. Forse i sauri potrebbero coprire la nostra "
-"ritirata? Conoscono bene la palude, molto meglio di qualunque drago e "
-"possono compiere azioni di guerriglia contro i pelli-molli."
+"Hartholar: «Parli saggiamente, Malakar. Forse i sauri potrebbero coprire la "
+"nostra ritirata? Conoscono bene la palude, molto meglio di qualunque drago e "
+"possono compiere azioni di guerriglia contro i pelli-molli.»"
 
 #: Flight_Freedom/utils/story.cfg:740
-#, fuzzy
 msgid "Malakar: 'I agree. Kzzklk, what say you?'"
-msgstr "Sono d'accordo. Kzzklk, cosa ne dici?"
+msgstr "Malakar: «Sono d'accordo. Kzzklk, cosa ne dici?»"
 
 #: Flight_Freedom/utils/story.cfg:745
-#, fuzzy
 msgid ""
 "Kzzklk: 'Yesss. Howwwevver, sssome of myyy warrriorrrss wwwant to followww "
 "yyoou.'"
-msgstr "Sssì. Perooò, alcuni deeei mieeei guerrieri vorrrebberrro ssseguirti."
+msgstr ""
+"Kzzklk: «Sssì. Perooò, alcuni deeei mieeei guerrieri vorrrebberrro "
+"ssseguirti.»"
 
 #: Flight_Freedom/utils/story.cfg:750
-#, fuzzy
 msgid "Malakar: 'I accept their offer. Hartholar, have we decided?'"
-msgstr "Accetto la loro offerta. Hartholar, abbiamo deciso?"
+msgstr "Malakar: «Accetto la loro offerta. Hartholar, abbiamo deciso?»"
 
 #: Flight_Freedom/utils/story.cfg:755
-#, fuzzy
 msgid ""
 "Hartholar: 'The route to the Citadel will be treacherous. First, we must "
 "reach - and possibly retake - the stronghold at Hafwyt, across the Forest of "
@@ -5723,51 +5715,48 @@ msgid ""
 "of the ancient Mal-Bronam. Only then will we reach the Citadel... which may "
 "harbor dangers and guardians of its own.'"
 msgstr ""
-"La strada per la cittadella sarà insidiosa. Per prima cosa, dobbiamo "
-"raggiungere - e magari riconquistare - la fortezza di Hafwyt, oltre la "
-"foresta degli incubi. Poi, dobbiamo attraversare le montagne Harkon e i "
+"Hartholar: «La strada per la cittadella sarà insidiosa. Per prima cosa, "
+"dobbiamo raggiungere - e magari riconquistare - la fortezza di Hafwyt, oltre "
+"la foresta degli incubi. Poi, dobbiamo attraversare le montagne Harkon e i "
 "luoghi dove riposa l'antico Mal-Bronam. Sollo allora raggiungeremo la "
-"cittadella--- che potrebbe avere proprie insidie e custodi."
+"cittadella--- che potrebbe avere proprie insidie e custodi.»"
 
 #: Flight_Freedom/utils/story.cfg:760
-#, fuzzy
 msgid "Hartholar: 'But, I am decided. This journey must be undertaken.'"
-msgstr "Però io sono deciso. Bisogna fare questo viaggio."
+msgstr "Hartholar: «Però io sono deciso. Bisogna fare questo viaggio.»"
 
 #: Flight_Freedom/utils/story.cfg:765
-#, fuzzy
 msgid ""
 "Malakar: 'Yes. Drakes! We must tarry no longer! Prepare to move to the "
 "southeast!'"
 msgstr ""
-"Sì. Draghi! Non dobbiamo più indugiare! Preparatevi a dirigervi a sud-est!"
+"Malakar: «Sì. Draghi! Non dobbiamo più indugiare! Preparatevi a dirigervi a "
+"sud-est!»"
 
 #: Flight_Freedom/utils/story.cfg:776
-#, fuzzy
 msgid ""
 "Malakar: 'The fog is thickening down there. I hope that this is not a sign "
 "of worse things to come.'"
 msgstr ""
-"Sta scendendo la nebbia. Speriamo che non preannunci l'arrivo di cose "
-"peggiori."
+"Malakar: «Sta scendendo la nebbia. Speriamo che non preannunci l'arrivo di "
+"cose peggiori.»"
 
 #: Flight_Freedom/utils/story.cfg:787
-#, fuzzy
 msgid ""
 "Hartholar: 'The mighty stronghold of Hafwyt lies before us. Here, we can "
 "rest and recruit more warriors, perhaps among the Jamolar expatriates here.'"
 msgstr ""
-"Abbiamo di fronte la potente fortezza di Hafwyt. Qui, possiamo riposarci e "
-"reclutare qualche altro guerriero, forse tra i Jamolar espatriati qua."
+"Hartholar: «Abbiamo di fronte la potente fortezza di Hafwyt. Qui, possiamo "
+"riposarci e reclutare qualche altro guerriero, forse tra i Jamolar "
+"espatriati qua.»"
 
 #: Flight_Freedom/utils/story.cfg:792
-#, fuzzy
 msgid ""
 "Malakar: 'We cannot rest now. Look! The softskins are laying siege to the "
 "fortress!'"
 msgstr ""
-"Non possiamo riposare ora. Guardate i pellimolli stanno assediando la "
-"fortezza!"
+"Malakar: «Non possiamo riposare ora. Guardate i pellimolli stanno assediando "
+"la fortezza!»"
 
 #: Flight_Freedom/utils/story.cfg:803
 msgid ""
