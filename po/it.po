@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-01-22 00:21+0100\n"
-"PO-Revision-Date: 2008-01-22 21:26+0100\n"
+"PO-Revision-Date: 2008-02-01 14:37+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -3542,14 +3542,12 @@ msgid "female^Pirate Schooner"
 msgstr "Goletta pirata"
 
 #: Flight_Freedom/units/boats/Pirate_Schooner.cfg:21
-#, fuzzy
 msgid ""
 "Pirates are the aquatic vector of Thieves. Manned by human renegades, these "
 "widely feared ships ply the seaways, looking for plunder."
 msgstr ""
-"I pirati sono i trasportatori acquatici dei ladri. Equipaggiate da uomini "
-"rinnegati, queste navi solcano i mari alla ricerca di bottino. Sono "
-"temutissime per questa loro caratteristica."
+"Le golette pirata sono i trasportatori acquatici dei ladri. Equipaggiate da "
+"uomini rinnegati, queste navi solcano i mari alla ricerca di bottino."
 
 #: Flight_Freedom/units/drakes/Chieftain.cfg:6
 #: Flight_Freedom/units/fake_units.cfg:6
